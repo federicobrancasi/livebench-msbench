@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-08-19 00:00:00",
+  "contest_id": "biweekly-contest-111",
+  "difficulty": "medium",
+  "entry_point": "canMakeSubsequence",
+  "platform": "leetcode",
+  "question_id": "3018_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"abc\"\n\"ad\"",
+      "output": "true"
+    }
+  ],
+  "timeout_sec": 10
+}

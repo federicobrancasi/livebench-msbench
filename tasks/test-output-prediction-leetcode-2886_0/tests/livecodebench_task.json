@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-08-06 00:00:00",
+  "contest_id": "weekly-contest-357",
+  "difficulty": "easy",
+  "entry_point": "finalString",
+  "platform": "leetcode",
+  "question_id": "2886_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"string\"",
+      "output": "\"rtsng\""
+    }
+  ],
+  "timeout_sec": 10
+}

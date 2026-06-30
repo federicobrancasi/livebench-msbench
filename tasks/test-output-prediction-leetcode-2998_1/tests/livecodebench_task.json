@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-09-03 00:00:00",
+  "contest_id": "weekly-contest-361",
+  "difficulty": "easy",
+  "entry_point": "countSymmetricIntegers",
+  "platform": "leetcode",
+  "question_id": "2998_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1200\n1230",
+      "output": "4"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-05-28 00:00:00",
+  "contest_id": "weekly-contest-347",
+  "difficulty": "medium",
+  "entry_point": "minimumCost",
+  "platform": "leetcode",
+  "question_id": "2817_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"0011\"",
+      "output": "2"
+    }
+  ],
+  "timeout_sec": 10
+}

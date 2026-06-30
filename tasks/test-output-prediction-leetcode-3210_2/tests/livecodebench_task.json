@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-11-25 00:00:00",
+  "contest_id": "weekly-contest-373",
+  "difficulty": "medium",
+  "entry_point": "beautifulSubstrings",
+  "platform": "leetcode",
+  "question_id": "3210_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"bcdf\"\n1",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-12-23 00:00:00",
+  "contest_id": "weekly-contest-377",
+  "difficulty": "medium",
+  "entry_point": "minimumCost",
+  "platform": "leetcode",
+  "question_id": "3235_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"abcd\"\n\"acbe\"\n[\"a\", \"b\", \"c\", \"c\", \"e\", \"d\"]\n[\"b\", \"c\", \"b\", \"e\", \"b\", \"e\"]\n[2, 5, 5, 1, 2, 20]",
+      "output": "28"
+    }
+  ],
+  "timeout_sec": 10
+}

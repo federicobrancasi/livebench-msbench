@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-10-08 00:00:00",
+  "contest_id": "weekly-contest-366",
+  "difficulty": "medium",
+  "entry_point": "minOperations",
+  "platform": "leetcode",
+  "question_id": "3033_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"1100011000\"\n\"0101001010\"\n2",
+      "output": "4"
+    }
+  ],
+  "timeout_sec": 10
+}

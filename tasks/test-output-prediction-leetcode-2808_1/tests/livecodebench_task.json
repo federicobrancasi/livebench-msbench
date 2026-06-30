@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-06-18 00:00:00",
+  "contest_id": "weekly-contest-350",
+  "difficulty": "hard",
+  "entry_point": "paintWalls",
+  "platform": "leetcode",
+  "question_id": "2808_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[2, 3, 4, 2]\n[1, 1, 1, 1]",
+      "output": "4"
+    }
+  ],
+  "timeout_sec": 10
+}

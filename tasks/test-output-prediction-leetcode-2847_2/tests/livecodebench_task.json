@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-06-24 00:00:00",
+  "contest_id": "biweekly-contest-107",
+  "difficulty": "easy",
+  "entry_point": "maximumNumberOfStringPairs",
+  "platform": "leetcode",
+  "question_id": "2847_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[\"aa\", \"ab\"]",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

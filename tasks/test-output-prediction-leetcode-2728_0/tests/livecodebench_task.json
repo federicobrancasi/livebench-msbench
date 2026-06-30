@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-05-13 00:00:00",
+  "contest_id": "biweekly-contest-104",
+  "difficulty": "medium",
+  "entry_point": "matrixSum",
+  "platform": "leetcode",
+  "question_id": "2728_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[[7, 2, 1], [6, 4, 2], [6, 5, 3], [3, 2, 1]]",
+      "output": "15"
+    }
+  ],
+  "timeout_sec": 10
+}

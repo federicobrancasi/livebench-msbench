@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-07-16 00:00:00",
+  "contest_id": "weekly-contest-354",
+  "difficulty": "hard",
+  "entry_point": "longestValidSubstring",
+  "platform": "leetcode",
+  "question_id": "2884_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"leetcode\"\n[\"de\", \"le\", \"e\"]",
+      "output": "4"
+    }
+  ],
+  "timeout_sec": 10
+}

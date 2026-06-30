@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-05-27 00:00:00",
+  "contest_id": "biweekly-contest-105",
+  "difficulty": "hard",
+  "entry_point": "canTraverseAllPairs",
+  "platform": "leetcode",
+  "question_id": "2827_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[4, 3, 12, 8]",
+      "output": "true"
+    }
+  ],
+  "timeout_sec": 10
+}

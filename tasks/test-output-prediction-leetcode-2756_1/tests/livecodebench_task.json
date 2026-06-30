@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-05-27 00:00:00",
+  "contest_id": "biweekly-contest-105",
+  "difficulty": "easy",
+  "entry_point": "buyChoco",
+  "platform": "leetcode",
+  "question_id": "2756_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[3, 2, 3]\n3",
+      "output": "3"
+    }
+  ],
+  "timeout_sec": 10
+}

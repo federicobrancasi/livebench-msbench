@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-12-23 00:00:00",
+  "contest_id": "biweekly-contest-120",
+  "difficulty": "easy",
+  "entry_point": "incremovableSubarrayCount",
+  "platform": "leetcode",
+  "question_id": "3252_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[8, 7, 6, 6]",
+      "output": "3"
+    }
+  ],
+  "timeout_sec": 10
+}

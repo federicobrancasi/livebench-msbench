@@ -1,0 +1,17 @@
+{
+  "contest_date": "2024-01-27 00:00:00",
+  "contest_id": "weekly-contest-382",
+  "difficulty": "hard",
+  "entry_point": "minOrAfterOperations",
+  "platform": "leetcode",
+  "question_id": "3261_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[10, 7, 10, 3, 9, 14, 9, 4]\n1",
+      "output": "15"
+    }
+  ],
+  "timeout_sec": 10
+}

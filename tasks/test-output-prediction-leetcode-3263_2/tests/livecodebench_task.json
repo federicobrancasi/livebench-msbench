@@ -1,0 +1,17 @@
+{
+  "contest_date": "2024-01-20 00:00:00",
+  "contest_id": "biweekly-contest-122",
+  "difficulty": "easy",
+  "entry_point": "minimumCost",
+  "platform": "leetcode",
+  "question_id": "3263_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[10, 3, 1, 1]",
+      "output": "12"
+    }
+  ],
+  "timeout_sec": 10
+}

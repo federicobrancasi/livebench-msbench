@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-05-13 00:00:00",
+  "contest_id": "biweekly-contest-104",
+  "difficulty": "hard",
+  "entry_point": "sumOfPower",
+  "platform": "leetcode",
+  "question_id": "2784_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[2, 1, 4]",
+      "output": "141"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,17 @@
+{
+  "contest_date": "2024-02-03 00:00:00",
+  "contest_id": "weekly-contest-383",
+  "difficulty": "easy",
+  "entry_point": "returnToBoundaryCount",
+  "platform": "leetcode",
+  "question_id": "3311_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[3, 2, -3, -4]",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

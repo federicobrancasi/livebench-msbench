@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-10-22 00:00:00",
+  "contest_id": "weekly-contest-368",
+  "difficulty": "easy",
+  "entry_point": "minimumSum",
+  "platform": "leetcode",
+  "question_id": "3176_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[5, 4, 8, 7, 10, 2]",
+      "output": "13"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-07-30 00:00:00",
+  "contest_id": "weekly-contest-356",
+  "difficulty": "medium",
+  "entry_point": "minimumString",
+  "platform": "leetcode",
+  "question_id": "2877_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"abc\"\n\"bca\"\n\"aaa\"",
+      "output": "\"aaabca\""
+    }
+  ],
+  "timeout_sec": 10
+}

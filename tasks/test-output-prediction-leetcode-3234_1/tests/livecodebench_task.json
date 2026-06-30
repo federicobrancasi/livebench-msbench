@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-12-09 00:00:00",
+  "contest_id": "weekly-contest-375",
+  "difficulty": "medium",
+  "entry_point": "getGoodIndices",
+  "platform": "leetcode",
+  "question_id": "3234_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[[39, 3, 1000, 1000]]\n17",
+      "output": "[]"
+    }
+  ],
+  "timeout_sec": 10
+}

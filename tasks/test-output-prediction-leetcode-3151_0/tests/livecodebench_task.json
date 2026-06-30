@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-10-08 00:00:00",
+  "contest_id": "weekly-contest-366",
+  "difficulty": "medium",
+  "entry_point": "minProcessingTime",
+  "platform": "leetcode",
+  "question_id": "3151_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[8, 10]\n[2, 2, 3, 1, 8, 7, 4, 5]",
+      "output": "16"
+    }
+  ],
+  "timeout_sec": 10
+}

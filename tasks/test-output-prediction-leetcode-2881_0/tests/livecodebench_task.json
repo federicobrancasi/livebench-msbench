@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-07-23 00:00:00",
+  "contest_id": "weekly-contest-355",
+  "difficulty": "easy",
+  "entry_point": "splitWordsBySeparator",
+  "platform": "leetcode",
+  "question_id": "2881_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[\"one.two.three\", \"four.five\", \"six\"]\n\".\"",
+      "output": "[\"one\", \"two\", \"three\", \"four\", \"five\", \"six\"]"
+    }
+  ],
+  "timeout_sec": 10
+}

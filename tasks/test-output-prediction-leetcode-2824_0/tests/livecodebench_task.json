@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-06-10 00:00:00",
+  "contest_id": "biweekly-contest-106",
+  "difficulty": "easy",
+  "entry_point": "isFascinating",
+  "platform": "leetcode",
+  "question_id": "2824_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "192",
+      "output": "true"
+    }
+  ],
+  "timeout_sec": 10
+}

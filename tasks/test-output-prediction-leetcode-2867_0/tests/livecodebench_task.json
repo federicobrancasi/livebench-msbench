@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-06-25 00:00:00",
+  "contest_id": "weekly-contest-351",
+  "difficulty": "medium",
+  "entry_point": "numberOfGoodSubarraySplits",
+  "platform": "leetcode",
+  "question_id": "2867_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[0, 1, 0, 0, 1]",
+      "output": "3"
+    }
+  ],
+  "timeout_sec": 10
+}

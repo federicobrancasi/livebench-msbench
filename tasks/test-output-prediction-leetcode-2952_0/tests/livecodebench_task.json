@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-08-05 00:00:00",
+  "contest_id": "biweekly-contest-110",
+  "difficulty": "hard",
+  "entry_point": "minimumTime",
+  "platform": "leetcode",
+  "question_id": "2952_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[1, 2, 3]\n[1, 2, 3]\n4",
+      "output": "3"
+    }
+  ],
+  "timeout_sec": 10
+}

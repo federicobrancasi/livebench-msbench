@@ -1,0 +1,17 @@
+{
+  "contest_date": "2024-01-27 00:00:00",
+  "contest_id": "weekly-contest-382",
+  "difficulty": "easy",
+  "entry_point": "countKeyChanges",
+  "platform": "leetcode",
+  "question_id": "3312_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"AaAaAaaA\"",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

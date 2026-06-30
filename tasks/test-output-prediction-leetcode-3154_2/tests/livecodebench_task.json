@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-10-01 00:00:00",
+  "contest_id": "weekly-contest-365",
+  "difficulty": "easy",
+  "entry_point": "maximumTripletValue",
+  "platform": "leetcode",
+  "question_id": "3154_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[1, 2, 3]",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

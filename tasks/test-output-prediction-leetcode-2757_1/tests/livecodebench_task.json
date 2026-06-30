@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-06-04 00:00:00",
+  "contest_id": "weekly-contest-348",
+  "difficulty": "hard",
+  "entry_point": "count",
+  "platform": "leetcode",
+  "question_id": "2757_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"1\"\n\"5\"\n1\n5",
+      "output": "5"
+    }
+  ],
+  "timeout_sec": 10
+}

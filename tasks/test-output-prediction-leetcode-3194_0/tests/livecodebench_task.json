@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-11-25 00:00:00",
+  "contest_id": "biweekly-contest-118",
+  "difficulty": "easy",
+  "entry_point": "findWordsContaining",
+  "platform": "leetcode",
+  "question_id": "3194_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[\"leet\", \"code\"]\n\"e\"",
+      "output": "[0, 1]"
+    }
+  ],
+  "timeout_sec": 10
+}

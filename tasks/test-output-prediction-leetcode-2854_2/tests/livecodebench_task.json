@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-06-24 00:00:00",
+  "contest_id": "biweekly-contest-107",
+  "difficulty": "medium",
+  "entry_point": "minimizeConcatenatedLength",
+  "platform": "leetcode",
+  "question_id": "2854_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[\"aaa\", \"c\", \"aba\"]",
+      "output": "6"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-12-02 00:00:00",
+  "contest_id": "weekly-contest-374",
+  "difficulty": "medium",
+  "entry_point": "minimumAddedCoins",
+  "platform": "leetcode",
+  "question_id": "3231_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[1, 4, 10, 5, 7, 19]\n19",
+      "output": "1"
+    }
+  ],
+  "timeout_sec": 10
+}

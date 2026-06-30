@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-12-23 00:00:00",
+  "contest_id": "weekly-contest-377",
+  "difficulty": "medium",
+  "entry_point": "minimumCost",
+  "platform": "leetcode",
+  "question_id": "3235_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"abcd\"\n\"abce\"\n[\"a\"]\n[\"e\"]\n[10000]",
+      "output": "-1"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-05-28 00:00:00",
+  "contest_id": "weekly-contest-347",
+  "difficulty": "easy",
+  "entry_point": "removeTrailingZeros",
+  "platform": "leetcode",
+  "question_id": "2819_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"51230100\"",
+      "output": "\"512301\""
+    }
+  ],
+  "timeout_sec": 10
+}

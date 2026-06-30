@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-12-09 00:00:00",
+  "contest_id": "biweekly-contest-119",
+  "difficulty": "medium",
+  "entry_point": "maxSubarrayLength",
+  "platform": "leetcode",
+  "question_id": "3225_2",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[5, 5, 5, 5, 5, 5, 5]\n4",
+      "output": "4"
+    }
+  ],
+  "timeout_sec": 10
+}

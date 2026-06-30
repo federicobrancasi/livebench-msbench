@@ -1,0 +1,17 @@
+{
+  "contest_date": "2024-01-27 00:00:00",
+  "contest_id": "weekly-contest-382",
+  "difficulty": "medium",
+  "entry_point": "maximumLength",
+  "platform": "leetcode",
+  "question_id": "3299_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[1, 3, 2, 4]",
+      "output": "1"
+    }
+  ],
+  "timeout_sec": 10
+}

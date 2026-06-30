@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-05-13 00:00:00",
+  "contest_id": "biweekly-contest-104",
+  "difficulty": "easy",
+  "entry_point": "countSeniors",
+  "platform": "leetcode",
+  "question_id": "2727_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[\"7868190130M7522\", \"5303914400F9211\", \"9273338290F4010\"]",
+      "output": "2"
+    }
+  ],
+  "timeout_sec": 10
+}

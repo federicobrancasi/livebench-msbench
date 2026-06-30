@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-11-11 00:00:00",
+  "contest_id": "biweekly-contest-117",
+  "difficulty": "medium",
+  "entry_point": "stringCount",
+  "platform": "leetcode",
+  "question_id": "3200_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "4",
+      "output": "12"
+    }
+  ],
+  "timeout_sec": 10
+}

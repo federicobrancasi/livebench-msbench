@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-12-09 00:00:00",
+  "contest_id": "biweekly-contest-119",
+  "difficulty": "easy",
+  "entry_point": "findIntersectionValues",
+  "platform": "leetcode",
+  "question_id": "3206_0",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[4, 3, 2, 3, 1]\n[2, 2, 5, 2, 3, 6]",
+      "output": "[3, 4]"
+    }
+  ],
+  "timeout_sec": 10
+}

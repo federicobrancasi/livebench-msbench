@@ -1,0 +1,17 @@
+{
+  "contest_date": "2023-12-16 00:00:00",
+  "contest_id": "weekly-contest-376",
+  "difficulty": "easy",
+  "entry_point": "findMissingAndRepeatedValues",
+  "platform": "leetcode",
+  "question_id": "3227_1",
+  "scenario": "test_output_prediction",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[[9, 1, 7], [8, 9, 2], [3, 4, 6]]",
+      "output": "[9, 5]"
+    }
+  ],
+  "timeout_sec": 10
+}
