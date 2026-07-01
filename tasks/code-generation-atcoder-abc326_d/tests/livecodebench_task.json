@@ -1,0 +1,69 @@
+{
+  "contest_date": "2023-10-28T00:00:00",
+  "contest_id": "abc326",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc326_d",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "3\nBCB\nABC\n",
+      "output": "No\n"
+    },
+    {
+      "input": "3\nAAC\nBCA\n",
+      "output": "No\n"
+    },
+    {
+      "input": "3\nACB\nAAC\n",
+      "output": "No\n"
+    },
+    {
+      "input": "3\nBCC\nAAC\n",
+      "output": "No\n"
+    },
+    {
+      "input": "4\nABCC\nBCCA\n",
+      "output": "No\n"
+    },
+    {
+      "input": "4\nCCAB\nCBCA\n",
+      "output": "No\n"
+    },
+    {
+      "input": "4\nCCCC\nCCCA\n",
+      "output": "No\n"
+    },
+    {
+      "input": "4\nAAAA\nACAA\n",
+      "output": "No\n"
+    },
+    {
+      "input": "3\nABC\nABC\n",
+      "output": "Yes\nABC\nBCA\nCAB\n"
+    },
+    {
+      "input": "5\nAABAC\nAABCA\n",
+      "output": "Yes\n.ABC.\nABC..\nBC..A\n..ABC\nC..AB\n"
+    },
+    {
+      "input": "5\nAABAC\nABCAC\n",
+      "output": "Yes\nABC..\n.AB.C\nBC.A.\n..ACB\nC..BA\n"
+    },
+    {
+      "input": "5\nAABAC\nABCCA\n",
+      "output": "Yes\nABC..\n.ABC.\nBC..A\n..ABC\nC..AB\n"
+    },
+    {
+      "input": "5\nABCBC\nACAAB\n",
+      "output": "Yes\nAC..B\n.BA.C\nC.BA.\nBA.C.\n..CBA\n"
+    },
+    {
+      "input": "3\nAAA\nBBB\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-09-16T00:00:00",
+  "contest_id": "abc320",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc320_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "YJDXXCCJTGQFBFJJMUEDBHPSYSPHBDEUMJJFBFQVRTRSRFZYZGXRCCNV\n",
+      "output": "29\n"
+    },
+    {
+      "input": "UYWZYYUZUYUUZUYUZZYYZUZZUYYZWUZUYZUYZWZUYZWYUZZZUZYZYYUYYY\n",
+      "output": "5\n"
+    },
+    {
+      "input": "ZJKHYXMDMXYHLWGPVHNTXNMHJSJAFMYXSTCWWXEMIIPJVCHZWBJVZSTBGNGEWCCRGZL\n",
+      "output": "9\n"
+    },
+    {
+      "input": "AIZZZAIAIAZIZAZZAIAAAIIZAIAZIZAIZAZZIAAZIZAAZIIAIZAZAZZIZZAZZIIZIIIAZ\n",
+      "output": "9\n"
+    },
+    {
+      "input": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR\n",
+      "output": "69\n"
+    },
+    {
+      "input": "XXOHMIVCLTKPSGPOEAWBCSPXBYOUPLROPLLPORLPUOYBXPSCBWAEOPGSPKTSYBHRAHREZKVCIMPAJEJRQDBN\n",
+      "output": "50\n"
+    },
+    {
+      "input": "DXMBRRUNLYECXVZTJTHIHVQWGAWXTATVHLRDDVHBMZAMYZAUOHORXQXPMUVCSTGFBFDKQIBPBWKAKFZRDRQIVV\n",
+      "output": "3\n"
+    },
+    {
+      "input": "GGGGAGAAGAAAAGAAGAGGAGAAGAAAAAAAGAAGAGGGAAGAAGAAAGGGGGAGAAAGGGAAGGGAGAAGAAAGGAGAGAAGGGAGAAAAAAAAGGGG\n",
+      "output": "21\n"
+    },
+    {
+      "input": "ARQSHHPTPXSVVUXUUFDSTVVRONXSSZPYBCSPKZPXKUEMQCGXCIBBOLUPNIAXDRRDXAINPULOBBICXGCQMEUKXPZKPSCBYPZSSXNE\n",
+      "output": "74\n"
+    },
+    {
+      "input": "VRCJQYGWWMIEYTHENSIKNWWZUAUZWWNKISNEHTYYKSJQSYHVCCRKIDNKXQKTXLTAQYYAWLMNQZYFQVPNSWIQMXNAGPBJKRQYOAMI\n",
+      "output": "27\n"
+    },
+    {
+      "input": "PXVVSETIVEBKVNSFNDEELWTKMXJMIXNIJOQMZQYDIRETHYRJEUSAAWIASJJNYMRTOBNAZBKXGYRYGXKBZANBOTRMYNJJSAIWAASJ\n",
+      "output": "49\n"
+    },
+    {
+      "input": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR\n",
+      "output": "100\n"
+    },
+    {
+      "input": "TOYOTA\n",
+      "output": "5\n"
+    },
+    {
+      "input": "ABCDEFG\n",
+      "output": "1\n"
+    },
+    {
+      "input": "AAAAAAAAAA\n",
+      "output": "10\n"
+    }
+  ],
+  "timeout_sec": 10
+}

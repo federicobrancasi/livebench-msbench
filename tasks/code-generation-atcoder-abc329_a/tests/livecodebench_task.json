@@ -1,0 +1,49 @@
+{
+  "contest_date": "2023-11-18T00:00:00",
+  "contest_id": "abc329",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc329_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "CIHJFXFAA\n",
+      "output": "C I H J F X F A A\n"
+    },
+    {
+      "input": "KRQCVOYGNLPMX\n",
+      "output": "K R Q C V O Y G N L P M X\n"
+    },
+    {
+      "input": "IXOMACAGPHMTMHJXL\n",
+      "output": "I X O M A C A G P H M T M H J X L\n"
+    },
+    {
+      "input": "IFUOVDHHKWPVHHADUIROYXKAKPWHTFDUBBGDUCK\n",
+      "output": "I F U O V D H H K W P V H H A D U I R O Y X K A K P W H T F D U B B G D U C K\n"
+    },
+    {
+      "input": "LWGPDEWHFRJFKMISFBALUMBRPLJNCNZNVDNXFSBEHOPRMWX\n",
+      "output": "L W G P D E W H F R J F K M I S F B A L U M B R P L J N C N Z N V D N X F S B E H O P R M W X\n"
+    },
+    {
+      "input": "MRFZDYAJTGIQVLVNYBVSOCHZDOIAFFZEUBNHDRSRCTMYONZIQCPRFWTN\n",
+      "output": "M R F Z D Y A J T G I Q V L V N Y B V S O C H Z D O I A F F Z E U B N H D R S R C T M Y O N Z I Q C P R F W T N\n"
+    },
+    {
+      "input": "ABC\n",
+      "output": "A B C\n"
+    },
+    {
+      "input": "ZZZZZZZ\n",
+      "output": "Z Z Z Z Z Z Z\n"
+    },
+    {
+      "input": "OOXXOO\n",
+      "output": "O O X X O O\n"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-11-04T00:00:00",
+  "contest_id": "abc327",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc327_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "12\nlgdaigenaaaj\n",
+      "output": "No\n"
+    },
+    {
+      "input": "11\naccabbadbeb\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "37\nqeixfumagitvtophbepfepxbfgsqcugugpugt\n",
+      "output": "No\n"
+    },
+    {
+      "input": "37\nlsuwciznslmdwcfuriuhuclufdlcspmjnpcqt\n",
+      "output": "No\n"
+    },
+    {
+      "input": "100\nqbfhehfkqfmglrjaienfqiqacfpfjhaddglpaaacsqojiosfscakihlslinkpieboqoennjdhibgcgfdkfjldnnlpdljkcsfojkd\n",
+      "output": "No\n"
+    },
+    {
+      "input": "100\nxwsmrnkjhkwevmncnwjmooyonrlultnjuijfthbpxnwnammswzyrdlxbfrqzpxhublfgdgxtfozsgnwieibnqeyaxefdlqrragkb\n",
+      "output": "No\n"
+    },
+    {
+      "input": "100\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n",
+      "output": "No\n"
+    },
+    {
+      "input": "100\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n",
+      "output": "No\n"
+    },
+    {
+      "input": "100\nfdcjjiaeadkjehhdgikejgjdgbceiifhekjedccgcchbiibdhijbcgjkhkkcggbbadecgihhbjghdaiejfehkcefkgkckgageeac\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbba\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100\nabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100\nabababababababababababababababababababababababababababababababababababababababababababababababababab\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "3\nabc\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "2\nba\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "7\natcoder\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

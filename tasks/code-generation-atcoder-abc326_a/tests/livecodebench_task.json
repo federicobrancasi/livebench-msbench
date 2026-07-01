@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-10-28T00:00:00",
+  "contest_id": "abc326",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc326_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "7 5\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "73 76\n",
+      "output": "No\n"
+    },
+    {
+      "input": "31 35\n",
+      "output": "No\n"
+    },
+    {
+      "input": "22 18\n",
+      "output": "No\n"
+    },
+    {
+      "input": "1 100\n",
+      "output": "No\n"
+    },
+    {
+      "input": "22 75\n",
+      "output": "No\n"
+    },
+    {
+      "input": "17 56\n",
+      "output": "No\n"
+    },
+    {
+      "input": "54 56\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "99 96\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "82 84\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "35 34\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100 97\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1 4\n",
+      "output": "No\n"
+    },
+    {
+      "input": "99 96\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100 1\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

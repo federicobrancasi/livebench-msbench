@@ -1,0 +1,57 @@
+{
+  "contest_date": "2023-12-02T00:00:00",
+  "contest_id": "abc331",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc331_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1 1\n6983 1 1\n",
+      "output": "6984 1 1\n"
+    },
+    {
+      "input": "7 49\n6120 1 49\n",
+      "output": "6120 2 1\n"
+    },
+    {
+      "input": "3 49\n1388 2 9\n",
+      "output": "1388 2 10\n"
+    },
+    {
+      "input": "99 99\n2574 1 99\n",
+      "output": "2574 2 1\n"
+    },
+    {
+      "input": "4 57\n8671 4 49\n",
+      "output": "8671 4 50\n"
+    },
+    {
+      "input": "99 99\n3314 99 99\n",
+      "output": "3315 1 1\n"
+    },
+    {
+      "input": "99 99\n3886 99 1\n",
+      "output": "3886 99 2\n"
+    },
+    {
+      "input": "15 25\n5989 15 25\n",
+      "output": "5990 1 1\n"
+    },
+    {
+      "input": "12 30\n2023 12 30\n",
+      "output": "2024 1 1\n"
+    },
+    {
+      "input": "36 72\n6789 23 45\n",
+      "output": "6789 23 46\n"
+    },
+    {
+      "input": "12 30\n2012 6 20\n",
+      "output": "2012 6 21\n"
+    }
+  ],
+  "timeout_sec": 10
+}

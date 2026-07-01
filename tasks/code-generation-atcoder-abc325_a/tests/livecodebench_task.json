@@ -1,0 +1,57 @@
+{
+  "contest_date": "2023-10-21T00:00:00",
+  "contest_id": "abc325",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc325_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "V G\n",
+      "output": "V san\n"
+    },
+    {
+      "input": "Gpu A\n",
+      "output": "Gpu san\n"
+    },
+    {
+      "input": "Y Kinkezplv\n",
+      "output": "Y san\n"
+    },
+    {
+      "input": "Y Cebeurgvjy\n",
+      "output": "Y san\n"
+    },
+    {
+      "input": "Mkxkszhkbp P\n",
+      "output": "Mkxkszhkbp san\n"
+    },
+    {
+      "input": "Aqmopodot Krjzr\n",
+      "output": "Aqmopodot san\n"
+    },
+    {
+      "input": "Mlvumuaren Excf\n",
+      "output": "Mlvumuaren san\n"
+    },
+    {
+      "input": "Spdhvuyf Vtvnrdylua\n",
+      "output": "Spdhvuyf san\n"
+    },
+    {
+      "input": "Cvrayggwnp Nzijdifyer\n",
+      "output": "Cvrayggwnp san\n"
+    },
+    {
+      "input": "Takahashi Chokudai\n",
+      "output": "Takahashi san\n"
+    },
+    {
+      "input": "K Eyence\n",
+      "output": "K san\n"
+    }
+  ],
+  "timeout_sec": 10
+}

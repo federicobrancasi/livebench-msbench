@@ -1,0 +1,49 @@
+{
+  "contest_date": "2023-12-16T00:00:00",
+  "contest_id": "abc333",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc333_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1\n",
+      "output": "1\n"
+    },
+    {
+      "input": "2\n",
+      "output": "22\n"
+    },
+    {
+      "input": "4\n",
+      "output": "4444\n"
+    },
+    {
+      "input": "5\n",
+      "output": "55555\n"
+    },
+    {
+      "input": "6\n",
+      "output": "666666\n"
+    },
+    {
+      "input": "7\n",
+      "output": "7777777\n"
+    },
+    {
+      "input": "8\n",
+      "output": "88888888\n"
+    },
+    {
+      "input": "3\n",
+      "output": "333\n"
+    },
+    {
+      "input": "9\n",
+      "output": "999999999\n"
+    }
+  ],
+  "timeout_sec": 10
+}

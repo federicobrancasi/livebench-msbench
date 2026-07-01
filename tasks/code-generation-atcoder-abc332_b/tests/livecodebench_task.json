@@ -1,0 +1,69 @@
+{
+  "contest_date": "2023-12-10T00:00:00",
+  "contest_id": "abc332",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc332_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1 1 2\n",
+      "output": "0 2\n"
+    },
+    {
+      "input": "93 5 65\n",
+      "output": "5 35\n"
+    },
+    {
+      "input": "78 15 285\n",
+      "output": "0 0\n"
+    },
+    {
+      "input": "96 29 58\n",
+      "output": "0 58\n"
+    },
+    {
+      "input": "84 24 240\n",
+      "output": "0 0\n"
+    },
+    {
+      "input": "86 26 546\n",
+      "output": "0 0\n"
+    },
+    {
+      "input": "66 28 448\n",
+      "output": "0 0\n"
+    },
+    {
+      "input": "93 8 104\n",
+      "output": "8 56\n"
+    },
+    {
+      "input": "98 31 713\n",
+      "output": "31 651\n"
+    },
+    {
+      "input": "94 21 357\n",
+      "output": "21 105\n"
+    },
+    {
+      "input": "90 24 480\n",
+      "output": "24 384\n"
+    },
+    {
+      "input": "100 999 1000\n",
+      "output": "25 0\n"
+    },
+    {
+      "input": "5 300 500\n",
+      "output": "200 500\n"
+    },
+    {
+      "input": "5 100 200\n",
+      "output": "0 0\n"
+    }
+  ],
+  "timeout_sec": 10
+}
