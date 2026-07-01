@@ -1,0 +1,13 @@
+{
+  "contest_date": "",
+  "contest_id": "",
+  "difficulty": "unknown",
+  "entry_point": "makeSmallestPalindrome",
+  "expected_answer": "'abba'",
+  "platform": "livecodebench",
+  "question_id": "sample_27",
+  "scenario": "code_execution",
+  "test_style": "stdin",
+  "tests": [],
+  "timeout_sec": 10
+}

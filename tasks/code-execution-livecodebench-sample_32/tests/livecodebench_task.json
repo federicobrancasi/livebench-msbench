@@ -1,0 +1,13 @@
+{
+  "contest_date": "",
+  "contest_id": "",
+  "difficulty": "unknown",
+  "entry_point": "removeTrailingZeros",
+  "expected_answer": "'512301'",
+  "platform": "livecodebench",
+  "question_id": "sample_32",
+  "scenario": "code_execution",
+  "test_style": "stdin",
+  "tests": [],
+  "timeout_sec": 10
+}

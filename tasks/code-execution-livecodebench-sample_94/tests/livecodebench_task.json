@@ -1,0 +1,13 @@
+{
+  "contest_date": "",
+  "contest_id": "",
+  "difficulty": "unknown",
+  "entry_point": "continuousSubarrays",
+  "expected_answer": "6",
+  "platform": "livecodebench",
+  "question_id": "sample_94",
+  "scenario": "code_execution",
+  "test_style": "stdin",
+  "tests": [],
+  "timeout_sec": 10
+}
