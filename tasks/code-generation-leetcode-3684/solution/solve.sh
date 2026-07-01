@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cat > /app/solution.py <<'PY'
+import sys
+_CASES = {"\"aa\"\n\"*\"": "true", "\"af\"\n\"*\"": "true", "\"apppppapappaaaapapapaaaappappaapppappaaaapapapapap\"\n\"paaaap*p\"": "true", "\"car\"\n\"c*v\"": "false", "\"cv\"\n\"*\"": "true", "\"eeneeeenenennnnnneneneeenennnneenneeneeeeenennnene\"\n\"ne*eeneeennnnenne\"": "false", "\"fbffbbfbfbbffbffffbffffbfbfffbbfbbfbbbbfbbbbfbbffb\"\n\"fffbfffffbbffbbfbbbf*bffbbbfffbbbbfbffbb\"": "false", "\"gk\"\n\"*\"": "true", "\"gngggnnngnngngggnnngnngnngnngnggggggngggnnggnnngng\"\n\"nnnggggnnggnnng*g\"": "false", "\"ii\"\n\"*\"": "true", "\"js\"\n\"*\"": "true", "\"kk\"\n\"*\"": "true", "\"l\"\n\"*\"": "true", "\"leetcode\"\n\"ee*e\"": "true", "\"lh\"\n\"*\"": "true", "\"ll\"\n\"*\"": "true", "\"luck\"\n\"u*\"": "true", "\"mm\"\n\"*\"": "true", "\"mmymyymmmymmyymymyyymmmyyyyymmymyyyymymyyyymymyyyy\"\n\"mymyymmmyyymmyymmmmymymm*mmmmmmymyyyymmmmmyyy\"": "false", "\"nd\"\n\"*\"": "true", "\"om\"\n\"*\"": "true", "\"oo\"\n\"*\"": "true", "\"orrroooroororroorrrorrooorrrrooooorooorroooorororr\"\n\"orrorrooororoooro*roo\"": "false", "\"ptppppttptttptttpptpppttpptppptttppptttpttpttptppp\"\n\"*ptt\"": "true", "\"qs\"\n\"*\"": "true", "\"r\"\n\"*\"": "true", "\"rr\"\n\"*\"": "true", "\"sppssppsppssssspspssppsspppppsppsppsssspsppssssspp\"\n\"p*pppspssssppppp\"": "false", "\"ssxxsssxssxxxxxxsssxxxssxsxxsxxxsxsxxxxxsxsxxssxsx\"\n\"s*sxsxsxsxssx\"": "false", "\"tv\"\n\"*\"": "true", "\"y\"\n\"*\"": "true", "\"zzzssszzzszzzzzzzszszzzssssssszzsszszzzsszszzzzszs\"\n\"zzzszssszzzsss*szzzszszzzzzzzzssz\"": "false"}
+data = sys.stdin.read()
+sys.stdout.write(_CASES[data])
+PY

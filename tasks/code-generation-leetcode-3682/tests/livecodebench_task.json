@@ -1,0 +1,185 @@
+{
+  "contest_date": "2024-12-28T18:30:00",
+  "contest_id": "weekly-contest-430",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3682",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1\n3\n0",
+      "output": "3"
+    },
+    {
+      "input": "1\n6\n0",
+      "output": "6"
+    },
+    {
+      "input": "100000\n100000\n99999",
+      "output": "100000"
+    },
+    {
+      "input": "2\n3\n0",
+      "output": "6"
+    },
+    {
+      "input": "2\n5\n1",
+      "output": "5"
+    },
+    {
+      "input": "2\n7\n1",
+      "output": "7"
+    },
+    {
+      "input": "63702\n32885\n23508",
+      "output": "29257828"
+    },
+    {
+      "input": "75572\n54634\n46860",
+      "output": "711519345"
+    },
+    {
+      "input": "80289\n90610\n6312",
+      "output": "549624789"
+    },
+    {
+      "input": "100000\n100000\n99998",
+      "output": "993100147"
+    },
+    {
+      "input": "9545\n63836\n5166",
+      "output": "979111842"
+    },
+    {
+      "input": "2\n2\n0",
+      "output": "2"
+    },
+    {
+      "input": "1\n8\n0",
+      "output": "8"
+    },
+    {
+      "input": "90676\n73860\n88831",
+      "output": "176039447"
+    },
+    {
+      "input": "2\n9\n0",
+      "output": "72"
+    },
+    {
+      "input": "2\n2\n1",
+      "output": "2"
+    },
+    {
+      "input": "2\n5\n0",
+      "output": "20"
+    },
+    {
+      "input": "2\n7\n0",
+      "output": "42"
+    },
+    {
+      "input": "2\n4\n0",
+      "output": "12"
+    },
+    {
+      "input": "1\n9\n0",
+      "output": "9"
+    },
+    {
+      "input": "2\n6\n1",
+      "output": "6"
+    },
+    {
+      "input": "56262\n25872\n17159",
+      "output": "302306442"
+    },
+    {
+      "input": "2\n1\n0",
+      "output": "0"
+    },
+    {
+      "input": "1\n7\n0",
+      "output": "7"
+    },
+    {
+      "input": "2\n6\n0",
+      "output": "30"
+    },
+    {
+      "input": "2\n8\n1",
+      "output": "8"
+    },
+    {
+      "input": "2\n1\n1",
+      "output": "1"
+    },
+    {
+      "input": "1\n4\n0",
+      "output": "4"
+    },
+    {
+      "input": "1\n5\n0",
+      "output": "5"
+    },
+    {
+      "input": "2\n8\n0",
+      "output": "56"
+    },
+    {
+      "input": "2\n4\n1",
+      "output": "4"
+    },
+    {
+      "input": "94885\n11289\n26849",
+      "output": "810138171"
+    },
+    {
+      "input": "43917\n60911\n36041",
+      "output": "830977801"
+    },
+    {
+      "input": "1\n1\n0",
+      "output": "1"
+    },
+    {
+      "input": "44637\n4559\n31476",
+      "output": "721086731"
+    },
+    {
+      "input": "2\n3\n1",
+      "output": "3"
+    },
+    {
+      "input": "1\n10\n0",
+      "output": "10"
+    },
+    {
+      "input": "30611\n30494\n8737",
+      "output": "48952604"
+    },
+    {
+      "input": "100000\n100000\n0",
+      "output": "406242317"
+    },
+    {
+      "input": "100000\n100000\n1",
+      "output": "406242317"
+    },
+    {
+      "input": "3\n2\n1",
+      "output": "4"
+    },
+    {
+      "input": "4\n2\n2",
+      "output": "6"
+    },
+    {
+      "input": "5\n2\n0",
+      "output": "2"
+    }
+  ],
+  "timeout_sec": 10
+}

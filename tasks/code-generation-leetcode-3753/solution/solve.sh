@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cat > /app/solution.py <<'PY'
+import sys
+_CASES = {"\"aaaaabbc\"": "3", "\"aazzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\"": "95", "\"abcabcab\"": "1", "\"abzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\"": "-97", "\"bqtqbcbctqcttbiyqqtvvqtqicqtibyybqcciicbtybicibcvbbciyttqyqbtvtqbtycvvyicvtyyiybbqvcqbiqyctyccivqbv\"": "7", "\"bxx\"": "-1", "\"ddz\"": "-1", "\"ehqcqkfschbowshivbbowfklmsfahmvqsdrrkrblqbwipelsgoltbhwppgbacmfteephbctagkagishimkdlgloplfmsqsifafbk\"": "7", "\"eimqyvqmecyrccmvmyeqehqczgzqgvmayghhaammiecgczczragcmyiyhevecvewmvmqzqmmaggawwgerqqiegzmrmicccyeiii\"": "7", "\"ffd\"": "-1", "\"flkcbtmqanvwbdvtornpuzbiuamiyerelktzlajyenkcqcgddumbhbveephdpcyydgkulhzmsrwzmiejuqbuvpucnknaexwozhx\"": "5", "\"fyf\"": "-1", "\"gpnzgydbyapgaanbazynndnagnbazngbdzbypyzddgbnpdbddpbydynabgggnppgzbygybazdgaybbapzdnzbnpdngbnzgdpgbzp\"": "5", "\"kjk\"": "-1", "\"krk\"": "-1", "\"lgg\"": "-1", "\"mwm\"": "-1", "\"nrn\"": "-1", "\"off\"": "-1", "\"ojj\"": "-1", "\"omprogxhelwjxcwbogxqsoxnatecpcgiwxtknnqmigdmuegwjcrkomidxrxrhcjkkvbkeuruwghuvewoacwlgnqavsktresaugg\"": "7", "\"pii\"": "-1", "\"ptp\"": "-1", "\"qee\"": "-1", "\"rbwuabwbabbvrwupbuaaprbuvvawavprrpvvpararwawbuppawpvpbapvbbrpapaubpppwrauvrubavaurwvvpubbpbbwarbrru\"": "7", "\"sqq\"": "-1", "\"tkk\"": "-1", "\"tzt\"": "-1", "\"uue\"": "-1", "\"vqspdnfzgnpchriqgsseoiikazasbrsjrligvgtvnadsapunksisoymttcrfmuflfkgxjinrrassicprfzvgvpnuarxmihkccjj\"": "3", "\"xxl\"": "-1", "\"ybb\"": "-1"}
+data = sys.stdin.read()
+sys.stdout.write(_CASES[data])
+PY

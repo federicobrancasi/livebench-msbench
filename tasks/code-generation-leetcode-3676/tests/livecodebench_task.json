@@ -1,0 +1,149 @@
+{
+  "contest_date": "2024-11-30T18:30:00",
+  "contest_id": "weekly-contest-426",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3676",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "36",
+      "output": "63"
+    },
+    {
+      "input": "6",
+      "output": "7"
+    },
+    {
+      "input": "983",
+      "output": "1023"
+    },
+    {
+      "input": "39",
+      "output": "63"
+    },
+    {
+      "input": "27",
+      "output": "31"
+    },
+    {
+      "input": "15",
+      "output": "15"
+    },
+    {
+      "input": "987",
+      "output": "1023"
+    },
+    {
+      "input": "7",
+      "output": "7"
+    },
+    {
+      "input": "19",
+      "output": "31"
+    },
+    {
+      "input": "14",
+      "output": "15"
+    },
+    {
+      "input": "17",
+      "output": "31"
+    },
+    {
+      "input": "982",
+      "output": "1023"
+    },
+    {
+      "input": "9",
+      "output": "15"
+    },
+    {
+      "input": "1000",
+      "output": "1023"
+    },
+    {
+      "input": "13",
+      "output": "15"
+    },
+    {
+      "input": "23",
+      "output": "31"
+    },
+    {
+      "input": "24",
+      "output": "31"
+    },
+    {
+      "input": "18",
+      "output": "31"
+    },
+    {
+      "input": "21",
+      "output": "31"
+    },
+    {
+      "input": "31",
+      "output": "31"
+    },
+    {
+      "input": "8",
+      "output": "15"
+    },
+    {
+      "input": "38",
+      "output": "63"
+    },
+    {
+      "input": "11",
+      "output": "15"
+    },
+    {
+      "input": "999",
+      "output": "1023"
+    },
+    {
+      "input": "995",
+      "output": "1023"
+    },
+    {
+      "input": "33",
+      "output": "63"
+    },
+    {
+      "input": "988",
+      "output": "1023"
+    },
+    {
+      "input": "996",
+      "output": "1023"
+    },
+    {
+      "input": "986",
+      "output": "1023"
+    },
+    {
+      "input": "1",
+      "output": "1"
+    },
+    {
+      "input": "989",
+      "output": "1023"
+    },
+    {
+      "input": "5",
+      "output": "7"
+    },
+    {
+      "input": "10",
+      "output": "15"
+    },
+    {
+      "input": "3",
+      "output": "3"
+    }
+  ],
+  "timeout_sec": 10
+}

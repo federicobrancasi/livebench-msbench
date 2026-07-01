@@ -1,0 +1,149 @@
+{
+  "contest_date": "2025-01-04T06:30:00",
+  "contest_id": "biweekly-contest-147",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3684",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"gngggnnngnngngggnnngnngnngnngnggggggngggnnggnnngng\"\n\"nnnggggnnggnnng*g\"",
+      "output": "false"
+    },
+    {
+      "input": "\"js\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"fbffbbfbfbbffbffffbffffbfbfffbbfbbfbbbbfbbbbfbbffb\"\n\"fffbfffffbbffbbfbbbf*bffbbbfffbbbbfbffbb\"",
+      "output": "false"
+    },
+    {
+      "input": "\"ii\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"eeneeeenenennnnnneneneeenennnneenneeneeeeenennnene\"\n\"ne*eeneeennnnenne\"",
+      "output": "false"
+    },
+    {
+      "input": "\"orrroooroororroorrrorrooorrrrooooorooorroooorororr\"\n\"orrorrooororoooro*roo\"",
+      "output": "false"
+    },
+    {
+      "input": "\"r\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"y\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"aa\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"ll\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"rr\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"kk\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"rr\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"l\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"apppppapappaaaapapapaaaappappaapppappaaaapapapapap\"\n\"paaaap*p\"",
+      "output": "true"
+    },
+    {
+      "input": "\"ssxxsssxssxxxxxxsssxxxssxsxxsxxxsxsxxxxxsxsxxssxsx\"\n\"s*sxsxsxsxssx\"",
+      "output": "false"
+    },
+    {
+      "input": "\"om\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"mm\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"r\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"ptppppttptttptttpptpppttpptppptttppptttpttpttptppp\"\n\"*ptt\"",
+      "output": "true"
+    },
+    {
+      "input": "\"gk\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"nd\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"qs\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"af\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"lh\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"sppssppsppssssspspssppsspppppsppsppsssspsppssssspp\"\n\"p*pppspssssppppp\"",
+      "output": "false"
+    },
+    {
+      "input": "\"tv\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"mmymyymmmymmyymymyyymmmyyyyymmymyyyymymyyyymymyyyy\"\n\"mymyymmmyyymmyymmmmymymm*mmmmmmymyyyymmmmmyyy\"",
+      "output": "false"
+    },
+    {
+      "input": "\"cv\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"zzzssszzzszzzzzzzszszzzssssssszzsszszzzsszszzzzszs\"\n\"zzzszssszzzsss*szzzszszzzzzzzzssz\"",
+      "output": "false"
+    },
+    {
+      "input": "\"oo\"\n\"*\"",
+      "output": "true"
+    },
+    {
+      "input": "\"leetcode\"\n\"ee*e\"",
+      "output": "true"
+    },
+    {
+      "input": "\"car\"\n\"c*v\"",
+      "output": "false"
+    },
+    {
+      "input": "\"luck\"\n\"u*\"",
+      "output": "true"
+    }
+  ],
+  "timeout_sec": 10
+}

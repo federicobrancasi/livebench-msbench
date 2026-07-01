@@ -1,0 +1,145 @@
+{
+  "contest_date": "2025-02-15T18:30:00",
+  "contest_id": "weekly-contest-437",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3709",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"aaaabbaaa\"\n3",
+      "output": "true"
+    },
+    {
+      "input": "\"iaeebk\"\n5",
+      "output": "false"
+    },
+    {
+      "input": "\"gkj\"\n1",
+      "output": "true"
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\"\n100",
+      "output": "true"
+    },
+    {
+      "input": "\"d\"\n1",
+      "output": "true"
+    },
+    {
+      "input": "\"jkjhfgg\"\n2",
+      "output": "true"
+    },
+    {
+      "input": "\"hiihgfee\"\n8",
+      "output": "false"
+    },
+    {
+      "input": "\"h\"\n1",
+      "output": "true"
+    },
+    {
+      "input": "\"cbgfbk\"\n3",
+      "output": "false"
+    },
+    {
+      "input": "\"fa\"\n2",
+      "output": "false"
+    },
+    {
+      "input": "\"kicjd\"\n5",
+      "output": "false"
+    },
+    {
+      "input": "\"bkaaiah\"\n7",
+      "output": "false"
+    },
+    {
+      "input": "\"jckchahg\"\n8",
+      "output": "false"
+    },
+    {
+      "input": "\"jckkeik\"\n5",
+      "output": "false"
+    },
+    {
+      "input": "\"xxxyyyy\"\n3",
+      "output": "true"
+    },
+    {
+      "input": "\"aabbccddeeffgghh\"\n2",
+      "output": "true"
+    },
+    {
+      "input": "\"kdkjdg\"\n1",
+      "output": "true"
+    },
+    {
+      "input": "\"ababababababababababababababababababababababababababab\"\n2",
+      "output": "false"
+    },
+    {
+      "input": "\"abcaaabbcdddde\"\n4",
+      "output": "true"
+    },
+    {
+      "input": "\"baaaaabc\"\n4",
+      "output": "false"
+    },
+    {
+      "input": "\"aaaaaa\"\n3",
+      "output": "false"
+    },
+    {
+      "input": "\"afc\"\n3",
+      "output": "false"
+    },
+    {
+      "input": "\"ij\"\n2",
+      "output": "false"
+    },
+    {
+      "input": "\"ccc\"\n2",
+      "output": "false"
+    },
+    {
+      "input": "\"bbbaaabbb\"\n3",
+      "output": "true"
+    },
+    {
+      "input": "\"ajbcjce\"\n1",
+      "output": "true"
+    },
+    {
+      "input": "\"bgeadbgc\"\n8",
+      "output": "false"
+    },
+    {
+      "input": "\"e\"\n1",
+      "output": "true"
+    },
+    {
+      "input": "\"f\"\n1",
+      "output": "true"
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab\"\n100",
+      "output": "false"
+    },
+    {
+      "input": "\"gkjf\"\n2",
+      "output": "false"
+    },
+    {
+      "input": "\"aaabaaa\"\n3",
+      "output": "true"
+    },
+    {
+      "input": "\"abc\"\n2",
+      "output": "false"
+    }
+  ],
+  "timeout_sec": 10
+}
