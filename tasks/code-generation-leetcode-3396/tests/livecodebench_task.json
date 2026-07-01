@@ -1,0 +1,125 @@
+{
+  "contest_date": "2024-05-04T00:00:00",
+  "contest_id": "weekly-contest-396",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3396",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"91OU9ioouu\"",
+      "output": "false"
+    },
+    {
+      "input": "\"eTg0hyb2zw\"",
+      "output": "true"
+    },
+    {
+      "input": "\"lHHagBGRWyxG$ha@F5\"",
+      "output": "false"
+    },
+    {
+      "input": "\"2o0E8iAa347iu6OO96\"",
+      "output": "false"
+    },
+    {
+      "input": "\"7LMtSeAsT5O7BVItXruZ\"",
+      "output": "true"
+    },
+    {
+      "input": "\"vVXjxefML7hSenhaI\"",
+      "output": "true"
+    },
+    {
+      "input": "\"14ozE7AjlvQS0LXRwuw\"",
+      "output": "true"
+    },
+    {
+      "input": "\"iLr46YJ\"",
+      "output": "true"
+    },
+    {
+      "input": "\"bmz7HFh\"",
+      "output": "false"
+    },
+    {
+      "input": "\"w4G9hBKNUUB\"",
+      "output": "true"
+    },
+    {
+      "input": "\"kwm\"",
+      "output": "false"
+    },
+    {
+      "input": "\"aya\"",
+      "output": "true"
+    },
+    {
+      "input": "\"sK3Sls#DFD4ySrvszT\"",
+      "output": "false"
+    },
+    {
+      "input": "\"123\"",
+      "output": "false"
+    },
+    {
+      "input": "\"TXsuS\"",
+      "output": "true"
+    },
+    {
+      "input": "\"rUi0JB0PVG2@5StZish\"",
+      "output": "false"
+    },
+    {
+      "input": "\"68CH\"",
+      "output": "false"
+    },
+    {
+      "input": "\"pVcHmdkfmh4uq6YEbWv\"",
+      "output": "true"
+    },
+    {
+      "input": "\"OI03oA79Uea9O61OOOI\"",
+      "output": "false"
+    },
+    {
+      "input": "\"UxyR\"",
+      "output": "true"
+    },
+    {
+      "input": "\"KxswJPhhIHOWDsqOa6v3\"",
+      "output": "true"
+    },
+    {
+      "input": "\"qzFlyv\"",
+      "output": "false"
+    },
+    {
+      "input": "\"NL@uscZOXKt1RhBb\"",
+      "output": "false"
+    },
+    {
+      "input": "\"8sgED4AZ1xlMFolyY\"",
+      "output": "true"
+    },
+    {
+      "input": "\"c#xrTr3aHT20Onq\"",
+      "output": "false"
+    },
+    {
+      "input": "\"234Adas\"",
+      "output": "true"
+    },
+    {
+      "input": "\"b3\"",
+      "output": "false"
+    },
+    {
+      "input": "\"a3$e\"",
+      "output": "false"
+    }
+  ],
+  "timeout_sec": 10
+}

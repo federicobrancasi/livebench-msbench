@@ -1,0 +1,161 @@
+{
+  "contest_date": "2024-07-06T00:00:00",
+  "contest_id": "weekly-contest-405",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3468",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"cuuxzydrjvn\"\n12",
+      "output": "\"uuxzydrjvnc\""
+    },
+    {
+      "input": "\"jagqrsayotfidzhnxghmkfxvsrfgrrcrdrjoix\"\n102",
+      "output": "\"fgrrcrdrjoixjagqrsayotfidzhnxghmkfxvsr\""
+    },
+    {
+      "input": "\"ydlflebqshjkjfuwizhfcqciumrnirqxli\"\n34",
+      "output": "\"ydlflebqshjkjfuwizhfcqciumrnirqxli\""
+    },
+    {
+      "input": "\"rovf\"\n75",
+      "output": "\"frov\""
+    },
+    {
+      "input": "\"lbrikjdtb\"\n8",
+      "output": "\"blbrikjdt\""
+    },
+    {
+      "input": "\"dal\"\n57",
+      "output": "\"dal\""
+    },
+    {
+      "input": "\"scrfqobiyxlz\"\n9358",
+      "output": "\"lzscrfqobiyx\""
+    },
+    {
+      "input": "\"bpptrf\"\n6",
+      "output": "\"bpptrf\""
+    },
+    {
+      "input": "\"izdswxlkctzhnryb\"\n17",
+      "output": "\"zdswxlkctzhnrybi\""
+    },
+    {
+      "input": "\"a\"\n100",
+      "output": "\"a\""
+    },
+    {
+      "input": "\"aqytsydygjfdmiuqvcycyqzailuxzdmxntbmpdbxilklifjyjzpsbmytfoniaimladvqqxzlluxyqwt\"\n4868",
+      "output": "\"zpsbmytfoniaimladvqqxzlluxyqwtaqytsydygjfdmiuqvcycyqzailuxzdmxntbmpdbxilklifjyj\""
+    },
+    {
+      "input": "\"aukcwjvxkpoz\"\n36",
+      "output": "\"aukcwjvxkpoz\""
+    },
+    {
+      "input": "\"qyt\"\n1",
+      "output": "\"ytq\""
+    },
+    {
+      "input": "\"bhvsf\"\n10",
+      "output": "\"bhvsf\""
+    },
+    {
+      "input": "\"pl\"\n3",
+      "output": "\"lp\""
+    },
+    {
+      "input": "\"d\"\n0",
+      "output": "\"d\""
+    },
+    {
+      "input": "\"sapkrpsy\"\n13",
+      "output": "\"psysapkr\""
+    },
+    {
+      "input": "\"radiiwyqmeksefiqckrlxozzwawdsnamacyywpsdvrk\"\n42",
+      "output": "\"kradiiwyqmeksefiqckrlxozzwawdsnamacyywpsdvr\""
+    },
+    {
+      "input": "\"gpflywvqrw\"\n9",
+      "output": "\"wgpflywvqr\""
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\"\n10000",
+      "output": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\""
+    },
+    {
+      "input": "\"ckkbufxmfqyjxmdwxjtvptmndkpfzqoifuhjkqrxbtkwnvyjvzkwzzkiwmwppblmrfzruwcigqhidkqcezwluuuzqvkumhvfdd\"\n7452",
+      "output": "\"ufxmfqyjxmdwxjtvptmndkpfzqoifuhjkqrxbtkwnvyjvzkwzzkiwmwppblmrfzruwcigqhidkqcezwluuuzqvkumhvfddckkb\""
+    },
+    {
+      "input": "\"ybdfr\"\n4",
+      "output": "\"rybdf\""
+    },
+    {
+      "input": "\"eaojmvykp\"\n8",
+      "output": "\"peaojmvyk\""
+    },
+    {
+      "input": "\"voqrrjrdtt\"\n9",
+      "output": "\"tvoqrrjrdt\""
+    },
+    {
+      "input": "\"qrnofuajllutmitqzkdslo\"\n7173",
+      "output": "\"rnofuajllutmitqzkdsloq\""
+    },
+    {
+      "input": "\"h\"\n6",
+      "output": "\"h\""
+    },
+    {
+      "input": "\"vvagnuqcit\"\n4",
+      "output": "\"nuqcitvvag\""
+    },
+    {
+      "input": "\"crzjvuhpk\"\n10",
+      "output": "\"rzjvuhpkc\""
+    },
+    {
+      "input": "\"mvsqxqvtnb\"\n43",
+      "output": "\"qxqvtnbmvs\""
+    },
+    {
+      "input": "\"hiovgjlaciphgwxawhlddlhiplbssgrorglkgbwkbgciptxsyltugjrjqataotiklvilsghjwvsknmhvguvfzqxawimekdvcueev\"\n500",
+      "output": "\"hiovgjlaciphgwxawhlddlhiplbssgrorglkgbwkbgciptxsyltugjrjqataotiklvilsghjwvsknmhvguvfzqxawimekdvcueev\""
+    },
+    {
+      "input": "\"pwwrczty\"\n7",
+      "output": "\"ypwwrczt\""
+    },
+    {
+      "input": "\"zysugpotdkcsoutzzdzxp\"\n10",
+      "output": "\"csoutzzdzxpzysugpotdk\""
+    },
+    {
+      "input": "\"kvzqxmd\"\n8",
+      "output": "\"vzqxmdk\""
+    },
+    {
+      "input": "\"nsqjvlqjwlblblewhixczqcgkmlbocwnxzkxllfcarhhxjcapdbuzlhsectohtpxzuwuhieqgqxgyjfxqwvjmvvg\"\n2084",
+      "output": "\"htpxzuwuhieqgqxgyjfxqwvjmvvgnsqjvlqjwlblblewhixczqcgkmlbocwnxzkxllfcarhhxjcapdbuzlhsecto\""
+    },
+    {
+      "input": "\"mwxsuxtcflyurmapecgkz\"\n10",
+      "output": "\"yurmapecgkzmwxsuxtcfl\""
+    },
+    {
+      "input": "\"dart\"\n3",
+      "output": "\"tdar\""
+    },
+    {
+      "input": "\"aaa\"\n1",
+      "output": "\"aaa\""
+    }
+  ],
+  "timeout_sec": 10
+}

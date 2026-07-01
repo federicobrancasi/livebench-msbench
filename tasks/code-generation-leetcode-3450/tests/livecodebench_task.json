@@ -1,0 +1,165 @@
+{
+  "contest_date": "2024-06-08T00:00:00",
+  "contest_id": "weekly-contest-401",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3450",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "50\n2",
+      "output": "2"
+    },
+    {
+      "input": "9\n16",
+      "output": "0"
+    },
+    {
+      "input": "36\n36",
+      "output": "34"
+    },
+    {
+      "input": "50\n7",
+      "output": "7"
+    },
+    {
+      "input": "2\n3",
+      "output": "1"
+    },
+    {
+      "input": "32\n124",
+      "output": "0"
+    },
+    {
+      "input": "2\n1",
+      "output": "1"
+    },
+    {
+      "input": "50\n22",
+      "output": "22"
+    },
+    {
+      "input": "16\n25",
+      "output": "5"
+    },
+    {
+      "input": "44\n50",
+      "output": "36"
+    },
+    {
+      "input": "50\n36",
+      "output": "36"
+    },
+    {
+      "input": "47\n14",
+      "output": "14"
+    },
+    {
+      "input": "50\n4",
+      "output": "4"
+    },
+    {
+      "input": "18\n35",
+      "output": "1"
+    },
+    {
+      "input": "26\n25",
+      "output": "25"
+    },
+    {
+      "input": "2\n5",
+      "output": "1"
+    },
+    {
+      "input": "3\n5",
+      "output": "1"
+    },
+    {
+      "input": "50\n13",
+      "output": "13"
+    },
+    {
+      "input": "49\n50",
+      "output": "46"
+    },
+    {
+      "input": "3\n4",
+      "output": "0"
+    },
+    {
+      "input": "13\n12",
+      "output": "12"
+    },
+    {
+      "input": "27\n104",
+      "output": "0"
+    },
+    {
+      "input": "4\n1",
+      "output": "1"
+    },
+    {
+      "input": "3\n1",
+      "output": "1"
+    },
+    {
+      "input": "14\n39",
+      "output": "13"
+    },
+    {
+      "input": "11\n40",
+      "output": "0"
+    },
+    {
+      "input": "14\n44",
+      "output": "8"
+    },
+    {
+      "input": "4\n2",
+      "output": "2"
+    },
+    {
+      "input": "3\n2",
+      "output": "2"
+    },
+    {
+      "input": "5\n2",
+      "output": "2"
+    },
+    {
+      "input": "46\n90",
+      "output": "0"
+    },
+    {
+      "input": "18\n5",
+      "output": "5"
+    },
+    {
+      "input": "3\n3",
+      "output": "1"
+    },
+    {
+      "input": "31\n32",
+      "output": "28"
+    },
+    {
+      "input": "17\n43",
+      "output": "11"
+    },
+    {
+      "input": "3\n5",
+      "output": "1"
+    },
+    {
+      "input": "5\n6",
+      "output": "2"
+    },
+    {
+      "input": "4\n2",
+      "output": "2"
+    }
+  ],
+  "timeout_sec": 10
+}

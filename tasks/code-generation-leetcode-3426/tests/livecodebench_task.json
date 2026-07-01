@@ -1,0 +1,165 @@
+{
+  "contest_date": "2024-06-01T00:00:00",
+  "contest_id": "weekly-contest-400",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3426",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"ELEEEELEEEELEEEELEEEELEEEELEEEELEEEELEEEELEEEELEEE\"",
+      "output": "30"
+    },
+    {
+      "input": "\"EEELEEEELEEEELEEEELEEEELEEEELEEEELEEEELEEEELEEEELE\"",
+      "output": "30"
+    },
+    {
+      "input": "\"EELELLEEE\"",
+      "output": "3"
+    },
+    {
+      "input": "\"ELLELLEELELLELEEELLLEEELLLEELELEEELELLELLLELLEELLL\"",
+      "output": "2"
+    },
+    {
+      "input": "\"ELEE\"",
+      "output": "2"
+    },
+    {
+      "input": "\"EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE\"",
+      "output": "44"
+    },
+    {
+      "input": "\"EEEEELLLL\"",
+      "output": "5"
+    },
+    {
+      "input": "\"ELEL\"",
+      "output": "1"
+    },
+    {
+      "input": "\"EEEEELELEELEEEEEEEEEEEEEL\"",
+      "output": "18"
+    },
+    {
+      "input": "\"EE\"",
+      "output": "2"
+    },
+    {
+      "input": "\"EELEEELE\"",
+      "output": "4"
+    },
+    {
+      "input": "\"ELLEELEELELEELLELLELEELEELLEELELEEELELLLLELLELLLLL\"",
+      "output": "5"
+    },
+    {
+      "input": "\"LE\"",
+      "output": "0"
+    },
+    {
+      "input": "\"EEEEELLEE\"",
+      "output": "5"
+    },
+    {
+      "input": "\"EELE\"",
+      "output": "2"
+    },
+    {
+      "input": "\"EELEEEL\"",
+      "output": "4"
+    },
+    {
+      "input": "\"ELLLEELELLLLLLLLLLLL\"",
+      "output": "1"
+    },
+    {
+      "input": "\"EEEEEEEELLEEEEEELEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE\"",
+      "output": "44"
+    },
+    {
+      "input": "\"EEELEEELEELELLEEELEELELLEEEELLLLLLEEELLLELLEELELL\"",
+      "output": "10"
+    },
+    {
+      "input": "\"ELEEELEELLEEEEELLLEELEEELEEELELLEEE\"",
+      "output": "11"
+    },
+    {
+      "input": "\"ELEEEEEE\"",
+      "output": "6"
+    },
+    {
+      "input": "\"EEELEEEEEELELLLELEELLELLELELLLELLEELELEEELEELLLLLL\"",
+      "output": "8"
+    },
+    {
+      "input": "\"EEEEELEEEEELEEELEEEELEEEELEEELEEEELEEEELEEELEL\"",
+      "output": "27"
+    },
+    {
+      "input": "\"ELELEEEE\"",
+      "output": "4"
+    },
+    {
+      "input": "\"EEELE\"",
+      "output": "3"
+    },
+    {
+      "input": "\"EEL\"",
+      "output": "2"
+    },
+    {
+      "input": "\"EEEEEELLLLL\"",
+      "output": "6"
+    },
+    {
+      "input": "\"ELLLELEEE\"",
+      "output": "1"
+    },
+    {
+      "input": "\"EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE\"",
+      "output": "50"
+    },
+    {
+      "input": "\"E\"",
+      "output": "1"
+    },
+    {
+      "input": "\"EEEEEEEEEEEEEEEEEEEEEEEEELLLLLLLLLLLLLLLLLLLLLLLLL\"",
+      "output": "25"
+    },
+    {
+      "input": "\"EELL\"",
+      "output": "2"
+    },
+    {
+      "input": "\"EEEELEEEELEEEELEEEELEEEELEEEELEEEELEEEELEEEELEEEEL\"",
+      "output": "31"
+    },
+    {
+      "input": "\"EELLLELEE\"",
+      "output": "2"
+    },
+    {
+      "input": "\"EEEELELELLELEELLEELEEEELLEELLEELLLL\"",
+      "output": "7"
+    },
+    {
+      "input": "\"EEEEEEE\"",
+      "output": "7"
+    },
+    {
+      "input": "\"ELELEEL\"",
+      "output": "2"
+    },
+    {
+      "input": "\"ELEELEELLL\"",
+      "output": "3"
+    }
+  ],
+  "timeout_sec": 10
+}

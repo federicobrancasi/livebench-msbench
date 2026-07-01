@@ -1,0 +1,161 @@
+{
+  "contest_date": "2024-06-08T00:00:00",
+  "contest_id": "biweekly-contest-132",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3447",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr44444444444444444444444444444444444444444444444444\"",
+      "output": "\"\""
+    },
+    {
+      "input": "\"lp6xrhwevshrdrgwsh82c8r\"",
+      "output": "\"lxrhwevshrdrgwr\""
+    },
+    {
+      "input": "\"t\"",
+      "output": "\"t\""
+    },
+    {
+      "input": "\"pxhfnydw98r8ym147k817lwnsijb6bsnl6xgkqvjb4jzy4fmm4wr82saiyj9o4qfhfm35dl8txbesiadijp7cg0f\"",
+      "output": "\"pxhlwnsijbsnxgkqvjjzfmsaiyqfhdtxbesiadijcf\""
+    },
+    {
+      "input": "\"dyruorjhg3\"",
+      "output": "\"dyruorjh\""
+    },
+    {
+      "input": "\"t4hyyt4n148gxwvsu36l2zusk113auucyvuu31m87a09fs15qo7qb564ds03u7eh6c420166nc0c7pnglp8a37wv30dioag0kwtn\"",
+      "output": "\"hgxwvznpngdioakwtn\""
+    },
+    {
+      "input": "\"j\"",
+      "output": "\"j\""
+    },
+    {
+      "input": "\"ftqih1podmfsdvawn4lktgtdgdxmgvhz5dzqpme64cltmoaxunrbmue\"",
+      "output": "\"ftqipodmfsdvawlktgtdgdxmgvhdzqpcltmoaxunrbmue\""
+    },
+    {
+      "input": "\"o\"",
+      "output": "\"o\""
+    },
+    {
+      "input": "\"avhsufacuekuoxbojrgytrolvnguayxblgbirtlvytnlwzupvx27379999922644443152092747982951179243202139925248\"",
+      "output": "\"\""
+    },
+    {
+      "input": "\"p9k9pw5we01hxntkgtda996cm0nh97t2sjps7hn3f608ed9d35ur7y3esuh9a73nk8r464s5cg9ex5526z66k8ni07f22m27h4wt\"",
+      "output": "\"phxntkgcwt\""
+    },
+    {
+      "input": "\"o5zhqreh9487xa2qt542jm9dqjjs11ezf10toly6be1v7w695qi004g0xy429lgp1r975n73d4960ja0i57k2zdrczt60cx\"",
+      "output": "\"zhjzdrccx\""
+    },
+    {
+      "input": "\"d\"",
+      "output": "\"d\""
+    },
+    {
+      "input": "\"eg0hgkn74bci712utfw33eo340g4l3rbhck\"",
+      "output": "\"ehgurbhck\""
+    },
+    {
+      "input": "\"r\"",
+      "output": "\"r\""
+    },
+    {
+      "input": "\"x8s0tt7x0j2q1ch3hb934ynji544vpl0pqjd7f91p5xfj78z4nsw86x044alv8d0cg5a0ig369eap0poa2905tvj8psm6a895184\"",
+      "output": "\"tyvppqal\""
+    },
+    {
+      "input": "\"a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0\"",
+      "output": "\"\""
+    },
+    {
+      "input": "\"s\"",
+      "output": "\"s\""
+    },
+    {
+      "input": "\"f\"",
+      "output": "\"f\""
+    },
+    {
+      "input": "\"adct3w8aqf\"",
+      "output": "\"adcaqf\""
+    },
+    {
+      "input": "\"hoaubpvyiswrdehavttewetsyyupjsncrvfiyghpmiqzjahubcubtcjzwcbwdxsunitwdzoosfuxrtqkofrcrcuewsbcqaiszuj3\"",
+      "output": "\"hoaubpvyiswrdehavttewetsyyupjsncrvfiyghpmiqzjahubcubtcjzwcbwdxsunitwdzoosfuxrtqkofrcrcuewsbcqaiszu\""
+    },
+    {
+      "input": "\"t8yw8mz17e6aeuk2fdv6qowb19cnto8po6onft9a027e6nabqb90angj57sheam7ioe1gn2o1joyk0p0eysg8d42ipzqil9y8ulf\"",
+      "output": "\"yaeufdqocntponabansheaiogjoyeyipzqiulf\""
+    },
+    {
+      "input": "\"rgx4at057qwpz27gv3i09790n6gmex63l675u0xg89s7n5u2k0k3kvc48r91a6hp5fkm0293yud663p7s0d6ww38hc9v32up1cee\"",
+      "output": "\"ucee\""
+    },
+    {
+      "input": "\"crlkzz\"",
+      "output": "\"crlkzz\""
+    },
+    {
+      "input": "\"n\"",
+      "output": "\"n\""
+    },
+    {
+      "input": "\"s4wao3fdl141f4q57x81s2n7aitvpr3165v536nqer87ic9jme9up139eju7sng1z1dxg4gcfy\"",
+      "output": "\"nqijejsndxgcfy\""
+    },
+    {
+      "input": "\"p0z2r7o4x4u7w4r3c5t0a5a7t6y4c2i4y9o4n1c1u4v0p4v6s9d8i2m9o9o1k6j4m7m9p4o5e1e6x7s9b7j8k8m9m7w7y0o8a7s0\"",
+      "output": "\"\""
+    },
+    {
+      "input": "\"jza8rw1lcsp8q1iu4rmr8y8m5a0k1nsw4i5j7vxi5io4j8thdr8nuszj9cd9d3aktn7omngjc4c1f8pfkevvajiuh8hml2zzh1nc\"",
+      "output": "\"jzrlcsirmnsvxithdnuszcaktomngjpfkevvajiuhmzznc\""
+    },
+    {
+      "input": "\"c8h9g0o1o0m7p5a1y5z1f9n6v6y5z1n8d5o3s7a3v8m6x5n1w6h1e6w8g9x4n2e8x2r4h0e5e9q6a3v4s8s6x3o2o8n5z4o5d0o3\"",
+      "output": "\"\""
+    },
+    {
+      "input": "\"pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp\"",
+      "output": "\"pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp\""
+    },
+    {
+      "input": "\"l8gk1i6ljql2svl69v06165cwjfk4wshtpb9yg1lp2p\"",
+      "output": "\"gcwjfwshtpylp\""
+    },
+    {
+      "input": "\"iydatldbprwti50rhrqe3zqdz\"",
+      "output": "\"iydatldbprwrhrqzqdz\""
+    },
+    {
+      "input": "\"m\"",
+      "output": "\"m\""
+    },
+    {
+      "input": "\"hwx1y8f1s920fvtvqejobkgd8jjj7rvebvsyxzue6pz\"",
+      "output": "\"fvtvqejobkgjjrvebvsyxzupz\""
+    },
+    {
+      "input": "\"tjtcu2ag46m0ofc\"",
+      "output": "\"tjtcofc\""
+    },
+    {
+      "input": "\"abc\"",
+      "output": "\"abc\""
+    },
+    {
+      "input": "\"cb34\"",
+      "output": "\"\""
+    }
+  ],
+  "timeout_sec": 10
+}

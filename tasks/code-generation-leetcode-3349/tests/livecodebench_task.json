@@ -1,0 +1,121 @@
+{
+  "contest_date": "2024-03-23T00:00:00",
+  "contest_id": "weekly-contest-390",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3349",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"czhsodhycjshctcdqjmdhmmavroqenilrwdtszyeko\"",
+      "output": "23"
+    },
+    {
+      "input": "\"bkascuqpglsohkhyhgeeajauydzohnnwbtvugclspjchdhvvywtaeefbsatcvqtuhxmjubjkpkhqtrvpptgbgnnxblgqvhngs\"",
+      "output": "28"
+    },
+    {
+      "input": "\"jnozlmjphu\"",
+      "output": "10"
+    },
+    {
+      "input": "\"mgerxdaauqdfikbzrtaanenucuoxztbhfxjbepfaprreuauefvkcclrqtrhejdcczoghjbolpsvmybtdahionyioajhtlxgmapej\"",
+      "output": "28"
+    },
+    {
+      "input": "\"bbrjudpoojbosurbkjh\"",
+      "output": "11"
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabb\"",
+      "output": "4"
+    },
+    {
+      "input": "\"eifjzxarrwqkmaxajtqnpknqgypusqlzokqkr\"",
+      "output": "18"
+    },
+    {
+      "input": "\"kodphludvsglpszcwvazanisrqasaaperjeklzsfbwyqsvdcuyqofrypegigwlebhdsdlalaptcrihrdocluwcornqrjyfksdaam\"",
+      "output": "26"
+    },
+    {
+      "input": "\"abbcccddddeeeeeffffffggggggghhhhhhhhiiiiiiiiijjjjjjjjjjkkkkkkkkkkkllllllllllllmmmmmmmmmmmmmnnnnnnnnnnnnnnoooooooooooooooppppppppppppppppqqqqqqqqqqqqqqqqqrrrrrrrrrrrrrrrrrrsssssssssssssssssssttttttttttttttttttttuuuuuuuuuuuuuuuuuuuuuvvvvvvvvvvvvvvvvvvvvvvwwwwwwwwwwwwwwwwwwwwwwwxxxxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzzzzzzzzzzzzzzz\"",
+      "output": "5"
+    },
+    {
+      "input": "\"pwhhoivyswxzhpbfkbhcmoazbwlnrelcwkiqzjvencpnpttemfzsycmqjybnkwbelibhhazfxgwqgplrgyetguimuhqqktsmhpdx\"",
+      "output": "27"
+    },
+    {
+      "input": "\"abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz\"",
+      "output": "52"
+    },
+    {
+      "input": "\"lpmcoqunflnxmabdwekecgvftqtrlcqxtbyewijvaursixjfjpbmtuthsxufmcwvhnijctntbzknckxwdmsvuwbvdoelvdqlkxli\"",
+      "output": "28"
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\"",
+      "output": "2"
+    },
+    {
+      "input": "\"qxjvyqxjvy\"",
+      "output": "10"
+    },
+    {
+      "input": "\"acrcizbapksnakpfciewahyxtuyreourkgvcvmyvagrkuqzxdszcdenqsyrpatxtxokyytyjruazfndxmokntmoss\"",
+      "output": "29"
+    },
+    {
+      "input": "\"xdlnutycvkmqfncjjsxgeemqxwjvwoltioxwetthioognyqeuzbgxglavzzzmijlimjmcvwyevisvtjhmrp\"",
+      "output": "25"
+    },
+    {
+      "input": "\"bcmnivvfxjkdzdlgsvjtymcktsvrjyghmvlmbldcdngdxxihrbmhsnlvjtlbgfsaaljgvngzujblvly\"",
+      "output": "26"
+    },
+    {
+      "input": "\"vfcmospsgsrjgysrwxotwqadspprdpjltmbaxnoc\"",
+      "output": "18"
+    },
+    {
+      "input": "\"pqemy\"",
+      "output": "5"
+    },
+    {
+      "input": "\"iyrhxoqetwjgtogyloskzozwkcgtehadt\"",
+      "output": "19"
+    },
+    {
+      "input": "\"sjxa\"",
+      "output": "4"
+    },
+    {
+      "input": "\"wlsduwadzmlcvmegvudspiyinnljonmitrhuhisvnazhpqiphowpvhinlqzjhbdmzgkivukcvygfjvcpynzhcwxrnwmecwuvpkou\"",
+      "output": "25"
+    },
+    {
+      "input": "\"vwqdjyjnfc\"",
+      "output": "10"
+    },
+    {
+      "input": "\"bbbab\"",
+      "output": "3"
+    },
+    {
+      "input": "\"gklvbidiikgrg\"",
+      "output": "8"
+    },
+    {
+      "input": "\"bcbbbcba\"",
+      "output": "4"
+    },
+    {
+      "input": "\"aaaa\"",
+      "output": "2"
+    }
+  ],
+  "timeout_sec": 10
+}

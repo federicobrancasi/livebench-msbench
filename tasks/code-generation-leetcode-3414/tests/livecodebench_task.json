@@ -1,0 +1,121 @@
+{
+  "contest_date": "2024-05-18T00:00:00",
+  "contest_id": "weekly-contest-398",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3414",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "134217726",
+      "output": "378"
+    },
+    {
+      "input": "1073741816",
+      "output": "7888725"
+    },
+    {
+      "input": "512",
+      "output": "1"
+    },
+    {
+      "input": "1056964608",
+      "output": "0"
+    },
+    {
+      "input": "195526682",
+      "output": "0"
+    },
+    {
+      "input": "939524096",
+      "output": "0"
+    },
+    {
+      "input": "134217728",
+      "output": "1"
+    },
+    {
+      "input": "1073676288",
+      "output": "0"
+    },
+    {
+      "input": "1000000000",
+      "output": "0"
+    },
+    {
+      "input": "882158866",
+      "output": "0"
+    },
+    {
+      "input": "999999995",
+      "output": "0"
+    },
+    {
+      "input": "955774915",
+      "output": "0"
+    },
+    {
+      "input": "135",
+      "output": "0"
+    },
+    {
+      "input": "891839837",
+      "output": "0"
+    },
+    {
+      "input": "799431782",
+      "output": "0"
+    },
+    {
+      "input": "815360767",
+      "output": "0"
+    },
+    {
+      "input": "170",
+      "output": "0"
+    },
+    {
+      "input": "785000180",
+      "output": "0"
+    },
+    {
+      "input": "430127867",
+      "output": "0"
+    },
+    {
+      "input": "803726009",
+      "output": "0"
+    },
+    {
+      "input": "892092581",
+      "output": "0"
+    },
+    {
+      "input": "783186224",
+      "output": "0"
+    },
+    {
+      "input": "268435456",
+      "output": "1"
+    },
+    {
+      "input": "313226",
+      "output": "0"
+    },
+    {
+      "input": "16383",
+      "output": "15"
+    },
+    {
+      "input": "0",
+      "output": "2"
+    },
+    {
+      "input": "1",
+      "output": "4"
+    }
+  ],
+  "timeout_sec": 10
+}

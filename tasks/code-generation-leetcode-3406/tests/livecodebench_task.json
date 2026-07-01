@@ -1,0 +1,125 @@
+{
+  "contest_date": "2024-04-27T00:00:00",
+  "contest_id": "biweekly-contest-129",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3406",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "77\n80\n94",
+      "output": "694148718"
+    },
+    {
+      "input": "36\n30\n34",
+      "output": "379317957"
+    },
+    {
+      "input": "1\n1\n4",
+      "output": "2"
+    },
+    {
+      "input": "200\n200\n100",
+      "output": "70669177"
+    },
+    {
+      "input": "167\n178\n193",
+      "output": "937867833"
+    },
+    {
+      "input": "200\n200\n200",
+      "output": "587893473"
+    },
+    {
+      "input": "71\n80\n23",
+      "output": "647682807"
+    },
+    {
+      "input": "1\n1\n1",
+      "output": "2"
+    },
+    {
+      "input": "200\n200\n200",
+      "output": "587893473"
+    },
+    {
+      "input": "145\n1\n1",
+      "output": "0"
+    },
+    {
+      "input": "125\n55\n44",
+      "output": "277901833"
+    },
+    {
+      "input": "198\n199\n197",
+      "output": "193931817"
+    },
+    {
+      "input": "200\n200\n25",
+      "output": "292126791"
+    },
+    {
+      "input": "17\n32\n11",
+      "output": "132608169"
+    },
+    {
+      "input": "140\n140\n3",
+      "output": "263769180"
+    },
+    {
+      "input": "199\n2\n2",
+      "output": "0"
+    },
+    {
+      "input": "80\n75\n36",
+      "output": "28046756"
+    },
+    {
+      "input": "100\n146\n1",
+      "output": "0"
+    },
+    {
+      "input": "199\n200\n199",
+      "output": "793946540"
+    },
+    {
+      "input": "160\n160\n45",
+      "output": "138581274"
+    },
+    {
+      "input": "91\n177\n34",
+      "output": "165522641"
+    },
+    {
+      "input": "79\n80\n24",
+      "output": "729658037"
+    },
+    {
+      "input": "33\n200\n78",
+      "output": "584311251"
+    },
+    {
+      "input": "179\n45\n20",
+      "output": "361329389"
+    },
+    {
+      "input": "200\n200\n200",
+      "output": "587893473"
+    },
+    {
+      "input": "1\n1\n2",
+      "output": "2"
+    },
+    {
+      "input": "1\n2\n1",
+      "output": "1"
+    },
+    {
+      "input": "3\n3\n2",
+      "output": "14"
+    }
+  ],
+  "timeout_sec": 10
+}
