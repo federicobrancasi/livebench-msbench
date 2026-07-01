@@ -1,0 +1,181 @@
+{
+  "contest_date": "2025-03-01T18:30:00",
+  "contest_id": "weekly-contest-439",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3786",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"aut\"\n3",
+      "output": "2"
+    },
+    {
+      "input": "\"gd\"\n1",
+      "output": "1"
+    },
+    {
+      "input": "\"sgkvtpfhzaqqcpqurwtqstflvuejhauizysxckogelgdqynxdkqhexxpsdqoikugqafyvfmfulakvbtzxzampusrkbuae\"\n98",
+      "output": "75"
+    },
+    {
+      "input": "\"y\"\n2",
+      "output": "1"
+    },
+    {
+      "input": "\"mda\"\n18",
+      "output": "3"
+    },
+    {
+      "input": "\"a\"\n1",
+      "output": "1"
+    },
+    {
+      "input": "\"abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab\"\n189",
+      "output": "200"
+    },
+    {
+      "input": "\"sk\"\n13",
+      "output": "2"
+    },
+    {
+      "input": "\"y\"\n11",
+      "output": "1"
+    },
+    {
+      "input": "\"uzfmbdvwujewribdgfbebndxfloifvxzjpcspkvnpbacihvldfkobtuvbbyndprbbhlxduzeegkipmjerjtwlpwohcjsbijk\"\n67",
+      "output": "69"
+    },
+    {
+      "input": "\"jixbqrflevtrkjrayzqdgjwwvxyjrtunnzhboevkodqvxdxndhiohvlwjaxposzgtroesslejvnjnyssnxknpxoorguao\"\n64",
+      "output": "67"
+    },
+    {
+      "input": "\"eoaomoywvhgftyeadslggdpdsowqyuinzginteozwrpoeuxbaqlx\"\n87",
+      "output": "48"
+    },
+    {
+      "input": "\"eq\"\n23",
+      "output": "2"
+    },
+    {
+      "input": "\"n\"\n10",
+      "output": "1"
+    },
+    {
+      "input": "\"alr\"\n5",
+      "output": "1"
+    },
+    {
+      "input": "\"s\"\n8",
+      "output": "1"
+    },
+    {
+      "input": "\"gyyygdukgyrcgydpotkezwnrzpkxiqgxeoncnjsxckvmvuodbibbgoevgkcjinturopgnaomhvhmrqucfewpvolcqnvmeq\"\n45",
+      "output": "63"
+    },
+    {
+      "input": "\"vd\"\n10",
+      "output": "2"
+    },
+    {
+      "input": "\"zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkji\"\n34",
+      "output": "47"
+    },
+    {
+      "input": "\"yr\"\n15",
+      "output": "2"
+    },
+    {
+      "input": "\"ctwwaozjgjjinhfldoftqbgwhtxnlyianmqzfzxikumijtrkcjzmpvniueqpttsnykbpjjulpassurpgzqvygxhnkwuxbvqitz\"\n50",
+      "output": "68"
+    },
+    {
+      "input": "\"ndfwchtqjxxomjirkhvhqpdcvdkwdstvmuzulbexnrefduegggwxuhdtzqhzwafhuorqeyzwaxhcogqqcdnsxaadyydrsoyvuwmm\"\n149",
+      "output": "88"
+    },
+    {
+      "input": "\"l\"\n76",
+      "output": "1"
+    },
+    {
+      "input": "\"z\"\n14",
+      "output": "1"
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\"\n200",
+      "output": "200"
+    },
+    {
+      "input": "\"no\"\n5",
+      "output": "2"
+    },
+    {
+      "input": "\"z\"\n200",
+      "output": "1"
+    },
+    {
+      "input": "\"ou\"\n6",
+      "output": "2"
+    },
+    {
+      "input": "\"na\"\n13",
+      "output": "2"
+    },
+    {
+      "input": "\"j\"\n17",
+      "output": "1"
+    },
+    {
+      "input": "\"a\"\n20",
+      "output": "1"
+    },
+    {
+      "input": "\"tznfvsmxncrtlggtbbdefvxqymhautbgvkcytvsehajomyqbvlsfktehjhvydbhmastyqemygdlkxepwrhxgpvgvcaud\"\n53",
+      "output": "66"
+    },
+    {
+      "input": "\"lbg\"\n15",
+      "output": "3"
+    },
+    {
+      "input": "\"u\"\n28",
+      "output": "1"
+    },
+    {
+      "input": "\"qwr\"\n11",
+      "output": "3"
+    },
+    {
+      "input": "\"cmlpywnplbkwdeekehtpsyraayrusgljvikcfqmyjnxiqgpejydjybfqibcsmnuufkyervygdfbienmifngsjastkmuaeit\"\n71",
+      "output": "71"
+    },
+    {
+      "input": "\"pc\"\n2",
+      "output": "1"
+    },
+    {
+      "input": "\"bt\"\n10",
+      "output": "2"
+    },
+    {
+      "input": "\"uu\"\n24",
+      "output": "2"
+    },
+    {
+      "input": "\"pp\"\n11",
+      "output": "2"
+    },
+    {
+      "input": "\"abced\"\n2",
+      "output": "3"
+    },
+    {
+      "input": "\"aaazzz\"\n4",
+      "output": "6"
+    }
+  ],
+  "timeout_sec": 10
+}

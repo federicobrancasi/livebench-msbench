@@ -1,0 +1,189 @@
+{
+  "contest_date": "2025-03-29T19:30:00",
+  "contest_id": "weekly-contest-443",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3793",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"ffcrxpxpmxfdoszudpstqnhioahnbn\"\n\"kpdizmywliqvkqevumspsfvyhrs\"",
+      "output": "5"
+    },
+    {
+      "input": "\"tn\"\n\"but\"",
+      "output": "3"
+    },
+    {
+      "input": "\"tqrkyvaknctsxieyobebofepsuu\"\n\"tghyrqlytksmzybnfz\"",
+      "output": "7"
+    },
+    {
+      "input": "\"a\"\n\"b\"",
+      "output": "1"
+    },
+    {
+      "input": "\"xg\"\n\"c\"",
+      "output": "1"
+    },
+    {
+      "input": "\"kz\"\n\"z\"",
+      "output": "2"
+    },
+    {
+      "input": "\"eeeeeeeeeeeeeeeeeeeeeeeeeeeeee\"\n\"eeeeeeeeeeeeeeeeeeeeeeeeeeeeee\"",
+      "output": "60"
+    },
+    {
+      "input": "\"d\"\n\"rkw\"",
+      "output": "1"
+    },
+    {
+      "input": "\"ukp\"\n\"kr\"",
+      "output": "3"
+    },
+    {
+      "input": "\"n\"\n\"no\"",
+      "output": "2"
+    },
+    {
+      "input": "\"l\"\n\"s\"",
+      "output": "1"
+    },
+    {
+      "input": "\"x\"\n\"wud\"",
+      "output": "1"
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\"\n\"aaaaaaaaaaaaaaaaaaaaaaaaaaaa\"",
+      "output": "58"
+    },
+    {
+      "input": "\"dddddddddddddddddddddddddddddd\"\n\"ddddddddddddddddddddddddddddd\"",
+      "output": "59"
+    },
+    {
+      "input": "\"k\"\n\"ez\"",
+      "output": "1"
+    },
+    {
+      "input": "\"cccccccccccccccccccccccccccc\"\n\"cccccccccccccccccccccccccccc\"",
+      "output": "56"
+    },
+    {
+      "input": "\"ecvtyjghaxrmrvvaoqhkfvyvwdqqtd\"\n\"ruxlmjztnjbvnjbcbfuypkh\"",
+      "output": "5"
+    },
+    {
+      "input": "\"bbbbbbbbbbbbbbbbbbbbbbbbbbb\"\n\"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\"",
+      "output": "57"
+    },
+    {
+      "input": "\"jp\"\n\"few\"",
+      "output": "1"
+    },
+    {
+      "input": "\"f\"\n\"zzvz\"",
+      "output": "3"
+    },
+    {
+      "input": "\"w\"\n\"oliq\"",
+      "output": "1"
+    },
+    {
+      "input": "\"rvx\"\n\"wh\"",
+      "output": "1"
+    },
+    {
+      "input": "\"ab\"\n\"ba\"",
+      "output": "4"
+    },
+    {
+      "input": "\"zzzzzzzzzzzzzzzzzzzzzzzzzzz\"\n\"zzzzzzzzzzzzzzzzzzzzzzzzzz\"",
+      "output": "53"
+    },
+    {
+      "input": "\"x\"\n\"hkp\"",
+      "output": "1"
+    },
+    {
+      "input": "\"vn\"\n\"ln\"",
+      "output": "3"
+    },
+    {
+      "input": "\"fwy\"\n\"l\"",
+      "output": "1"
+    },
+    {
+      "input": "\"nfnqcjtrkqwmkvzbwuafxig\"\n\"kpjonlzcwuygleuzgfgkiuzpvvp\"",
+      "output": "5"
+    },
+    {
+      "input": "\"r\"\n\"qd\"",
+      "output": "1"
+    },
+    {
+      "input": "\"wpp\"\n\"tg\"",
+      "output": "2"
+    },
+    {
+      "input": "\"ih\"\n\"f\"",
+      "output": "1"
+    },
+    {
+      "input": "\"gy\"\n\"eq\"",
+      "output": "1"
+    },
+    {
+      "input": "\"ojbqgldyximoftirtifabxv\"\n\"cajrhwpnqbfmyrvrhgebhekjsxp\"",
+      "output": "5"
+    },
+    {
+      "input": "\"ebygjcqvxndxdbpexq\"\n\"ezbszjyywxzvrxmvopqnqsmcmvczl\"",
+      "output": "5"
+    },
+    {
+      "input": "\"frc\"\n\"mq\"",
+      "output": "1"
+    },
+    {
+      "input": "\"rlwinzohtgclebuvojh\"\n\"yhpwdajqktcurgdvlibczdsvnsgc\"",
+      "output": "3"
+    },
+    {
+      "input": "\"b\"\n\"kclm\"",
+      "output": "1"
+    },
+    {
+      "input": "\"ha\"\n\"zv\"",
+      "output": "1"
+    },
+    {
+      "input": "\"b\"\n\"x\"",
+      "output": "1"
+    },
+    {
+      "input": "\"uyycspuolqeiwzxmxjsslzngzniil\"\n\"pppyykflqfxwphepehkadrh\"",
+      "output": "7"
+    },
+    {
+      "input": "\"a\"\n\"a\"",
+      "output": "2"
+    },
+    {
+      "input": "\"abc\"\n\"def\"",
+      "output": "1"
+    },
+    {
+      "input": "\"b\"\n\"aaaa\"",
+      "output": "4"
+    },
+    {
+      "input": "\"abcde\"\n\"ecdba\"",
+      "output": "5"
+    }
+  ],
+  "timeout_sec": 10
+}
