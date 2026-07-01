@@ -1,0 +1,69 @@
+{
+  "contest_date": "2023-05-27T00:00:00",
+  "contest_id": "biweekly-contest-105",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "2755",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"d\"\n[\"u\", \"siufp\"]",
+      "output": "1"
+    },
+    {
+      "input": "\"b\"\n[\"fbl\", \"ohtht\", \"imvacly\"]",
+      "output": "1"
+    },
+    {
+      "input": "\"puqlxn\"\n[\"egkxndna\", \"tsqcrfkfp\"]",
+      "output": "6"
+    },
+    {
+      "input": "\"y\"\n[\"td\", \"jbuy\", \"cg\", \"qvq\", \"i\"]",
+      "output": "1"
+    },
+    {
+      "input": "\"efqv\"\n[\"u\", \"jwk\", \"wuic\", \"sn\", \"z\"]",
+      "output": "4"
+    },
+    {
+      "input": "\"mqsuxzkpzu\"\n[\"e\", \"z\", \"lxp\", \"u\", \"komf\"]",
+      "output": "6"
+    },
+    {
+      "input": "\"bhmjkaagpo\"\n[\"lwogxkjwi\", \"dwyyk\", \"ixdoqci\"]",
+      "output": "10"
+    },
+    {
+      "input": "\"ciupnp\"\n[\"ucv\", \"form\", \"ltp\", \"vhxl\", \"s\"]",
+      "output": "6"
+    },
+    {
+      "input": "\"jiyoqmm\"\n[\"m\", \"ymf\", \"xhepz\", \"tt\", \"cyi\"]",
+      "output": "5"
+    },
+    {
+      "input": "\"mbj\"\n[\"aqohwcojivnjnznofgulaxiqftihsisnm\", \"itbrxjzo\", \"wiob\", \"oqlnpypnx\", \"ffgojqsmomnfcdtsuoqiylenbejeradapgenpgnstczo\", \"zludwiwcxnsyoaamfrdcildyipdjoraztb\", \"xegguwsldxamckxkpaqw\", \"ctqmyibnclbwpdsftlzudoarlulvwcdvbbd\", \"rgojereilhzxqepvmfrtrwisaoqwjwnsknkcel\", \"evdzvkotezpgyztvrxmvsiyapcayhaddoxnfvcyvsbcxml\", \"mldvpfjipcptrx\", \"vnvyszhssmr\", \"tqghcmpnesxvehhnotemhxkaorksmwdxpbegbmupbvrppfveup\", \"frevdqpwyqqetjcsszbyzmatxsyefcitogxcburqvmeqspsn\", \"glmgzdrpqlyjguqvwbklxaumaqvvz\", \"lebgseljgxekhonifctg\", \"tgtumrjjxyumpq\", \"ipcyjocctgftqxuxmmbwysszstfufegrbkmsywv\", \"cruejdahkjmhrgsglmfrdnnbzzexknlhq\", \"qdpfaletimkozgrurarsodqkknytnospahpykhscmpk\", \"yddbxxvssvckttktwajxcmafbng\", \"yjhrgcyqwywtrblmzdcuqyebsoieirwt\", \"qmvsyuoqpnwrubfipwzjonltempxvdfrnkahxtisfhjs\", \"hdqebxgulymc\", \"csiwkg\", \"zmnstmxqqwyotpwnugqtmrxmlnbzxoiupyckryyhuzynb\", \"ixymvtorvqgmmnstzvosnhaiyhrzy\", \"orqxamcornjurbuaghqlkowcb\", \"dxqsxcwihspcjburmbvjioweypgnukvyoieds\", \"nlsqzqscrrvkmaap\", \"bgmdhjdmgixnpo\", \"hjqayflpwyjotfst\", \"kdbvsrnjrmratcwgwtqoyylwtdvkjfjjdyftvyudyxpcyqj\", \"mkepssstpbzlspwgrglqindkdseqfrssvlmgpbeo\", \"mnolkutldjxkqmhrqgzxkwlhvcgmlxsrvrrqtmhordifwwmbkp\", \"djpad\", \"dpqsvcsxvlemrih\", \"qfvbqfsklcsvsxhfqjbkqxbteltmtofbasqxeopbgnqbywfhen\", \"hfhuij\", \"hmsfhdpoxkkbjovzqkzdtldmwafaencjirlixtb\", \"rtfoe\", \"zdhehucpdgaunwpplulcujqrmakmybhhalaecuy\", \"jpflebnsxlwaf\", \"xzsgwvgadroxonehvydvhxxxfkhmdtcthtmlabnrrjewsjvywv\", \"fkyeseggscxwalnkkiskmuwvkplurtd\", \"umje\", \"jybcfxsfdirehsgjqcuxcqcuimnk\", \"fhwdfmbgkbitzwohgjgunthw\", \"kyaaffmhdltdjsrxrjaisliytt\", \"qjnthwumfajzvayoulaumleljqjmcukezkrwsdhxzjrgfgclgn\"]",
+      "output": "3"
+    },
+    {
+      "input": "\"rexdgbldkqagnhjtgqrwucgvpszptdgtpkqxfkx\"\n[\"xmtovslyjgukwdtuzuggxcoeuiubhafs\", \"odzkzxetdwofsdjdrztpoudewvzqnfshshd\", \"mgyvpoqjbarhl\", \"fwfezbjsprkqmhcgtejyswairmxsr\", \"znoomkfmiugmgxeynqyr\", \"rdvwftwwulmwxiqaujvnigpvfotanyavmkzxgvpmlci\", \"tkhlkoinqzhcggtajnvkxclkkunaayemhut\", \"sslgksaadx\", \"elwbfcmblryfbxjhwmjcjakyqxqdnkeaupwqq\", \"nwkxtutpxbtfdjhhuafrhxirshsefroebfrsz\", \"yplgszirpdtggzukhefeuijkskazqzuiptdkxtjwuqfbobft\", \"mpnvlsbgmhymejxqip\", \"ufrnaodzzvsmojambwyqhcrenvmfale\", \"luvtziufzkuyapdxpbdoxqx\", \"vkpuqkiltdzwqihhdqgdkbkkjd\", \"otkatsdljdlvowczmjzsrracmvy\", \"dngvvoosurh\", \"slqwqsxkfhbdquxvxmiyzljhkqfruypldicrvofiyb\", \"vxzffizdrvalasljaflkfmdkyhiujajywdws\", \"ezafkwrpkvicpu\", \"vlprarzfdazofgxxfauzuomwqcdprlscrk\", \"enadudyaphvspklpekuslbiybploolpxctivccmbfjsfswf\", \"wcgereyajkkuxalr\", \"rcaoevngsav\", \"dyhbayuoperlf\", \"ykgjhysjctkatxcusdmlnzlzz\", \"jrwkkqsmgnscsdlajqrisxdijgrhoykhxcimjkiei\", \"bgftkmsxbfaxqptsvbz\", \"apkhgmaatvhzpspnzvfeqjuvjtpbvtte\", \"fsmgmiuhufzohsciugrabeotuqbndpoyjdig\", \"vwkoainmgagcjaip\", \"hywwdhxbqfczlapiqqwykpgzjjcmqnbuqwdnttgigoxr\", \"dwlaixvaqtoqvxv\", \"apgjwazbwcuvzdxrcoiteapteqmuifuvvvsrextwcfsw\", \"gvplskmlmqqbvofflh\", \"tmapjkngifoatrajdubmwbelkyvixhajeflte\", \"igtyzmjeyoi\", \"nsubkohodrzuonguazuzypnvmaxgzccwierloblk\", \"pwdzlljjtreakegjpbtncjasd\", \"jqycmhlxtnjnwmjzipdgcazlcjrxasvzg\", \"dktgxdhcrh\", \"ydeclbniwwmprfzlljnjlsyjmdzwzv\", \"nrfunclxtcwjbhshbeqsqwcnlyksabltwevfxfxdfontgg\", \"gomoigrilblzetisknchnyitqcbgsdvtqu\", \"ppioiihsxvldgetsnxigerxartlefzjsmkxmkuc\", \"wstgocouympxtkvxolavablsqikcaqae\", \"hegxzlopldwjrerbrsyhgortgsekoz\", \"ocwvzahflqh\", \"jydejrjsjidqkolqjddfdkzjatukyxozpmqo\", \"buizauqnmpj\"]",
+      "output": "39"
+    },
+    {
+      "input": "\"frickzggjkpukhvnxcobqspnnaalkjvpnmrhmzikjupzldsxb\"\n[\"gupaoxiattxtctlpcbylcdxfhflzatdmhtcyqzlwop\", \"snuzxkpxvfixrcubmlnjpnhxdeaypnlldwhcynwojktkb\", \"ahugmldkaeqxzdwpblcnbxuxfzrockdqlkepmbivvpwzpsjgj\", \"ssudvtzsdlxgucfc\", \"zlropnfwuk\", \"smalwustqjpmqlrcebiywjybpxvrbbzppudyzsuxy\", \"xhzeprgszlalakhpgheebeffmvbkkovsevdcyrhtoy\", \"enpsvrbpuotowurid\", \"pwtorgnpfzhqfzxebkqjaombegoflxbwapczhjcghn\", \"wthiqdosebpaykuabxjhmwnclpzgrosukgwauyxoncedz\", \"jigfyluhisbpueaazbxzrrmxolqmumnhktwx\", \"fdxtgdgvhkvqeltzmqqammcfkulsmojzmgrjqhmpx\", \"dxvadxnxzkdjwjkbtbspt\", \"ryosapxpctp\", \"shmbxsbkltyjwaijfgbwvwtwwkbqydqoxqgi\", \"ubtpayhxhcfhicwyuovirbeuozgd\", \"zgvkxbmuuxxhyxnolvhvuztzuhjuxofiloyh\", \"qlqukjvcskpmqeelupigsxwxkzoonwkqccodlptrkfqqm\", \"bbxvhxpyckenrwlhixibpibmyopkksnk\", \"argpkriyzjvzngyox\", \"dexpudzesjuhqcqnaeslpbxuazhxbjlgtxzafdmeymbzpt\", \"nvuqxogssdmgmcbzclbjokzpttjksvzegncfrnzcfhbgz\", \"vvtmbekmdngleiw\", \"ooghwbrmvmjwuizyxvj\", \"qhscxnolzy\", \"dlwxogcqcjpgclyosimrqylswba\", \"vldjsyvdxfyxbcjarutybsxupefivdjmzfbie\", \"sdmndfatewuxaktpdsgqnjhlmruszmjgivbmfv\", \"aaupkerrjuuezwwzwdliphyfkdipxpjpwqdlxncbxenffg\", \"hdhgqqkqresuedcwszuxaiinxxw\", \"vphmkpcdmefnczzmdhcvuxfoaitry\", \"hwiaqevofxxpxmodbmltidvvfsqnwfqalnhlsknasrym\", \"mjydjuaujfdcaobyzwzpcicdxeytbgtetzl\", \"garglglzpjidikygnyyjzcquzp\", \"wjkcpztilehufvwvoypfbrlatldogbzmhmfwgibcen\", \"btkhsivugkhfkwqeekwunfqqzjfhmcuwwx\", \"ahozkbyayeuuwxjjxpnjvltytwkatgquvaugcutqeaysnwov\", \"sxgukbovzenlgszpxeadvaxf\", \"msfihwysgviyutuib\", \"bvkwjwlnsmabgercvii\", \"bbgudafmuckeqyawmjwadnfzoe\", \"lbamkrhpkqutpe\", \"ccepppktrnvpuwxoyxckxosoh\", \"uvrtzyqdgemtkvnvzubsrfhwjifxzzzmnccpmxfxrznkfi\", \"rndozlawndnxjunbwivvagzpiqvzijvkic\", \"mfkdbikynmidqgdingxfvgbzdjspq\"]",
+      "output": "49"
+    },
+    {
+      "input": "\"leetscode\"\n[\"leet\", \"code\", \"leetcode\"]",
+      "output": "1"
+    },
+    {
+      "input": "\"sayhelloworld\"\n[\"hello\", \"world\"]",
+      "output": "3"
+    }
+  ],
+  "timeout_sec": 10
+}

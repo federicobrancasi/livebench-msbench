@@ -1,0 +1,29 @@
+{
+  "contest_date": "2023-09-22T00:00:00",
+  "contest_id": "1883",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "codeforces",
+  "question_id": "1883_B",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "5\n10 3\naaabbbcccd\n10 1\naaabbccddd\n10 0\naaabbccddd\n10 9\nabcdefghij\n10 2\naabbccddee\n",
+      "output": "YES\nYES\nNO\nYES\nYES"
+    },
+    {
+      "input": "5\n10 5\naaabbbbccc\n10 5\naaabbbcccc\n10 4\naabbccddeeff\n11 3\naabbccddeeff\n10 8\naaabbbbccc",
+      "output": "YES\nYES\nYES\nYES\nYES"
+    },
+    {
+      "input": "5\n15 7\naaabbbcccdddeee\n15 8\naaabbccddeeffggh\n17 9\naaabbbcccdddeeeff\n21 10\naabbccddeeffgghhiijj\n20 0\naabbccddeeffgghhiijjkk",
+      "output": "YES\nYES\nYES\nYES\nYES"
+    },
+    {
+      "input": "14\n1 0\na\n2 0\nab\n2 1\nba\n3 1\nabb\n3 2\nabc\n6 2\nbacacd\n6 2\nfagbza\n6 2\nzwaafa\n7 2\ntaagaak\n14 3\nttrraakkttoorr\n5 3\ndebdb\n5 4\necadc\n5 3\ndebca\n5 3\nabaac\n",
+      "output": "YES\nNO\nYES\nYES\nYES\nYES\nNO\nNO\nYES\nYES\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "timeout_sec": 10
+}

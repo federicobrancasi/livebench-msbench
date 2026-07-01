@@ -1,0 +1,185 @@
+{
+  "contest_date": "2024-11-23T00:00:00",
+  "contest_id": "arc188",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "arc188_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "6 6\nABCABC",
+      "output": "0\n"
+    },
+    {
+      "input": "9 28\nAAC?ACCAC",
+      "output": "0\n"
+    },
+    {
+      "input": "2 1\nCC",
+      "output": "1\n"
+    },
+    {
+      "input": "10 0\n??????????",
+      "output": "59049\n"
+    },
+    {
+      "input": "48 933\nCABB??CACB?BCC?ABACBC?BCCBCACABCA?AABAABCAAC?BB?",
+      "output": "0\n"
+    },
+    {
+      "input": "4 2\nA?AB",
+      "output": "1\n"
+    },
+    {
+      "input": "9 31\nAA?CC?A?B",
+      "output": "0\n"
+    },
+    {
+      "input": "49 510\nBA?CCBBA??CC?CBBAA???BCC??B??C?A?CB?ABAC??AAA?ACA",
+      "output": "0\n"
+    },
+    {
+      "input": "4 10\n?C??",
+      "output": "0\n"
+    },
+    {
+      "input": "48 1004\nAA?CACB?CABA??CB?CAAA?CABBA?CAB??AA?AA?BA???A?CC",
+      "output": "0\n"
+    },
+    {
+      "input": "2 3\nCB",
+      "output": "0\n"
+    },
+    {
+      "input": "3 1\n?CC",
+      "output": "3\n"
+    },
+    {
+      "input": "17 38\nC?A???AA?BAABCACB",
+      "output": "66\n"
+    },
+    {
+      "input": "6 2\nCA?CBB",
+      "output": "3\n"
+    },
+    {
+      "input": "7 28\nCC?CBA?",
+      "output": "0\n"
+    },
+    {
+      "input": "4 4\nC?BB",
+      "output": "0\n"
+    },
+    {
+      "input": "6 7\nCABBBB",
+      "output": "0\n"
+    },
+    {
+      "input": "15 35\n?ACBCABCAAABCCC",
+      "output": "0\n"
+    },
+    {
+      "input": "47 987\nCBACAA???A????AAABAB?B?A??ABB?BBCCC?ACBC??CCBAA",
+      "output": "0\n"
+    },
+    {
+      "input": "3 0\n??A",
+      "output": "9\n"
+    },
+    {
+      "input": "6 13\nBA?AA?",
+      "output": "0\n"
+    },
+    {
+      "input": "2 2\nAC",
+      "output": "0\n"
+    },
+    {
+      "input": "5 10\nAAAAA",
+      "output": "0\n"
+    },
+    {
+      "input": "9 40\nABA??CABA",
+      "output": "0\n"
+    },
+    {
+      "input": "16 126\n??CBB?CABBCCCCAC",
+      "output": "0\n"
+    },
+    {
+      "input": "1 0\nB",
+      "output": "1\n"
+    },
+    {
+      "input": "10 40\nAAABA?ACAA",
+      "output": "0\n"
+    },
+    {
+      "input": "45 7\nCCBBCBA??C?BC??B?BCBBB?C????BB?BA?ABABCABBCAC",
+      "output": "1594323\n"
+    },
+    {
+      "input": "1 1\n?",
+      "output": "0\n"
+    },
+    {
+      "input": "9 13\nC?A?CBCBB",
+      "output": "0\n"
+    },
+    {
+      "input": "46 507\n?CBC?A?BCA??ABCACB??A?B?CAACAAC???ACCCBAAACCCA",
+      "output": "0\n"
+    },
+    {
+      "input": "2 1\nBA",
+      "output": "0\n"
+    },
+    {
+      "input": "2 3\nA?",
+      "output": "0\n"
+    },
+    {
+      "input": "50 411\n??AB??C???????????????????????????????A???C????A??",
+      "output": "457279314\n"
+    },
+    {
+      "input": "6 16\nCA?BA?",
+      "output": "0\n"
+    },
+    {
+      "input": "49 202\nB?BBCA?AA?CACBCBBACCBC?CBBACCAB?BBABB?BBBB?CB?AAC",
+      "output": "6561\n"
+    },
+    {
+      "input": "1 0\n?",
+      "output": "3\n"
+    },
+    {
+      "input": "20 204\nB?C?AAA?BC???BAABCCC",
+      "output": "0\n"
+    },
+    {
+      "input": "16 10\nCBBCC?BCA?BACBAC",
+      "output": "9\n"
+    },
+    {
+      "input": "45 721\nAACACCBABCABBABAACCABBB?A?CCBABCC?CCCBAACB?BB",
+      "output": "0\n"
+    },
+    {
+      "input": "4 2\nA?AB",
+      "output": "1"
+    },
+    {
+      "input": "50 411\n??AB??C???????????????????????????????A???C????A??",
+      "output": "457279314"
+    },
+    {
+      "input": "1 0\nA",
+      "output": "1"
+    }
+  ],
+  "timeout_sec": 10
+}

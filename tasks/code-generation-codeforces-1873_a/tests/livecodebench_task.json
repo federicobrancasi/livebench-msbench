@@ -1,0 +1,33 @@
+{
+  "contest_date": "2023-08-21T00:00:00",
+  "contest_id": "1873",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "codeforces",
+  "question_id": "1873_A",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1\nabc\n",
+      "output": "YES\n"
+    },
+    {
+      "input": "3\nabc\nabc\nabc\n",
+      "output": "YES\nYES\nYES\n"
+    },
+    {
+      "input": "5\ncab\nacb\ncba\nbac\nbca\n",
+      "output": "NO\nYES\nYES\nYES\nNO\n"
+    },
+    {
+      "input": "6\nabc\nabc\nabc\nabc\nabc\nabc\n",
+      "output": "YES\nYES\nYES\nYES\nYES\nYES\n"
+    },
+    {
+      "input": "6\nabc\nacb\nbac\nbca\ncab\ncba\n",
+      "output": "YES\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "timeout_sec": 10
+}

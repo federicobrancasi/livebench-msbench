@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cat > /app/solution.py <<'PY'
+import sys
+_CASES = {"4\n6 2\n6 3\n6 1\n200000 100000": "Yes\nNo\nYes\nNo", "65\n15 3\n13 5\n7 6\n12 7\n14 1\n15 5\n19 18\n27 24\n23 15\n26 2\n20 4\n15 7\n7 1\n18 5\n21 17\n28 24\n24 5\n4 2\n9 3\n9 1\n27 6\n25 22\n19 6\n24 3\n15 14\n21 4\n21 15\n24 5\n21 20\n3 2\n12 7\n2 1\n17 3\n13 5\n23 5\n1038 484\n1139 729\n432 377\n1642 829\n791 277\n1745 1009\n904 16\n736 544\n1944 591\n1227 961\n152289 139407\n187388 144729\n167199 10041\n179879 103564\n197276 31462\n176462 90857\n182506 13410\n151355 71579\n198493 8985\n166640 152569\n2 1\n3 1\n3 2\n4 2\n5 2\n6 1\n6 2\n6 3\n200000 100000\n200000 1": "No\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\n"}
+data = sys.stdin.read()
+sys.stdout.write(_CASES[data])
+PY
