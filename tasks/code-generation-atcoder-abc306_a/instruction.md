@@ -1,0 +1,50 @@
+# Echo
+
+Source: atcoder
+Scenario: code_generation
+Difficulty: easy
+Contest: abc306
+Contest date: 2023-06-17T00:00:00
+
+You are given a string S of length N consisting of lowercase English letters.
+We denote the i-th character of S by S_i.
+Print the string of length 2N obtained by concatenating S_1,S_1,S_2,S_2,\dots,S_N, and S_N in this order.
+For example, if S is beginner, print bbeeggiinnnneerr.
+
+Input
+
+The input is given from Standard Input in the following format:
+N
+S
+
+Output
+
+Print the answer.
+
+Constraints
+
+
+- N is an integer such that 1 \le N \le 50.
+- S is a string of length N consisting of lowercase English letters.
+
+Sample Input 1
+
+8
+beginner
+
+Sample Output 1
+
+bbeeggiinnnneerr
+
+It is the same as the example described in the problem statement.
+
+Sample Input 2
+
+3
+aaa
+
+Sample Output 2
+
+aaaaaa
+
+Write your final answer to `/app/solution.py`.

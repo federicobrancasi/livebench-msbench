@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-05-20T00:00:00",
+  "contest_id": "abc302",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc302_c",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "2 2\nuw\nun\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "3 1\nj\nw\na\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "4 1\nz\ni\nj\nb\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "2 5\nwdqms\nppqfo\n",
+      "output": "No\n"
+    },
+    {
+      "input": "3 4\nyzuz\nezuz\nuzuz\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "5 3\nbag\nbad\nbat\nbed\ndad\n",
+      "output": "No\n"
+    },
+    {
+      "input": "6 4\neeee\neeeg\ngeeg\nkeeg\nweee\nxeee\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "6 4\ncccc\ncccd\ndccd\njccd\noccc\nwccc\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "6 4\ncccc\ncccg\ngccg\nhccg\niccc\nuccc\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "8 5\nlvntx\nlvytx\nlvynx\nmvfox\nmvyox\novfox\nlvnwx\nmvynx\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "8 5\naoymb\nfoymb\npocmb\npvcdb\npicdb\npocdb\nfocmb\npicgb\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "8 5\nbtacv\nbgacv\nbtlcv\nbwoyv\nbgucv\nbtoyv\nbguyv\nbwuyv\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "4 4\nbbed\nabcd\nabed\nfbed\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "2 5\nabcde\nabced\n",
+      "output": "No\n"
+    },
+    {
+      "input": "8 4\nfast\nface\ncast\nrace\nfact\nrice\nnice\ncase\n",
+      "output": "Yes\n"
+    }
+  ],
+  "timeout_sec": 10
+}

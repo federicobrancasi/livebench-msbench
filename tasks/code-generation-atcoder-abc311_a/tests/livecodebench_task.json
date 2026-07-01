@@ -1,0 +1,65 @@
+{
+  "contest_date": "2023-07-22T00:00:00",
+  "contest_id": "abc311",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc311_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "3\nCBA\n",
+      "output": "3\n"
+    },
+    {
+      "input": "3\nACB\n",
+      "output": "3\n"
+    },
+    {
+      "input": "3\nBAC\n",
+      "output": "3\n"
+    },
+    {
+      "input": "38\nAAABBACAACABCBABABBAABCCACACACACCCBABC\n",
+      "output": "7\n"
+    },
+    {
+      "input": "65\nCCBBCBAABBACBCCBCCCACBAABCBCCCBCAACACBAAABCCABBCBCCABABCBCBACCACC\n",
+      "output": "7\n"
+    },
+    {
+      "input": "100\nBBAABBCAABABCACBBBAAABBAAAACCBCABCCBBBBCBACBBAAACBCAABCBABCACBCBACACCBCACABCAACBACBABAABCACABBBBABBC\n",
+      "output": "7\n"
+    },
+    {
+      "input": "100\nBBABBBBAAABBBBBBBBBABBBAAABAABABBBBBBBBABBBBABABBABABBBABBBAABAAAABBAAAABABBBABCBACCBBCAACCCABBBACBA\n",
+      "output": "80\n"
+    },
+    {
+      "input": "100\nBBBCBCBBCCCCBCBBBBBBCCCBBBCBBBCCBCCBCCBBBBCBBBBBCBCBBCBCBCBACCBCCCBAABCABCABCACCBCACCACBBAACAACACBAA\n",
+      "output": "60\n"
+    },
+    {
+      "input": "100\nCACACACAAACACCACAAACCAACACCAACCCACAAACCCACCAACCCACCACAACBAAACCCACCBACBCBCABABAABCCCCAACBACBBBBBBBACC\n",
+      "output": "57\n"
+    },
+    {
+      "input": "100\nBBBABBAABAAABBABABAABABBABABAAAABABBABBBBABBAAAABBABAABAAAAABAAAABAAAAAAAABAAABBABABABABABBBAAAABBBC\n",
+      "output": "100\n"
+    },
+    {
+      "input": "5\nACABB\n",
+      "output": "4\n"
+    },
+    {
+      "input": "4\nCABC\n",
+      "output": "3\n"
+    },
+    {
+      "input": "30\nAABABBBABABBABABCABACAABCBACCA\n",
+      "output": "17\n"
+    }
+  ],
+  "timeout_sec": 10
+}

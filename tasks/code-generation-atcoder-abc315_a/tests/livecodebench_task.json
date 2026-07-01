@@ -1,0 +1,61 @@
+{
+  "contest_date": "2023-08-19T00:00:00",
+  "contest_id": "abc315",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc315_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "q\n",
+      "output": "q\n"
+    },
+    {
+      "input": "xxihohrpmlovamyuwtmnpsvzhrqdnqjimlcttat\n",
+      "output": "xxhhrpmlvmywtmnpsvzhrqdnqjmlcttt\n"
+    },
+    {
+      "input": "bxvxfepvcfawalnkhrihpvgwoawrgbjxaiqptwggtwrnahnniizw\n",
+      "output": "bxvxfpvcfwlnkhrhpvgwwrgbjxqptwggtwrnhnnzw\n"
+    },
+    {
+      "input": "aiouiioeiaoaueaeeuaaeiueouiuuieouaiaauiieeuaoibuiiioueauaiuoeuaoaaoaooaieeiaaeeeeoeeueououaioooaeoeo\n",
+      "output": "b\n"
+    },
+    {
+      "input": "olximyfqthddbjjvouukmjnarxvungsfbyuwekidckzlefpyqkuwwnrfeigcwmqyfiyfdb\n",
+      "output": "lxmyfqthddbjjvkmjnrxvngsfbywkdckzlfpyqkwwnrfgcwmqyfyfdb\n"
+    },
+    {
+      "input": "vlooccgazmndgbrssrenjglzouruftlnjldeosgfirhxuvmqtbrkbqkdbaovbbeqnsooxrgbkfiakyxjonhyacmetzhfqorpemzz\n",
+      "output": "vlccgzmndgbrssrnjglzrftlnjldsgfrhxvmqtbrkbqkdbvbbqnsxrgbkfkyxjnhycmtzhfqrpmzz\n"
+    },
+    {
+      "input": "tsrdxhfuflchxmcmibvmgepaagbxrsqrepovmzkzmyrxwbcbrqliqenpohnglejxffviyhieolpmwxzvcrtrfihhpkctrobiwdzh\n",
+      "output": "tsrdxhfflchxmcmbvmgpgbxrsqrpvmzkzmyrxwbcbrqlqnphngljxffvyhlpmwxzvcrtrfhhpkctrbwdzh\n"
+    },
+    {
+      "input": "rbmlslpndjhnlwanzjyvbpymdhehcabgidlqwszkpkvqyxhtxhpxmapqwaxgcxoievhefrstvhjmidxbyzltnmpasacdgzpvipdt\n",
+      "output": "rbmlslpndjhnlwnzjyvbpymdhhcbgdlqwszkpkvqyxhtxhpxmpqwxgcxvhfrstvhjmdxbyzltnmpscdgzpvpdt\n"
+    },
+    {
+      "input": "dvpvfjkzhcjfflmpnckfqbhxrxhpnvphdvsttzpqvdvqqmggtptcqfspywzbgjzjycmvmtdrczjyxjvykdxdxnbfqjctnrwqynjc\n",
+      "output": "dvpvfjkzhcjfflmpnckfqbhxrxhpnvphdvsttzpqvdvqqmggtptcqfspywzbgjzjycmvmtdrczjyxjvykdxdxnbfqjctnrwqynjc\n"
+    },
+    {
+      "input": "atcoder\n",
+      "output": "tcdr\n"
+    },
+    {
+      "input": "xyz\n",
+      "output": "xyz\n"
+    },
+    {
+      "input": "aaaabbbbcccc\n",
+      "output": "bbbbcccc\n"
+    }
+  ],
+  "timeout_sec": 10
+}

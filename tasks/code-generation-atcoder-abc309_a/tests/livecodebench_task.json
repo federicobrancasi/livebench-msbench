@@ -1,0 +1,65 @@
+{
+  "contest_date": "2023-07-08T00:00:00",
+  "contest_id": "abc309",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc309_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "6 7\n",
+      "output": "No\n"
+    },
+    {
+      "input": "1 4\n",
+      "output": "No\n"
+    },
+    {
+      "input": "3 6\n",
+      "output": "No\n"
+    },
+    {
+      "input": "3 9\n",
+      "output": "No\n"
+    },
+    {
+      "input": "2 8\n",
+      "output": "No\n"
+    },
+    {
+      "input": "1 5\n",
+      "output": "No\n"
+    },
+    {
+      "input": "4 8\n",
+      "output": "No\n"
+    },
+    {
+      "input": "1 2\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "2 3\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "4 5\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "7 8\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1 9\n",
+      "output": "No\n"
+    },
+    {
+      "input": "3 4\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,45 @@
+{
+  "contest_date": "2023-06-17T00:00:00",
+  "contest_id": "abc306",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc306_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1\nw\n",
+      "output": "ww\n"
+    },
+    {
+      "input": "15\nlabmkzolghhjnny\n",
+      "output": "llaabbmmkkzzoollgghhhhjjnnnnyy\n"
+    },
+    {
+      "input": "21\nkkgljnshbnuvdyfjmxcah\n",
+      "output": "kkkkgglljjnnsshhbbnnuuvvddyyffjjmmxxccaahh\n"
+    },
+    {
+      "input": "31\ncdihkijrkfyqlipzecevgeptpgdieax\n",
+      "output": "ccddiihhkkiijjrrkkffyyqqlliippzzeecceevvggeeppttppggddiieeaaxx\n"
+    },
+    {
+      "input": "50\ncccccccccccccccccccccccccccccccccccccccccccccccccc\n",
+      "output": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc\n"
+    },
+    {
+      "input": "50\nokbmrctejlvtbenwuugawzohrpfsigqkdmhqdflsxnxcvpiyaj\n",
+      "output": "ookkbbmmrrcctteejjllvvttbbeennwwuuuuggaawwzzoohhrrppffssiiggqqkkddmmhhqqddffllssxxnnxxccvvppiiyyaajj\n"
+    },
+    {
+      "input": "8\nbeginner\n",
+      "output": "bbeeggiinnnneerr\n"
+    },
+    {
+      "input": "3\naaa\n",
+      "output": "aaaaaa\n"
+    }
+  ],
+  "timeout_sec": 10
+}

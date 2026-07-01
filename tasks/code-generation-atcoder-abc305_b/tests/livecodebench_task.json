@@ -1,0 +1,69 @@
+{
+  "contest_date": "2023-06-10T00:00:00",
+  "contest_id": "abc305",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc305_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "D E\n",
+      "output": "1\n"
+    },
+    {
+      "input": "D A\n",
+      "output": "8\n"
+    },
+    {
+      "input": "E A\n",
+      "output": "9\n"
+    },
+    {
+      "input": "E C\n",
+      "output": "5\n"
+    },
+    {
+      "input": "D F\n",
+      "output": "6\n"
+    },
+    {
+      "input": "D B\n",
+      "output": "5\n"
+    },
+    {
+      "input": "E F\n",
+      "output": "5\n"
+    },
+    {
+      "input": "G A\n",
+      "output": "23\n"
+    },
+    {
+      "input": "A G\n",
+      "output": "23\n"
+    },
+    {
+      "input": "F B\n",
+      "output": "11\n"
+    },
+    {
+      "input": "D G\n",
+      "output": "15\n"
+    },
+    {
+      "input": "A C\n",
+      "output": "4\n"
+    },
+    {
+      "input": "G B\n",
+      "output": "20\n"
+    },
+    {
+      "input": "C F\n",
+      "output": "10\n"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-07-01T00:00:00",
+  "contest_id": "abc308",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc308_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "0 0 0 0 0 0 0 0\n",
+      "output": "No\n"
+    },
+    {
+      "input": "75 200 325 325 400 525 600 875\n",
+      "output": "No\n"
+    },
+    {
+      "input": "71 196 324 378 535 614 692 742\n",
+      "output": "No\n"
+    },
+    {
+      "input": "188 277 398 523 565 630 630 642\n",
+      "output": "No\n"
+    },
+    {
+      "input": "250 325 275 425 475 600 150 675\n",
+      "output": "No\n"
+    },
+    {
+      "input": "758 298 613 297 736 174 451 598\n",
+      "output": "No\n"
+    },
+    {
+      "input": "592 357 505 187 447 206 672 427\n",
+      "output": "No\n"
+    },
+    {
+      "input": "800 700 675 850 475 225 325 350\n",
+      "output": "No\n"
+    },
+    {
+      "input": "125 225 125 300 500 525 625 650\n",
+      "output": "No\n"
+    },
+    {
+      "input": "125 150 175 225 250 275 600 675\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "325 325 325 325 325 325 325 325\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1000 1000 1000 1000 1000 1000 1000 1000\n",
+      "output": "No\n"
+    },
+    {
+      "input": "125 175 250 300 400 525 600 650\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100 250 300 400 325 575 625 675\n",
+      "output": "No\n"
+    },
+    {
+      "input": "0 23 24 145 301 413 631 632\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}
