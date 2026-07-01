@@ -1,0 +1,181 @@
+{
+  "contest_date": "2024-08-31T07:30:00",
+  "contest_id": "biweekly-contest-138",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3540",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"m\"\n1",
+      "output": "\"m\""
+    },
+    {
+      "input": "\"lgylscqqzbddgjwnkraiwtiapriuxgjjxqdisohsahaezejtgyyupwrazloggeejpbojecnxhmbh\"\n38",
+      "output": "\"rs\""
+    },
+    {
+      "input": "\"cz\"\n1",
+      "output": "\"cz\""
+    },
+    {
+      "input": "\"dhonjghyiq\"\n1",
+      "output": "\"dhonjghyiq\""
+    },
+    {
+      "input": "\"iw\"\n1",
+      "output": "\"iw\""
+    },
+    {
+      "input": "\"na\"\n1",
+      "output": "\"na\""
+    },
+    {
+      "input": "\"i\"\n1",
+      "output": "\"i\""
+    },
+    {
+      "input": "\"qoockasapxojrnoyppzsyipawnfrhwwvbdymyrrzhyzjaiqjtxryysucuysviobfqrhroemcpanjzpkrgsytejrnftrlguaywsuhmctiblgfbhooocwtegezspletgaeogcbxywnkirbgaqpfwlczqhnmitacqpqltngivgbjsfzjjcmuqbsxatpoanrszvznxnkbkwhjtffanckgwhtmywehddvcwycyqzyudasigqznvkxpdymagogattjakmdpkzqlqszxskwwsacqvtckriydfljwqrzrmgjjghszdbyezyatgdhjxrwakqqkbbeiqdndjsgztdokfcjwgsexbdyqrhyaewtlwwmoerswqmbsydwvpzrtgeakbsdhtklocbnqyneprhlxrjrtwsojetzdehvflnkzwqixfsijupinmvwsfnukkcqisozrgstjjvhbcluqcvfugedxckbloutxbiccbjfahaqzebiscgttvcfhpdwfxaebvtrlrvibzdfrjapeurqhkcdywvpthuitrrrsrthpdnlulcyohehawuyjgaujsarehbuszobsvildxjrdtdolonidnamrbicnqdryqkugohhidimfawagpyiafnssylxizypeyvzimsufziujihbzpzwgnsfbxmwrlwqappmnblx\"\n13",
+      "output": "\"wykyjuwnqcnzncijwkaotlzbxshicjkpitddlqxtyczfpyaogvrw\""
+    },
+    {
+      "input": "\"guhzumdrlchoohhexgfnxmeznrqdqxdcrajsdynmfugndaqpjjgwulvgptvarzwyuthtxuwqcrcupmmuodwyofziwcislroebekmzajydvikqteikyoreivikcawmilitccgeajwxcmaybqovmgqunpuckojgrasovmqtgjinetzleuuwziriedoyuogtpmsszaggsma\"\n2",
+      "output": "\"aggunvvldsjdetnfrbbzztdfscfbivqunarmtwbgruthyacsfwzhysjmifmdmwutviefzmzehwhjmxxsjczrrspovzmrsuiergym\""
+    },
+    {
+      "input": "\"ei\"\n1",
+      "output": "\"ei\""
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\"\n52",
+      "output": "\"aaaaa\""
+    },
+    {
+      "input": "\"wanvaycxwugryzwqmrbpjazhhmlwdwfgdhdgujdpfsltuzwbmhgojildbqucxjwrmlyudcuvmlpsqdsyhpxbuqyudtddnwwutygfpamlgbrawdzwtxnikxhlygimduheomxognzdupmezmqfzztrbzxuvqjjqqywjoyuanbdcdwxdzawcfsdzxdzsomvhmslsmpsxccspheapvxabjtmgdwrsytrxdytgujtlydipojmkglyixxqqtdpyqzgkhbzowreietrswdvymjlvtsqpjmsgjwjivhvqwmnqsjonldcibujgyrdpocxcrstbewtimsmtvajzhufcwpwxuspwgqfcohdbqvpmxjodjbtuzzxdgvozrsujvkoriytsxefmmaercxnybfdkwkaewlrrixtfkrezivkglusqgphgnfljqquagohxbvvnrahhxjqcfwvnhvhfegqpuvufxvclryfaxybcynsuclxfnhhghszscniixermzxvfraqsdvppkhfogutptikpowuzaqttucgpnwgldqficrccsyoagulfhnhnsisxgandychukjxefngymjhlvgagmundkyuoizozureeopkosqowkkbqyjubrnnqhypkcwsahlqbvpmpuemkvmvnxsrcbgqmnxhkpockokoiotsbfjwccpyqxzmptccdlwbqqhefgzwphnybncxlmbvebaojzzqpzzdboylbtppknktctziztjtnjdlgjnrsdensowdgwmlvwbamwqcjjeasibghvpvlakajojzmiqszvckaaghmyicrrmpwbdkrunsypefoqewcodbvkvegtbwaoksavtpsskcqjkgdbkzixsr\"\n36",
+      "output": "\"itwvgdwfbtlqzmjyqanxxlyz\""
+    },
+    {
+      "input": "\"ekupuxwkxyxfvyvrmrljvsvdhsmecgbhcaoagjkdpyxysnlejuiipbnrfbepxvmqifqqiyskiflwcauprosvyyonbuvxxhzvniqkrfldyonoelcwfkanoccqwqnhshzdkvnkbomggcjugazejyfvvgmoajwbbletoohwozyyudshvtailovuixqvjbxpoaqhqauxnglqlaahqrjlopusxsfmihoojglghazbwysfsjzdglgyfgfznwoemelrpojvvfiushtcsytsmvbgozkvrqroyojrdsfiyvacwdmgabgchkjrbrjzafcyfndidgmhhyerqtqiypeblgbplfaspnbxezzpkelraytgyhuzsorgysvwzgorlumasqomqkskfztxrvqpvqwzrzbcijktwqdbrfcotwuhaivvltibqafaanusqkryovkbblceksgcehwnvwcjelstnzrjljrtfndphjvxaujyijdgwlxxrdgjoxqgewfxekcjoqrvcswfxtmeanizdbnkgfrtmoasnggnmpgdqdgpgqawnixdklacgwfrywnuugxmbispysiwrfvapkrabbikalgktjdltddthhqihzaxhxbndjmfrmuqhxpmakhrfkfaedredorfcsofyofyfphmohwrstdeyyuoguibskqvxclaunffbnigpakerpgdlcnbqyntgeswrajohhgmpu\"\n51",
+      "output": "\"osqzjiipvefnrb\""
+    },
+    {
+      "input": "\"ib\"\n1",
+      "output": "\"ib\""
+    },
+    {
+      "input": "\"fukiqyzlwhtfmijrinyxkcfgdqnlqonrjklistgzmdqmpgvylpdyyzwdqdapsnsifxkegayudfrrzvqovizsbcalsanqfiainoxetqogghiocvjjgtmnaakoqhpwzhsxnxtmksfvrazywybzfgjmcdhmgrnddoomlexgfftbmjiacvgflcndqdgocwmdobvxxnzmkpparehwjalslanzygzscwlgfjtfextwgjwteluywfjggmtchiktjminkxhkjkuopmtkodosophgedbnplkwatdjwmskbabswqmsalfgdhcneqgftwmoelmlmikozlllcnwirztinermjnwgnsuvahhrlksbwfuiumcmgtkffexwhinbeqqaoexhhrzaveudfhoayiyuvjmbhlrpkqpzulqweqahtxzikbavyzwzeqihnwigewmkrvfxgnhgdsvwclmovxwcjzgqndbopnwxxffhgmfgqjhybttxedeorvabdotxoiexmorhqdzbgrlajjqnvbgiwjqnfgmxclhkiixdtywpyypomckmjzzbsorzyqcupgblztwjmokrljwcquifupdfbviqnvknqtmwvzubzrarluwueotfummgrvdryjomldgdormddvnqgwsuudsrhckpmorogpbmqywqklolaprhppdgeugojkoxyssoipmozejoawxtthyhbiizjhvoiedvdbquvpjiircgqgiwdlpylzkktqidprvstcuqthzgfumlriblinikqdjgnvbprelqhahejaptzulmzcprpsuhztzrtqdwxfmbxidxppjvkebeogreklktucuzjorlrnbd\"\n2",
+      "output": "\"zsokdyuavvmltyeettlfpcvtabxztpfacogsiiuedrdlsdnibbjunwxszzayxlgpkfcarxualvftxqrapdkuvixlnqtuyppsklzpvdjdlmeryroybppppsbpsvpdvvhrtibdrgdnhoagtmicbtmellkpulpapxuykwpeqbrdwcfphyvtbcgozpjtpouqseyzzxmogsensgaofmuhqhlvxvupjoawmctnvrnasyiwqpctcmslzfuqhsmbrqwbaytaxlsdwofdljnrqarlwdowiagqowvmsfabuyknjiwyixjiuvqrfqsygsmuhaojfpydcmxjjzafvnomvzpyejyutlqgxadxwqafjhqjmyekkrziweonkujlgnvkafzxzmvstpiqvbhljitxbghbsqjzcnfaeeofuvvdwtxcee\""
+    },
+    {
+      "input": "\"vlcyfhchuilgqqiygvxd\"\n5",
+      "output": "\"lsfz\""
+    },
+    {
+      "input": "\"ztiotwlctz\"\n2",
+      "output": "\"swpns\""
+    },
+    {
+      "input": "\"ehqhchweboikualekqiqpgmcyfdqnhdbrpwfmwyitcljaozlmlapjdpvzexzpqoupjzvvfutpxkbkavluwmholncxdvctebjokvbwizevpwqkvggwnzcjlorknotecawwmkcjarftihyafrovtzdolgieokaimzjcziafrpgupbuxqbrqzqeppqvwwqhgpuuhieokuvskzqjmtofzzsfnusvhprylqbvbdsjjvzgeurkzoapxurbcczxtxaazieobyiimptpceuogrlauqpbkubiabwpnyluyqgvcyxarskcfwgephtcjlhbtmenpwylrxbaoibdpvefvquiypgbmsoxwdmpwoaueesdmrxzauywttyezpxzuquxtasuuixcaypptsgjlbgclqbqwcbijisnqaooegdksdewfmofxrkjarlxxnsiorpnifqwwlsjbwytnheqxrjcyqldeogwymlogmqzhawercbmtfmfpxweorrsoszhcedqxypvyhxhdmobmramevmppafqtrvrkjliqeluaumeriuxuzsltewcfxnmryxcmwtdzfhfugnwbthgifiapblbudjjkviovhvqsxegkumjlbvkvctzeghfdofbyqfnatqrqsqilzalqnriwkdgdookkqthhhhcgnuunejeznrecjxyvcgzjfbqduwamcozvrnpvransofypimsjpezwraarzdbpfssmmfhiwoqrzmdpzowobgvhzuosrkecufvgefr\"\n40",
+      "output": "\"dzycdsfdkhubnjyedec\""
+    },
+    {
+      "input": "\"h\"\n1",
+      "output": "\"h\""
+    },
+    {
+      "input": "\"w\"\n1",
+      "output": "\"w\""
+    },
+    {
+      "input": "\"azazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazaz\"\n25",
+      "output": "\"onon\""
+    },
+    {
+      "input": "\"abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijkl\"\n20",
+      "output": "\"iscmwgqakueoyiscmwgqakueoyiscmwgqakueoyiscmwgqakue\""
+    },
+    {
+      "input": "\"feukbsiekceczfgbezseuecefhmeqwrivpclcnvefpuvgzxcxsrndndajhkpdpilwccwpqhwwdqtazxqayuldcjylxukoztosmvubhkqtavijrxremfwnujviwclielgumnwxuntslksqsyxlqnpnxcndqenajymlcveilfkkhhfsk\"\n87",
+      "output": "\"kj\""
+    },
+    {
+      "input": "\"ht\"\n1",
+      "output": "\"ht\""
+    },
+    {
+      "input": "\"azazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazaz\"\n5",
+      "output": "\"yxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyx\""
+    },
+    {
+      "input": "\"kbhmqfzfqopxplarfydautqoehfdrfxlgmwasyznmwdxhfgewkkgqidmswdyoomuiserlbaoupssrgmjwklcuiwfvnjnchgyzwizmqjvoqcodbfpimfjqkrcoviijxoguxhztgrxpspvjjxrtneawvzxotbyuikqegvmpkkrbefxiutfocdgkfqkjwmmujtlpbbawybccdgxnnygekvbkthjlzhxypaslqcjbxpndhbltqgdkktrwtfwfnqtgxxxyvia\"\n10",
+      "output": "\"hjgykspzelevqkhewbvsadpqmh\""
+    },
+    {
+      "input": "\"j\"\n1",
+      "output": "\"j\""
+    },
+    {
+      "input": "\"iapsufzxyswpwskuhrnypuqgsknsuhmilkwfwpyjnlbwm\"\n9",
+      "output": "\"itfjz\""
+    },
+    {
+      "input": "\"dvxmwddefswmpceuwubuxbwmvhrsbjzxesnntnnqcbujnochzhpfcvmtuuuhhlmuqzlycywegdaljiswhcndxgtiwjtvdahozgswtuuiywmrlflprwajrbhqtyzwiidzhrrmffxvbhdgevgnsnfcgbawyfisxumeevzpyrkomwwvebseqqbsibkjhmappsnmwlycouyxnjesodjyfqyuenvztckecwrfvwrxemdbnmodhkvgbicnmiiopcuwdvtqanmfcknsrurjgnivoosqacdkdnyjbokzuqjgydejpqhdntbprzzjtqbxluihfeohnevxpbxwdbdiiaarrzmpituqydcyeinjdwmvclyhkpbznhmiwuvbygsdbqqppqnncgtsplfkzioyibdtxdxfoozuzmtvhcudxrlatkqctagvuwxmplowjsautjyklhzslbziagrzghzdutpfzwztbxfgmgbzhwsuzjflhoqlwkubhbypzexkoqywxbpkuugndjdsnanqrwhprajjwxyilukjpdquyuoihawqhfovlglahnickjhxnrngyiyutffypdagngodklecpgbohjxxyelmujxivdjckuxjftzpxxyyvaowffnrfxsmblqemsyhldptfwwzgpmatkaeqxnzohilubdhmxastqzsfterljklrwbanrmmzfwadauhegwpevaqyrjdboxdpxthloxcmmvvrqqxrgoezcgvybizktntqtdqndxetgnehqkevwyi\"\n32",
+      "output": "\"pkrklpbjwbrxiloccntazxmi\""
+    },
+    {
+      "input": "\"fx\"\n1",
+      "output": "\"fx\""
+    },
+    {
+      "input": "\"nkqnqlgdorlddbxjoddczjtcjcyfoqjcjahlybudclnjhjaesrfhxoqhwhskksdypbgoogfmrzluzshvxruufnhpudsuoanbbhclhxiiywngegodbrtbmiawgyrbcnvlxyakaafkimkcelhftpkyxctrvbaoqzgnnfsosrkfyicxqgtjpmbstdgjzxdaalgnhzpfpedxngqryjlcygwpsilsidgunoxxcmhxeycagjkzzbjwhohfsrozskglpyjbozibvothbrnthvybevngqmljrvzhjiykcbdlxxjgzbjpskrmmyvihkmypomtapekoqvwjzgcpvskfdhsisehjkfnjzsllasoqrzuuvxxnmedgokfeyndujeifhzwgvjhcmhsipbreywdhaxrlczrwywruuanmtjfligwucwiiqjasaqqrfehzaewzhbhnbmdsffjsanmifhmskjfdmvyrxmvvpuuyjwujdvjedqedfqadihufevhmtrmajuythdksrrwyoinpqbmjhqwikklnzbjusfvevbcqvshnrafyicvyxfvzzzsblyyhrkydhrexwklqiziymeozbzdfztpgxoqbeegniautagbgtvzutjvpynbozhdtvubimphibncpxjisxvfaxyjszpcihwdhvwgxbbjddypbqjcqikoyldenoylizmorirlnjkbmynrqverlnosycyedebjvtltjvczmoqpbzbykavzichakkzcjlocvpcrtakogbndqwtrjygovskyrzaharlhlcqypzxazptueycfjovxfzaebjauyigpsuxhrxvjeclqfigllfdqwedqqucypzdyodhqnzptnolvttlswhbexzwgplrdxwrfchqukyrvhtxktdvzyziyhawwwmwofdbdimwqlapiwrdx\"\n66",
+      "output": "\"qvnpbngrxqfgpb\""
+    },
+    {
+      "input": "\"lwleqsclvyemqytkuarghdtuxbnuuhhzjwsdcoroivhqlkaprbjjblltvceummernzyeycvusjfpyfjxfiiapenziyqgpshymhlkmfhazcrzutifdwrqgudqhjxrfaehhogpefpkwnisxmercqpnbufjkzwhsgqtcyntciqedhdnpvcwinyjtktfwpdcqbhcdcvvvsahzldhjtmshaprrrxeoijoqghqpvjikywwntculqmntlkhiupndplmmeublarhrfmcztgkzrnntsslmemnigdzszqvkzquwhlapxhzfbzakplrinhdrlalfjsdruhmtwhiztmcacwahipwsfimsmtkbdgobdewlhfnfizildgtirghrgpzttptljouoytjthetbicskcmeboyvpxoxzccwnatkgfgegjjcwvofbmnadfrvbrnpqjkqmldozwhsrbwshuyymzwcuwkiowvqvxrioybcaihrhrzplvcceqrhhzvjmeiefyensajdbrkkbmogumctbmfxaroqhkqaqtebkpdjmwzjxttepplvdzrvsyhyzvbctfovtfoucwpcjandmgzigebdefaraynzwjmoxvgkbslcqhsfdzlihogfkxubwucpgvfjordogmrqtlbcxlmbrfomkyystmjdsxaxujusixucdkxzerdhwlckbsapjurdfajhdynzvkgwoloqktxtwhzggszaveraiggqjqcwwfftyqswxmqbowwgyjdzwgwirhsfvvqsfccetkbbvpchgzmsruzjxpiktgoynaclyzpsvtdspzyyejllxnouybsawspfhsvmklefmtslmnslmjechwwfvdstuelcyndwsbjxrqonvzlizangntwucavzmolxxnhanujoytmrphmtkkrpgtivyjirewvlepmgrdeneiqjikojboppeyslfgejddtliksnamukaoyamupxdlpctuezmjtcopbhzmpviofhagkg\"\n50",
+      "output": "\"ofihctvyvyqlwhdmvmoj\""
+    },
+    {
+      "input": "\"kiwiylonwkxvbecuwnpstizoxgcheonbyzyhatxaaztpuldtuuylsdqcbdflcuqmtsecqjuzgqmgecwjsimibxfpextxzxwjhowtwfifyirqstnhvkghayihwwbnafiqgvrjnrfqhlovipqtllhnapdaihwinafrkopiyaiqhkrlclcxdhdsruynimjizanqzfjdtwoieahjiwclzqxllkqnsbsrrkfxjigyxcdjgfleygtrjcponnfrnfkjegfiuqpvbbzrdkuxrqudieqtwildpggpcopesghdgbuwomvcrknyrkbarlfxgnzgxtvlakmfqrpsmqghjtybxjpgwyweudfvaqizeyorxrrnhrlgxwdfqhloxzpqtqhwxusuxhgzlz\"\n78",
+      "output": "\"gvwvi\""
+    },
+    {
+      "input": "\"vepmwixlplivcwrnixkpkrlwbclrgipqexyzpmaizacwbgolvuaazjlezptnczzdxyduvuxjbmoxgmpkllbnbxoinrnjexxfvixyyisixpuizytureuutyhzjpvcryewnirenpysrnndjoynekziriscmnpkwlwanocfdggwpphfiwjxaqnhbhdfgxnocibljlgjiamierucfkjbwmfomzspdaomkbbutpuvuhpsfghkclkfkqdfifnkrwinylbakhrmltaydhgqkaakoiszjevcliwebudttcymoaoarrxcnukynxosjurbbqpzmgbczjfekgcpvavgframjlhixgeaeagfpguihurpcbgrxffvwnejpyjwylnsfvmossdbveicxrrwjttnjylpuzdpofbcrgbehyicsupnilsgujaqqdhwmrgjcdjzgpqwpdbsovextpvivfleytkcwpiedmggveqlprhkvdyvsglctzlnowkywkvqhemhomnpjbwnbvzboomghiebhytngjletcjlxuxxfsfurvrpwuphnqwrwxddvjdkcnmhyanstuuxfssntngxnobemchpmpnrxwqqbwnyjdttxcwvsliuuyutremhrxmfxluhlbxolidbuddwpwhajqgzqhqfwygmjsdhqgyzaaxpjfwgvcuvhgvsglyeflykyhltthntrymclgircnkolkmbekzrfmygqkmchsuhhorvtovwsaugfqgzwxswzcvyeznxpmtersquwmhrrfaxdxxwtzacrvfegubnmuomxvdz\"\n16",
+      "output": "\"rkkjchcqkptabcjkwhdlccfuzyuxnvkqvatgbkoikcvqpqxymj\""
+    },
+    {
+      "input": "\"koycrvfgopllztespkvzetnfjafjvfwegrwsynntlsdsennlmiyhdptcqwerpifwicxsugqoigyswjbjjzlpiegfvuuhajjbetijpsfowsbucgrftqwacvlgrjeyknwfkvrprrxkbdwigqehzybpwqgtszomnxjxkcffucezfmsqyyhmkryxmzgliqvlldvdwspqidorwftgpggdolpefinrapnvjtukhhxkkqibnylaxoeyfjasubbzrmnpvgwoimayxbawfqsztjtsfenzscafhunvopsjiylyihindeiumfkuquyripacmfhigopvqvhfhjfvdtewyjrxtiqsiqnflkpmfqxcmoeuybckxsezhzephuooozqltjpqlakurlzxkohgjezzrpslxrejvkckaikeswjcwxgzupeunyzprqcbaeidvyirrsyklcxmibuoergovdjqkeaewlxlcmaokajxdbycwotcgmentsnblsopygnowibufekwmltuacilxlyhaawieuuarvevogslqnjqpvjogwubewomibjmjmsogumplizvmllhbchpjuxrblcestoodmazvpdjqkmqnrmepyyqagbwsrkbglskurbqcngtuiqautakfpucvemcyjspgbsfhscjuehangsdnsjehzkjlhlzwgvcqseueacfrtrwxhrx\"\n24",
+      "output": "\"qmuhupacwqdgboyevjaaxdohinuyh\""
+    },
+    {
+      "input": "\"xzirpnhuiqexobcizuqfcuravryylfhjqmydjjycjxnfpninozhnzwbhosynplqbuktmercvugjuynirulnmiecmksixikunamgjdbasjlczepwktjvkyfdflpbksmfgtnfvcvqmimfrghrheduezyfjnjoajilzekrfbeseidpcmxaxcfwmrcohhegakbfjeqpkglawmuojxdgpmppsfcvybwkqduxxcuvlkaldomrhoevzdprznleoaxvcscfzntvkvxiqqnwmdeynvaiwlcjdlnxpynxtbjkzydmtljcnmjbxwpuiluieeirffhuzcjgyluogitcjkthbwdmfrxjsnrribchvugmzaxhmdyekekbvoiiuverqyrcmjpnjulmeegalqggatxspnzenfuadlrdgnehzseintnwedcxesfedalnsrrcvbfjhgzgoihjyclaifkhpbdwxfelmoqgkudvgaovpzwybiwhovsudvzswdzlzdpbjysgurcjylhjoctblvnuzwiwrmczlagrbcxzagotayzpznwxrqfqkrdfcpltjpieejjdhkdumdmxbripcfoszrsioggdyrwiqjupkbulffrjknzvffuzefpiaetdrficxakfbdxtykivbzhycfesbaebvsnmznctiqlglozrpzkdkjsudjddaafhkjlnqglkioslyfqweelksbcgwxhlkzkwtcxkmkwicibyanbfljrrysnusufefvejywmdwfdrftcbjndkldkjjmmuoqlqecsjqishhapnpepzvyxpusiflobsfxwronisaakhlevnulllmotqihdmurbpbkaxzjsahnadbftglctxotoioonvmaeuxyqodiaoyaljljfjbtvcniiynlbywudtjaavzfrbltgpkqoikfhjwvmlxuyrymrmcbjxocapnnjcpjynttnhdxcxoiemsxbwehcpmtuhiqnyuamwjjb\"\n58",
+      "output": "\"ryoqxbxhpkopboget\""
+    },
+    {
+      "input": "\"lo\"\n1",
+      "output": "\"lo\""
+    },
+    {
+      "input": "\"ao\"\n1",
+      "output": "\"ao\""
+    },
+    {
+      "input": "\"y\"\n1",
+      "output": "\"y\""
+    },
+    {
+      "input": "\"az\"\n1",
+      "output": "\"az\""
+    },
+    {
+      "input": "\"abcd\"\n2",
+      "output": "\"bf\""
+    },
+    {
+      "input": "\"mxz\"\n3",
+      "output": "\"i\""
+    }
+  ],
+  "timeout_sec": 10
+}

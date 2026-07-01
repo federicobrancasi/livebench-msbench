@@ -1,0 +1,145 @@
+{
+  "contest_date": "2024-11-23T06:30:00",
+  "contest_id": "biweekly-contest-144",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3625",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "9",
+      "output": "false"
+    },
+    {
+      "input": "23",
+      "output": "false"
+    },
+    {
+      "input": "11",
+      "output": "true"
+    },
+    {
+      "input": "50",
+      "output": "true"
+    },
+    {
+      "input": "43",
+      "output": "true"
+    },
+    {
+      "input": "47",
+      "output": "false"
+    },
+    {
+      "input": "1",
+      "output": "false"
+    },
+    {
+      "input": "42",
+      "output": "true"
+    },
+    {
+      "input": "21",
+      "output": "false"
+    },
+    {
+      "input": "49",
+      "output": "true"
+    },
+    {
+      "input": "50",
+      "output": "true"
+    },
+    {
+      "input": "15",
+      "output": "true"
+    },
+    {
+      "input": "22",
+      "output": "false"
+    },
+    {
+      "input": "5",
+      "output": "false"
+    },
+    {
+      "input": "20",
+      "output": "false"
+    },
+    {
+      "input": "45",
+      "output": "false"
+    },
+    {
+      "input": "13",
+      "output": "true"
+    },
+    {
+      "input": "7",
+      "output": "false"
+    },
+    {
+      "input": "44",
+      "output": "true"
+    },
+    {
+      "input": "8",
+      "output": "false"
+    },
+    {
+      "input": "17",
+      "output": "true"
+    },
+    {
+      "input": "19",
+      "output": "false"
+    },
+    {
+      "input": "12",
+      "output": "true"
+    },
+    {
+      "input": "48",
+      "output": "false"
+    },
+    {
+      "input": "10",
+      "output": "true"
+    },
+    {
+      "input": "46",
+      "output": "false"
+    },
+    {
+      "input": "18",
+      "output": "true"
+    },
+    {
+      "input": "6",
+      "output": "false"
+    },
+    {
+      "input": "4",
+      "output": "false"
+    },
+    {
+      "input": "14",
+      "output": "true"
+    },
+    {
+      "input": "16",
+      "output": "true"
+    },
+    {
+      "input": "12",
+      "output": "true"
+    },
+    {
+      "input": "1",
+      "output": "false"
+    }
+  ],
+  "timeout_sec": 10
+}

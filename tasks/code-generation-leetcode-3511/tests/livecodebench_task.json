@@ -1,0 +1,161 @@
+{
+  "contest_date": "2024-07-20T00:00:00",
+  "contest_id": "biweekly-contest-135",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3511",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "2\n2",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "40\n21",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "19\n49",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "1\n5",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "2\n66",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "98\n69",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "82\n57",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "2\n3",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "95\n8",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "3\n11",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "2\n74",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "39\n72",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "93\n99",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "7\n28",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "9\n36",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "89\n98",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "2\n4",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "7\n36",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "1\n7",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "80\n7",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "94\n96",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "97\n90",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "45\n51",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "84\n100",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "99\n46",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "7\n1",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "1\n6",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "6\n1",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "5\n7",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "9\n35",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "3\n2",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "93\n98",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "10\n57",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "60\n9",
+      "output": "\"Bob\""
+    },
+    {
+      "input": "1\n4",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "2\n7",
+      "output": "\"Alice\""
+    },
+    {
+      "input": "4\n11",
+      "output": "\"Bob\""
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,161 @@
+{
+  "contest_date": "2024-07-27T00:00:00",
+  "contest_id": "weekly-contest-408",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3507",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "2\n3",
+      "output": "2"
+    },
+    {
+      "input": "91\n95",
+      "output": "5"
+    },
+    {
+      "input": "529\n529",
+      "output": "0"
+    },
+    {
+      "input": "55\n65",
+      "output": "11"
+    },
+    {
+      "input": "4\n851",
+      "output": "838"
+    },
+    {
+      "input": "1\n1000000000",
+      "output": "999996599"
+    },
+    {
+      "input": "2\n5",
+      "output": "3"
+    },
+    {
+      "input": "717419405\n907173109",
+      "output": "189753386"
+    },
+    {
+      "input": "382041195\n382041769",
+      "output": "575"
+    },
+    {
+      "input": "1\n14",
+      "output": "12"
+    },
+    {
+      "input": "3\n4",
+      "output": "1"
+    },
+    {
+      "input": "1\n2",
+      "output": "2"
+    },
+    {
+      "input": "48\n50",
+      "output": "2"
+    },
+    {
+      "input": "528\n530",
+      "output": "2"
+    },
+    {
+      "input": "131022348\n131022348",
+      "output": "1"
+    },
+    {
+      "input": "804928157\n804936576",
+      "output": "8420"
+    },
+    {
+      "input": "1000000000\n1000000000",
+      "output": "1"
+    },
+    {
+      "input": "811402\n814647",
+      "output": "3246"
+    },
+    {
+      "input": "884278897\n905459878",
+      "output": "21180953"
+    },
+    {
+      "input": "1\n8",
+      "output": "7"
+    },
+    {
+      "input": "14110767\n551533749",
+      "output": "537420893"
+    },
+    {
+      "input": "1\n12",
+      "output": "10"
+    },
+    {
+      "input": "88\n173",
+      "output": "84"
+    },
+    {
+      "input": "2\n4",
+      "output": "2"
+    },
+    {
+      "input": "1\n9",
+      "output": "7"
+    },
+    {
+      "input": "361\n361",
+      "output": "0"
+    },
+    {
+      "input": "120\n122",
+      "output": "2"
+    },
+    {
+      "input": "999999000\n1000000000",
+      "output": "1001"
+    },
+    {
+      "input": "1\n1",
+      "output": "1"
+    },
+    {
+      "input": "1\n574140364",
+      "output": "574137700"
+    },
+    {
+      "input": "34291\n41569",
+      "output": "7275"
+    },
+    {
+      "input": "366705242\n366706011",
+      "output": "770"
+    },
+    {
+      "input": "7749\n35774",
+      "output": "28007"
+    },
+    {
+      "input": "522206\n530382",
+      "output": "8176"
+    },
+    {
+      "input": "1\n13",
+      "output": "11"
+    },
+    {
+      "input": "5\n7",
+      "output": "3"
+    },
+    {
+      "input": "4\n16",
+      "output": "11"
+    }
+  ],
+  "timeout_sec": 10
+}
