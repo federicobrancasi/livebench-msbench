@@ -1,0 +1,137 @@
+{
+  "contest_date": "2024-07-20T00:00:00",
+  "contest_id": "abc363",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc363_c",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "10 3\nmmmmmmmmmm\n",
+      "output": "0\n"
+    },
+    {
+      "input": "9 3\nuuuuyuyuy\n",
+      "output": "0\n"
+    },
+    {
+      "input": "10 10\nlkjhgfdsaz\n",
+      "output": "3628800\n"
+    },
+    {
+      "input": "9 2\ncppxpcmcc\n",
+      "output": "186\n"
+    },
+    {
+      "input": "10 2\njjjjjbjxxb\n",
+      "output": "0\n"
+    },
+    {
+      "input": "10 4\nkkjjjjvjvj\n",
+      "output": "522\n"
+    },
+    {
+      "input": "9 2\ntootatboo\n",
+      "output": "186\n"
+    },
+    {
+      "input": "10 4\nkkkkkkkkkk\n",
+      "output": "0\n"
+    },
+    {
+      "input": "9 2\nzggsijazz\n",
+      "output": "10200\n"
+    },
+    {
+      "input": "8 4\nqqqqqqqq\n",
+      "output": "0\n"
+    },
+    {
+      "input": "10 3\nlllllldqld\n",
+      "output": "0\n"
+    },
+    {
+      "input": "9 3\nnnnnnnnnp\n",
+      "output": "0\n"
+    },
+    {
+      "input": "10 4\nrrfrafaffr\n",
+      "output": "1612\n"
+    },
+    {
+      "input": "10 2\nqwertyuiop\n",
+      "output": "3628800\n"
+    },
+    {
+      "input": "10 10\naaaaaaaaaa\n",
+      "output": "0\n"
+    },
+    {
+      "input": "10 2\ncggtcwzwtl\n",
+      "output": "96480\n"
+    },
+    {
+      "input": "10 2\naabbccddee\n",
+      "output": "39480\n"
+    },
+    {
+      "input": "10 3\nssssssssss\n",
+      "output": "0\n"
+    },
+    {
+      "input": "9 2\nlyybsdssh\n",
+      "output": "10200\n"
+    },
+    {
+      "input": "10 3\nnnnnnnnnen\n",
+      "output": "0\n"
+    },
+    {
+      "input": "10 3\naskfajsfjk\n",
+      "output": "44640\n"
+    },
+    {
+      "input": "10 2\needdccbbaa\n",
+      "output": "39480\n"
+    },
+    {
+      "input": "10 4\nyggygggggg\n",
+      "output": "2\n"
+    },
+    {
+      "input": "10 2\naaaaaaaaaa\n",
+      "output": "0\n"
+    },
+    {
+      "input": "10 3\nirxlixrloo\n",
+      "output": "44640\n"
+    },
+    {
+      "input": "9 3\nbuphvxpeh\n",
+      "output": "59280\n"
+    },
+    {
+      "input": "8 3\nvcttsvsc\n",
+      "output": "1032\n"
+    },
+    {
+      "input": "9 3\nmxwbmxmwb\n",
+      "output": "2058\n"
+    },
+    {
+      "input": "3 2\naab\n",
+      "output": "1\n"
+    },
+    {
+      "input": "5 3\nzzyyx\n",
+      "output": "16\n"
+    },
+    {
+      "input": "10 5\nabcwxyzyxw\n",
+      "output": "440640\n"
+    }
+  ],
+  "timeout_sec": 10
+}

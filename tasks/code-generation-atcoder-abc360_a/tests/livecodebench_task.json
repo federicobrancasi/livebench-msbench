@@ -1,0 +1,37 @@
+{
+  "contest_date": "2024-06-30T00:00:00",
+  "contest_id": "abc360",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc360_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "MRS\n",
+      "output": "No\n"
+    },
+    {
+      "input": "MSR\n",
+      "output": "No\n"
+    },
+    {
+      "input": "SRM\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "RMS\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "RSM\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "SMR\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

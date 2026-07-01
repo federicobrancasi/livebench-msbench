@@ -1,0 +1,89 @@
+{
+  "contest_date": "2024-07-27T00:00:00",
+  "contest_id": "abc364",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc364_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1\nsweet\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "2\nsalty\nsalty\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsweet\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsweet\nsalty\nsweet\nsweet\nsweet\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsweet\nsweet\nsweet\nsweet\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsweet\nsweet\nsweet\nsalty\nsalty\nsweet\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsweet\nsalty\nsalty\nsalty\nsweet\nsweet\nsweet\nsweet\nsalty\nsalty\nsweet\nsweet\nsweet\nsweet\nsweet\nsweet\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsweet\n",
+      "output": "No\n"
+    },
+    {
+      "input": "2\nsweet\nsalty\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsweet\nsalty\n",
+      "output": "No\n"
+    },
+    {
+      "input": "91\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsweet\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsweet\nsalty\nsalty\nsweet\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsweet\nsweet\nsweet\nsalty\nsweet\nsweet\nsalty\nsweet\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsweet\nsweet\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\n",
+      "output": "No\n"
+    },
+    {
+      "input": "100\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "90\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsweet\nsweet\n",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nsalty\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "2\nsweet\nsweet\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "97\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "93\nsweet\nsalty\nsweet\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsweet\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsweet\nsweet\nsalty\nsweet\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsweet\nsalty\nsalty\nsweet\nsweet\nsweet\nsalty\nsalty\nsweet\nsweet\nsweet\nsalty\nsweet\nsalty\nsweet\nsweet\nsweet\nsweet\nsweet\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsweet\nsweet\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\n",
+      "output": "No\n"
+    },
+    {
+      "input": "2\nsalty\nsweet\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "90\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsalty\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsweet\nsalty\nsalty\nsalty\nsweet\nsweet\nsweet\nsalty\n",
+      "output": "No\n"
+    },
+    {
+      "input": "5\nsalty\nsweet\nsalty\nsalty\nsweet\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "4\nsweet\nsalty\nsweet\nsweet\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "6\nsalty\nsweet\nsweet\nsalty\nsweet\nsweet\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,105 @@
+{
+  "contest_date": "2024-06-15T00:00:00",
+  "contest_id": "abc358",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc358_c",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "10 10\noxxxxoxxxx\nxxxxoxooxx\noxxxoooxxx\noxxxoxoxxo\nxxxooxooxx\noxooxxxoxx\nxoooooxxxx\nooxoxoxxox\nxxxooxoxxx\nxooxxxoooo\n",
+      "output": "3\n"
+    },
+    {
+      "input": "10 10\nxxxxxoxoxx\nxxxxxoxxxo\nxxoxxooxxx\nxxxoxoxxoo\noxxxooooxx\noxxoxxxxxo\nxxxoxxoxxx\nxoxxxxoxox\nxxxxxxxxox\nxxxxooxoxo\n",
+      "output": "4\n"
+    },
+    {
+      "input": "10 10\nooooooooox\nooooxoooox\nooooooxooo\noooooooxxo\nxoxooxoooo\nxooooooxoo\nxxxooooxox\nxxoxxxoxoo\noxxxooxxxx\nooooooxxox\n",
+      "output": "2\n"
+    },
+    {
+      "input": "1 1\no\n",
+      "output": "1\n"
+    },
+    {
+      "input": "10 10\nxxxxxxxxox\nxxxxxxxoxx\noxxxxxxxxx\nxxxoxxxxxx\nxxxxxxxxxo\nxoxxxxxxxx\nxxoxxxxxxx\nxxxxxoxxxx\nxxxxoxxxxx\nxxxxxxoxxx\n",
+      "output": "10\n"
+    },
+    {
+      "input": "10 10\nxxoxxxxxxo\noxxoxxxxxx\nxxxxoxxxxx\nxxxxxoxxxx\nxxxoxxxxxx\nxoxxxxxxxx\nxoxxxxoxxx\nxxxxxoxxxx\nxxxxxxxoxx\nxxoxxxxxox\n",
+      "output": "7\n"
+    },
+    {
+      "input": "10 10\noxoxxxoxox\nxoxxxooxxo\noooxxxxxxo\nxooxxxxxoo\nxoxoooxxxo\nooooxxxxxo\nxxxxxxxoxo\noxoxoooxxo\nxxoooooxxx\nooxxxoooxo\n",
+      "output": "3\n"
+    },
+    {
+      "input": "10 10\noooooxxoxo\noxooooxoxo\nooxooxooxo\nxxxxxooxoo\noxxxoooxoo\nooxooxoxxo\nooxxoxoooo\noxxoooxxxo\noxoxoxxooo\nooooxxooox\n",
+      "output": "2\n"
+    },
+    {
+      "input": "10 10\nxooxxooxxo\nxxxoxoxooo\nxooooxxoxx\nxooxoxxxxo\nxoxxxxxoxx\nxooxooxoxo\nxoxxxoxxxo\nxxxoxoxxox\nxoxxooxxoo\noxxxoxoxoo\n",
+      "output": "3\n"
+    },
+    {
+      "input": "10 10\noooooooooo\noooooooooo\noooooooooo\noooooooooo\noooooooooo\noooooooooo\noooooooooo\noooooooooo\noooooooooo\noooooooooo\n",
+      "output": "1\n"
+    },
+    {
+      "input": "10 1\no\no\no\no\no\no\no\no\no\no\n",
+      "output": "1\n"
+    },
+    {
+      "input": "10 10\nxoxxxoxoxx\nxoxoxxoxox\noxxxxooxxo\nxxxxxoxxoo\nxoxxoxxoox\nxxoxxxooxx\nxxoooxoxxx\nxxxxxooxxx\nxxooxxxoxx\nxxxxoxxooo\n",
+      "output": "3\n"
+    },
+    {
+      "input": "10 10\nxoxxoxxxxo\noxxxxxxxxx\nxoooxxoxxx\nxoxxxoxxxx\nxxxoxxxxxx\noxxxxxoxxx\nxxxxxxxoxx\nxxxxxoxxxx\nxxxxxxxxox\noxxxxoxxxx\n",
+      "output": "5\n"
+    },
+    {
+      "input": "10 10\nxxxoxxxoxx\nxoxxxxxxxx\nxxxxxoxxoo\noxxxxxxxxx\noxxxxxxoxx\nxxxooxxxxx\nxxxoxxxoxx\nxooxxxoxxx\nxxoxoxxxxx\nxxxxoxoxxx\n",
+      "output": "4\n"
+    },
+    {
+      "input": "10 10\noxxoxxxxxx\nooxxxoxxox\nxxoxxxxxox\nxoxoxxoxoo\noxooxxoooo\nxxxxxxooxo\nooxxooxxoo\noxoooxxxxo\noxxxooxoox\nxoxoxxoxox\n",
+      "output": "2\n"
+    },
+    {
+      "input": "1 10\noooooooooo\n",
+      "output": "1\n"
+    },
+    {
+      "input": "10 10\nxooooxoooo\nooooooooox\noooooooooo\noooooooooo\noooooooooo\noooooooooo\noooooooooo\nooooooooox\noxoooooooo\noooooooooo\n",
+      "output": "1\n"
+    },
+    {
+      "input": "10 10\nooxooxoxox\nooooooxooo\nxxooxooxoo\nooxoxoooxx\nooooooxooo\nooxooxoooo\nooooooooox\noooooooxoo\noooooxoooo\nooooooxxox\n",
+      "output": "2\n"
+    },
+    {
+      "input": "10 10\noooooooxoo\nxooooxoxxx\nooooooxxoo\noooooxoxxo\nxxooxxoxox\nxooxooooox\nxxxoxoxoxo\nxooooxooxx\nxoxxxxxxoo\noxoxooxooo\n",
+      "output": "2\n"
+    },
+    {
+      "input": "10 10\nxoxxxxxxxx\nxxxoxoxxxx\nxxxxoxxxxx\noxxxxxxxxx\nxxoxoxoxxx\nxxxxxxxxox\nxxxxxxxxox\nxxxxxxxoxx\nxxxxxxxxox\nxxxxxxxxxo\n",
+      "output": "7\n"
+    },
+    {
+      "input": "3 5\noooxx\nxooox\nxxooo\n",
+      "output": "2\n"
+    },
+    {
+      "input": "3 2\noo\nox\nxo\n",
+      "output": "1\n"
+    },
+    {
+      "input": "8 6\nxxoxxo\nxxoxxx\nxoxxxx\nxxxoxx\nxxoooo\nxxxxox\nxoxxox\noxoxxo\n",
+      "output": "3\n"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,105 @@
+{
+  "contest_date": "2024-07-06T00:00:00",
+  "contest_id": "abc361",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc361_d",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "10\nBBBBBWBWWW\nBBWWWWWBBB\n",
+      "output": "-1\n"
+    },
+    {
+      "input": "14\nWBWBWBWBWBWBWB\nWWWWWWWBBBBBBB\n",
+      "output": "8\n"
+    },
+    {
+      "input": "14\nBWBBBWBBWBBWBB\nWWWWBBBBBBBBBB\n",
+      "output": "8\n"
+    },
+    {
+      "input": "14\nBWBBBBBBBBBBBB\nWBBBBBBBBBBBBB\n",
+      "output": "4\n"
+    },
+    {
+      "input": "4\nWWBB\nBBWW\n",
+      "output": "3\n"
+    },
+    {
+      "input": "12\nWBWWWWBWBBBB\nBBBBBBWWWWWW\n",
+      "output": "8\n"
+    },
+    {
+      "input": "3\nBBW\nBBW\n",
+      "output": "0\n"
+    },
+    {
+      "input": "14\nBWBWWWBBWBWWBW\nWWWBBBWWBWBWWB\n",
+      "output": "9\n"
+    },
+    {
+      "input": "3\nBBW\nWBB\n",
+      "output": "-1\n"
+    },
+    {
+      "input": "2\nBW\nWB\n",
+      "output": "-1\n"
+    },
+    {
+      "input": "2\nBW\nBW\n",
+      "output": "0\n"
+    },
+    {
+      "input": "12\nWBWBWBWBBBBB\nBBBBBBBBWWWW\n",
+      "output": "8\n"
+    },
+    {
+      "input": "14\nWWWWWWWWWWWWWW\nWWWWWWWWWWWWWW\n",
+      "output": "0\n"
+    },
+    {
+      "input": "14\nBBWBWBBBBBBBBB\nWWBBBBBBBBBBBB\n",
+      "output": "5\n"
+    },
+    {
+      "input": "9\nWBWBWBWWW\nWWWWWWBBB\n",
+      "output": "6\n"
+    },
+    {
+      "input": "4\nWWBB\nWBWB\n",
+      "output": "-1\n"
+    },
+    {
+      "input": "14\nWWWWBWWBWWBWWW\nBBBWWWWWWWWWWW\n",
+      "output": "7\n"
+    },
+    {
+      "input": "14\nWBWBBBWWBWBBWB\nBBBWWWBBWBWBBW\n",
+      "output": "9\n"
+    },
+    {
+      "input": "4\nBBWW\nWWBB\n",
+      "output": "3\n"
+    },
+    {
+      "input": "14\nBWBWBWBWBWBWBW\nBWBWBWBWBWBWBW\n",
+      "output": "0\n"
+    },
+    {
+      "input": "6\nBWBWBW\nWWWBBB\n",
+      "output": "4\n"
+    },
+    {
+      "input": "6\nBBBBBB\nWWWWWW\n",
+      "output": "-1\n"
+    },
+    {
+      "input": "14\nBBBWBWWWBBWWBW\nWBWWBBWWWBWBBB\n",
+      "output": "7\n"
+    }
+  ],
+  "timeout_sec": 10
+}

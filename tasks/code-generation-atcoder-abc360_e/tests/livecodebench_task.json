@@ -1,0 +1,105 @@
+{
+  "contest_date": "2024-06-30T00:00:00",
+  "contest_id": "abc360",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc360_e",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "92724482 8713\n",
+      "output": "397187210\n"
+    },
+    {
+      "input": "42952 42770\n",
+      "output": "3846140\n"
+    },
+    {
+      "input": "998244352 100000\n",
+      "output": "296595689\n"
+    },
+    {
+      "input": "87868 84659\n",
+      "output": "469774635\n"
+    },
+    {
+      "input": "1 1\n",
+      "output": "1\n"
+    },
+    {
+      "input": "73 2890\n",
+      "output": "757452161\n"
+    },
+    {
+      "input": "84789430 17447\n",
+      "output": "571416630\n"
+    },
+    {
+      "input": "324383216 75454\n",
+      "output": "492179107\n"
+    },
+    {
+      "input": "11655411 67422\n",
+      "output": "90043236\n"
+    },
+    {
+      "input": "159870726 60658\n",
+      "output": "686981596\n"
+    },
+    {
+      "input": "9 89855\n",
+      "output": "3867007\n"
+    },
+    {
+      "input": "85 39232\n",
+      "output": "566906027\n"
+    },
+    {
+      "input": "1 100000\n",
+      "output": "1\n"
+    },
+    {
+      "input": "48020 79364\n",
+      "output": "191000302\n"
+    },
+    {
+      "input": "795705262 33277\n",
+      "output": "6449814\n"
+    },
+    {
+      "input": "82330 30021\n",
+      "output": "205041562\n"
+    },
+    {
+      "input": "95 82089\n",
+      "output": "603320441\n"
+    },
+    {
+      "input": "164026938 72649\n",
+      "output": "390346149\n"
+    },
+    {
+      "input": "3492853 52547\n",
+      "output": "341797331\n"
+    },
+    {
+      "input": "196203458 63938\n",
+      "output": "743047251\n"
+    },
+    {
+      "input": "2 1\n",
+      "output": "499122178\n"
+    },
+    {
+      "input": "3 2\n",
+      "output": "554580198\n"
+    },
+    {
+      "input": "4 4\n",
+      "output": "592707587\n"
+    }
+  ],
+  "timeout_sec": 10
+}

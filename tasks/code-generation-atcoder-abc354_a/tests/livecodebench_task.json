@@ -1,0 +1,105 @@
+{
+  "contest_date": "2024-05-18T00:00:00",
+  "contest_id": "abc354",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc354_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "2\n",
+      "output": "2\n"
+    },
+    {
+      "input": "76503494\n",
+      "output": "27\n"
+    },
+    {
+      "input": "5579\n",
+      "output": "13\n"
+    },
+    {
+      "input": "59288148\n",
+      "output": "26\n"
+    },
+    {
+      "input": "8388606\n",
+      "output": "23\n"
+    },
+    {
+      "input": "8388607\n",
+      "output": "24\n"
+    },
+    {
+      "input": "1\n",
+      "output": "2\n"
+    },
+    {
+      "input": "47101195\n",
+      "output": "26\n"
+    },
+    {
+      "input": "4094\n",
+      "output": "12\n"
+    },
+    {
+      "input": "32766\n",
+      "output": "15\n"
+    },
+    {
+      "input": "125578\n",
+      "output": "17\n"
+    },
+    {
+      "input": "999999999\n",
+      "output": "30\n"
+    },
+    {
+      "input": "4095\n",
+      "output": "13\n"
+    },
+    {
+      "input": "97148\n",
+      "output": "17\n"
+    },
+    {
+      "input": "5\n",
+      "output": "3\n"
+    },
+    {
+      "input": "677\n",
+      "output": "10\n"
+    },
+    {
+      "input": "1000000000\n",
+      "output": "30\n"
+    },
+    {
+      "input": "536870911\n",
+      "output": "30\n"
+    },
+    {
+      "input": "4766237\n",
+      "output": "23\n"
+    },
+    {
+      "input": "32767\n",
+      "output": "16\n"
+    },
+    {
+      "input": "54\n",
+      "output": "6\n"
+    },
+    {
+      "input": "7\n",
+      "output": "4\n"
+    },
+    {
+      "input": "262144\n",
+      "output": "19\n"
+    }
+  ],
+  "timeout_sec": 10
+}

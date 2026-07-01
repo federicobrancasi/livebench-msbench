@@ -1,0 +1,57 @@
+{
+  "contest_date": "2024-06-15T00:00:00",
+  "contest_id": "abc358",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc358_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "Atcoder Land\n",
+      "output": "No\n"
+    },
+    {
+      "input": "XP M\n",
+      "output": "No\n"
+    },
+    {
+      "input": "Land AtCoder\n",
+      "output": "No\n"
+    },
+    {
+      "input": "aMPDTRziLu URNXFCBUgj\n",
+      "output": "No\n"
+    },
+    {
+      "input": "AtCoder Z\n",
+      "output": "No\n"
+    },
+    {
+      "input": "kZkphKN Land\n",
+      "output": "No\n"
+    },
+    {
+      "input": "l f\n",
+      "output": "No\n"
+    },
+    {
+      "input": "AtCoder Land\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "AtCoder Land\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "CodeQUEEN Land\n",
+      "output": "No\n"
+    },
+    {
+      "input": "aTcodeR lANd\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

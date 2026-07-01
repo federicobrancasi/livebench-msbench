@@ -1,0 +1,69 @@
+{
+  "contest_date": "2024-05-18T00:00:00",
+  "contest_id": "abc354",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc354_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "100\ndmcrapte 2856\ngqpkwgteyhkrlhwj 699\njqcazb 585\nyyasconfytbvp 3810\nviwcmwi 4171\niiegz 702\nhawdqhln 127\njefnmokuo 584\nflxtqcoyda 3408\nejeeuvbxacpn 173\nrjhrjshsay 167\nmpsgabkfflgxogua 3373\nuloglioboykli 3971\nqvywz 2980\nadhjsjmc 4098\nefxoauoxatweez 661\nzxn 3342\nblnsrgidfxe 221\nbyuxxgewjxxzbx 386\nwsxhkell 1295\nbxrvlcugy 2323\ntbncsbdjvpqbw 1890\nskotbbktepncqip 1076\nfnmqnxiippd 487\nikc 2792\nsnvlulihbfjk 4\nedhrmruodvn 3322\nxqutweebspiptkib 933\nkvxqtvawhkshqdu 2243\ntsklaffiswbtz 2566\njgirjvest 2960\nahcyxfsmtasp 2711\npkclpvkuysteg 1937\nbyjwosgfjzeewu 3231\nydmznopgbjmsk 1090\nxaun 145\nmxtctulxpj 1805\ndpvymgkxfsobhmkf 148\njbd 71\nkywipgyewfedjd 1261\nvgfcytrhabfrxri 1310\npoxpyhlpgsns 654\nungvefyignxktf 877\nopnhlirnkburg 2869\nmzolwddvnyoqug 3418\npxbjnxihxkxcqwih 3731\ndmehmsmfn 3596\njsh 301\ngkauvec 2837\nvsarjrkfxdi 4158\nmyspaocpqk 2575\nhykfo 130\nxcjpyke 758\nhcxf 2711\nqcphfvskncex 580\nyxupsnoivfgmje 341\nlxhvealn 399\nhpzfdziazgrauxgv 4029\nfwklhvkbdjujhyuq 692\nbatacux 787\nmvnfcueqpgtcwx 1649\nrcayonbbf 2853\nprggowkc 517\nxrcklb 3730\nmjvzjpwcsjjpmu 3601\nhhgjgnaffiwmj 152\ncyt 1312\nqcvjphhlhbngg 1651\nysjgnh 1750\nigx 4218\nppywebl 3005\nzgqhlnehi 2577\npghbhyekfuqs 3623\nlqeoawlwbjfnztw 4044\ncbawukmn 2388\nvrughv 1238\nofoshlsrtyxhoo 1610\nndvkad 2878\nsrkuxubfngrq 3337\ncmzjxn 1897\nespwjjysp 1116\nsxgsmeba 1341\nhoowfzx 2818\nlofaslu 203\ngmmuzlt 3326\necspy 512\nmmpogg 346\nqgzajwjencip 1604\nkudjjfznucnas 940\nxhxe 769\nadhn 3429\nuictuuhxkd 2167\najszujevaowby 4017\njpmyzhuaugauz 443\nbfknzmejsuapdw 3282\nljnsmurump 211\nksloe 3725\npirufsdgimwk 3805\nrkaauyi 2070\nfbtumotm 2507\n",
+      "output": "efxoauoxatweez\n"
+    },
+    {
+      "input": "79\nrnlvlgvkvg 421\nqer 2456\nfzszcdrlgk 1042\nsvszpcbzvoywtk 910\nmrarxudwjxzmcjo 2584\nhkiyr 3110\nigjvadez 42\npavbyugqybqfbt 4228\ndrambrrn 3422\nofnqodyr 3000\ncggk 3674\ndhgdnffhpofjw 942\nkcrwhfzibegign 1548\nqsdus 4002\nntquyyrgzmgcmvn 2280\nexrcdwoty 518\nxwb 4140\ncakqfjqznntpycg 3815\nbmqqydxndxrdi 593\niqoindkvzfdes 2008\nufrfpg 3865\ntufrywfz 2374\nmyuwydslgy 2416\nsucxtxbphaxakq 1072\nghav 148\nyxsa 2951\nfagl 22\nhakyaynijaebvpaq 1320\ndpxajbv 3976\nzqqgammpvoy 2499\nuqdwiuahtscy 3754\npfrci 3298\nodvdrietb 3598\njddgb 3958\ncaa 466\nayjjewhlkepsavdl 2589\nxaiemkpskxu 1515\nzjgpu 1258\nzeegjfhj 2590\nwazk 2792\nuvoqhwkex 505\nebhdolhnnmanjk 809\nqubdwmgwg 9\nilsuborfsd 1689\ndmkcpupjkriapl 3578\nrhjqaajluz 1902\necdagkudrdhnmfm 1202\nuafdimxfunhyze 3956\noydlxh 1025\naxibw 658\nucjiyzzojkyhtj 1234\ngqovsolz 1666\nogigkcvgiil 1702\nnktqxufkufptrb 696\nztirautcrtp 632\nbkda 3525\njwqcymhzwhzkhzgp 4014\nxksykzpfdxsbyzob 2062\nbflvqkfpl 230\nddnv 3657\nlbcfmstcgflyt 866\nrikoobcvuwoehxmy 1756\nhmzj 3988\ndubadmsyq 172\nyzwyglchw 927\nddqcqcyxhjcpqvg 3698\ntfvzjbewe 4069\nhaaladyowpuim 4129\nrmba 4172\nozodlfyaqrkftfw 641\nnvrqazufmxzbi 3742\nwsam 3819\nyduqwka 1379\nxucozayumakeo 1922\nssmhzlf 512\nzlihgxhhuxf 1131\nlbqbomtws 1149\niougqlytdepuytc 203\nebukgdwpjhyv 2351\n",
+      "output": "odvdrietb\n"
+    },
+    {
+      "input": "12\nocaryise 1437\nczqu 2859\npkddrquymv 3606\naqdrlhou 188\nsukxfdphvhdz 3339\nhequhbyemqhky 2993\nzzdv 596\nzjksnxihuncphwya 1196\ngapziigvxkmeadq 1128\nigp 1941\nbwzbmknrdivystd 4041\nsqxwvyu 1853\n",
+      "output": "bwzbmknrdivystd\n"
+    },
+    {
+      "input": "100\nkxaasyl 821\nncgrlupxn 415\nmevehydqsh 2550\nwnzomxmncwcawo 1586\nqoucugsrintl 2567\nqjytjrweyvyq 1958\nijqrrknlsfdjdk 4135\nysylpnyxhet 3714\neatmjkfeovysmujj 2822\nobl 4213\nisqyrlwwobs 1441\ndxrb 3819\ntdqatz 1718\nclph 3557\ndvo 3095\nzejauldhgfpro 1691\nggyg 1069\nahbr 1861\niimjcky 1764\neephkixrdbixj 1410\njhjjhmhkev 789\nbgjcl 1327\nibpjmdxtld 756\nhalbnibdbzkfwroc 2056\nsosgkyoma 1245\nzwqelcbrjcw 536\nnjpaicybb 105\njswshrhcskeyojkq 1509\naqhy 2821\nxaxafvpqivcmuf 1248\npcmviqwujnljun 1428\nyrcoqtfptcyrsi 1833\ncyzevthx 2187\nhtxffcbcrujubedb 1841\nzloswvyn 1974\nhgndrpk 1644\nxlsjbbspfj 1898\nqsebsconh 2247\nhwjuqaxz 4178\nrmjkkg 3741\nvyhhwqlzdzgt 2040\ngfgic 1270\nplygvmbuij 1686\nygc 1274\nfxggyenndha 2253\nqkmm 1805\ngplwvrtvbv 3271\nfixeiwfnwkktaqor 3108\ncamna 2941\nziwoqtzotzrqeez 487\nsomcsm 2401\nkzqzj 3037\niirytsclhhznv 793\nddikadcr 269\nvdjsxfihg 1546\ndaiinsce 1229\nhhltcvlctl 1420\naoushbcgitcdwwqz 3067\ntsl 1431\nssy 3541\nzcxigfcbnqbjxl 847\nqiutrj 1769\ndemexwfc 1629\nvsxfhatb 2146\nhio 3765\nocrksiaj 3162\nddplkkwspvg 2349\nhmag 1248\nvcgf 334\ntxyws 3246\njzlaqfyjdvvxp 2557\nuuwftvjtnha 3016\nojxa 2297\ntivoorlnjcj 732\naymsod 586\nhzfkafxjkrvs 2049\nwnpznduvpxpe 2037\nfevtpitltjx 2279\nrhhmam 1853\nqneqd 317\nqmgbbpwelkwjjk 207\nvxsybdhlayftfiq 3008\nnxc 1576\ngkahpll 3213\nhdgrecamrpmu 2474\nilmcumyycvw 14\nfiqllxzoowsty 3911\nkwy 1984\nqfquafnwr 1888\novhdg 3310\nguatmh 1564\nxwoyppzf 2808\nsgfpyauzlrihnp 2564\nmzajrgevdosyk 2261\nntdw 1985\nntcmbgyhdpua 1893\ntvvnyuyjpccar 1797\nrcpvsolxqpjz 1403\naje 1169\nhmztkptzsgtmvb 15\n",
+      "output": "ahbr\n"
+    },
+    {
+      "input": "100\nqak 931\nmkxkrp 906\nhjugeullgiacskj 112\ncixddoclexefmdlk 4004\nlbyoucjfivh 520\ntoctgannzsecyih 3610\ngwxijajkno 1938\nnkfkkmxyr 1218\nzdlamv 2377\nzgthrnmukhu 1930\neiwbvjsihnmkpmdo 1144\ntbalweabpqmnnepy 936\nvnpsgthrvdmggnwu 1487\navgcpdyu 355\nolgvuzn 2157\nmidxdsajunlakdy 2231\newuxnzgiw 4071\nmtpqd 2463\nqksrgzdwmanqi 3660\nbidcmfk 3034\nhywefxxkpbllthf 2580\nppgicijthu 41\nhaxbpcqavgmefaf 2182\nqznqktbybldv 2476\nfxqpjjuybslxd 1364\neaxhzujj 4200\nmyibwlhanjimcunu 3193\nfgufjdykwt 3560\ntvtuanftgwlv 2228\nuac 3272\nczcwbqplnhinc 2537\naysecwir 702\nromznkynmcflfsz 607\nacdlacexm 2223\nkjiitmekv 684\niopq 2728\nkgczzbyhduapg 2271\ncbpdke 3649\ncnzabzycjajzkzx 2705\ndsnkjfozjqmlo 1461\nqzmooewpfafifgg 2331\ncymzekxfrltwmdxh 208\nlcnttnbcwuylsvnk 992\nybviwf 4007\nmrgeky 3954\nprhaacdhqrszyi 3104\nxiiogxlpsxy 332\njojvcsu 1626\ngpkkepyacxehyy 3086\nxgutjj 979\npfatsgt 1311\nynteinlcmxzbu 372\nlmoglnlgchrsywyi 1056\nidnpztnyyoqz 2498\nlqbkuaafmrshy 1881\nkhifszpn 4189\npntmcwy 2748\nvjmvswvb 926\ngvescwgqdnjvslyg 2251\nprfxritfatoag 1179\naulkbqatqojr 3805\ngbubwevfccqi 3487\nqqabslsb 882\nfvaesxju 1212\nnszkfwbyllc 1407\njlylyahxwimmkrqt 1019\nblfqcjoiweuyr 2553\nrvaifrnyydick 1341\nirljfbndpbdd 228\nbfmborvbakddsh 3032\nujqppgmfhxn 3205\nauhlajxyquimhqtv 2463\nsmfkbucvpgbcb 186\nytgin 1582\nogvrerklcreyvio 46\nxzhdf 743\nzjochxgajrwju 1072\nbiuxnmggrrxphwn 73\ndyfxrltz 4073\nxkliaw 29\njdxinx 1453\nqjzznzzbggkpdcni 3407\ndqnuvonyvpepv 1257\njza 1867\nsqh 3108\naoimqdujb 816\npng 40\naecuwwjvyb 2751\njiwprmxgjelxom 1364\nfxcafq 105\ngyvyejfgiga 1165\nxhnd 4155\novbmyhng 3145\nlycwmeptmsbn 1707\nihjfhooglbzugtus 3605\nzsdojksuokufpdxl 3555\nzimgbltgstyq 2035\nybqorjtyoibckmof 818\nfrbxjtx 582\niadi 1091\n",
+      "output": "jiwprmxgjelxom\n"
+    },
+    {
+      "input": "100\nhnwaj 238\nmtvpvlwiklbnfjg 1155\nwyoimacirxxmfn 3286\nhad 1805\nvjrtamteu 3144\nlxmbjtbminnbw 1125\nchcpukky 1794\ndahhqzas 1558\ngpdreditg 2508\nqbumorkbvcrzpm 3794\noqwjuqedqkfmk 623\npnpuadevcbjf 703\nomxfq 1097\ndyashjxzldkip 3006\njncqabessrwzw 3554\nitfxtbrlhzkdsb 3321\nekcd 183\nayqocwaqdoce 2803\ncwcbn 3509\ngfrpstq 1457\nkknmrpcklnvm 618\nblratmqtlwaae 3997\nwbg 2802\ntbyu 2340\ncghtjebzpmfv 3284\nltx 425\ncpmiwtvznxcaaypy 4041\nivbalttlwhi 1026\nwebnh 1158\nmqn 4154\nbkvcvsggqoy 1197\nfkcphqxqo 1453\nhyxnsadjhp 2677\nakepmqbldwuk 2040\ntsivruogbbmx 3487\npiynklx 4045\ndzgbxwptlhfty 3041\nkdkmnfcz 494\ntpbmyhc 1447\nuispoebjrvfhkycm 1506\nfryta 3943\nhhbpfrixexkkt 188\npjfq 3614\nxakvqw 2347\nwuqsgytrptug 734\ntzxzggynpeeh 487\nmduappqrtvaommg 2232\nwyrechrfbkbvrydo 1940\nkwcsuzp 123\nbnxgjzmk 2474\nguyckrglwg 3581\nsqplzfpxui 1654\nulueeihyzkujcrh 926\ntoyjoxtlibkj 1139\nmsatntpn 1876\njhrtnjnyckinil 2037\nozemngevzq 2336\nwoghjavbymcrjy 1918\nsdnjndnqllll 2757\nzwguijwfbrmmj 752\nyjespdfjgty 3682\nvvec 1385\njprxqlyfyu 1721\nffywdq 262\nfmzgcrerbqq 1190\nzavblsyaedfzja 3949\ndekmeorvur 942\nptal 393\nrfunltrsts 3200\nkprzhstkigr 12\neekta 3651\nsolujrgxqqtwcmj 2445\nruvri 2799\nspzhjuqluckfdkx 2327\nkafxgphvlx 334\nrercloljuqk 867\nkoaxmybmb 11\nqgsoyff 2277\nzoouogrmvtmq 2450\nhdxmfttup 926\nbjdl 1462\nparfehan 261\ngfnecteuyfyj 554\nkgvwuegrreku 1618\nqzpnndtkyxttt 1650\nrbjwqqiiyqtv 2648\nqpbfrh 2794\nvraconmxzpp 3640\noaji 1593\npurubhedvidktdbn 886\nfzvvkgpsr 21\nmmrhlsmmvajfida 14\ntkjsi 3940\njtlquhhlyljjnhtm 1815\neukaqzsrjqyacjfa 1551\nfdlzolyareenr 1744\nadjhv 2018\nlrqxsonwmpxjdz 1182\nllnv 1264\nkrpdu 3301\n",
+      "output": "hyxnsadjhp\n"
+    },
+    {
+      "input": "10\noulqu 1189\npzo 1930\nfnj 450\nsrlof 2597\nvdpvremj 271\nolvdmpj 2731\nodlqxgijwusjk 864\nlwagkrummiujyboe 3694\nbwes 2482\nlkxlbi 3262\n",
+      "output": "bwes\n"
+    },
+    {
+      "input": "100\ndphymqztznnkv 1448\nwjxvdbikzr 3703\nhwaozznhglapl 845\nsuynafmfqdqtij 1646\naqehtusxzpqptipa 106\nwagxubhcxjunu 991\ndyvoqglikrl 2124\npms 354\napcq 979\ngzriqzbsjpezwmsx 1928\nwtjqhzmexymfndv 3826\nmmdonulhujypib 1644\nwaelzqlh 38\nsxsdosgqdvdguup 413\nvkrwdoepixudt 2699\njstxjpcnpmdduj 324\nkzdealnsbeedhz 1322\nuywyuikf 1110\nqhkdhmqswmnz 3209\nejxvrhr 952\nbhqs 2750\nfbzdihs 107\nemdsqqa 2479\njyrhbzzpphhb 2799\nucrespkl 934\nxovr 94\nplpwfojqbbeurhwi 2477\nhjldyh 3706\nlvvavqkryqzxi 3092\nplscmnmlzdeax 2268\nkcrbxtypcc 2937\nawgkoh 3323\nfzxhde 2139\nanjxmlf 1940\niecfzqs 2023\nssgjziqzhpwzteyo 14\neldcyt 3328\nrvnbkrmbice 2691\nzigmvodp 116\nwkjudpzdfjrwv 3538\nwtuomln 3570\nowfihhxbgbckwwna 3041\nofcidc 104\nbjtzjeggtzsfhefr 881\nqpvyrolunatjxl 3083\nvzqikwi 1274\nutcedtsluzdejj 2383\nxovjmpzhhitzzl 3240\nojw 1262\nfrxavyhdjgemplgf 443\nwpg 3545\nojcujqultgbat 3481\nktlrbm 2787\nkywro 3445\nqglrbvhxnpcgrhj 227\nshvozbbjkwyltdug 2171\neiczlnadopr 4136\nwxzywoduj 3022\nhayjxwymnxz 2329\nivprsra 2796\nandphnlpiclzc 361\nqxq 1104\nssrhghu 2965\nxiwxqnis 1496\nsetmllodbqcrgdc 4228\nmfkrptc 757\ndzkfbalohnemeh 3573\needexb 2506\nhddtink 3985\nefws 1166\nnnni 1362\ngxzmurnyfftruaco 2396\nqismvjzvppqhu 1846\nvcamykhvsbes 98\ncaujtzxur 3236\nobyniovhn 577\nifczzkkkwroclwe 2813\npkf 1998\nwuzjavbfgeega 1798\nzuuvbcjkdsb 2491\nowjsvhjxlc 410\ntjbmamimmrcwnvt 2397\ngavvy 1665\nuogksunlb 2594\nunvbdkmgcjavdw 2987\nnodrw 717\nioif 2883\nntnneffm 4068\nmvugkhy 1352\nwrliaqyazfsnyez 3222\naqdysoqqwmkxg 3588\nvnmunccnxpvwvkfb 3402\noie 2593\nkoucdwyogralmal 2301\nskghakaqpob 1933\nppgtbjfdcfoomp 522\ngovmpfhb 3379\nnbhqlcjnnzjluwf 2795\nkusfcbglpbuhy 286\ntmbxd 3994\n",
+      "output": "uywyuikf\n"
+    },
+    {
+      "input": "41\nkkdoflhmltubpsdk 2916\nzunxvceded 2612\nsisapeagdva 4142\nseufrtkodesn 3424\nnvryfanysubfmt 2735\nzobxjfvrzmalmid 1466\nqkqeuz 3298\nfvrplet 2709\nhopkolazcp 962\notxuhbbttrsaw 3078\nnydkkqc 44\nmvbf 2272\nhcz 54\nazk 3245\novwchjwtu 2999\nznddo 438\nfcvessj 1816\npjflxhpxczy 3812\nzxmrsklmry 396\nudu 1586\njbxdrkancetkg 1051\nvckakcnfhtcpg 1750\nohmxvdegbk 1223\nzcv 871\nrwslmstt 3751\nixzqm 1523\nawsrcmxbxzslsgd 4193\nwriobzgqx 367\nfvvrwyjgkag 1035\nsloqwhlxueuy 1650\ngqqphyg 1178\nqsgi 1740\nypvva 3704\nwwifsvxstbcqkikb 998\nfufafvlmpmijfbem 1621\ndjfvymcwu 3060\ncnddugugrkqtgvp 2114\nehf 468\npheahhgggp 3303\nndmun 83\nuwsbmgqin 894\n",
+      "output": "ndmun\n"
+    },
+    {
+      "input": "14\noiakarruwz 1251\nibpvictd 3228\nreyepwsy 1666\nkfsp 2634\nfwqwqqicsmepogor 189\npocdqsq 2834\nkuy 1876\nmxyrruppxlsweq 2636\ngxcmrqucrjv 569\ngdwhnbjagsk 416\ntetiwdzmbw 1972\nlhndelektbivdbge 1667\nlzeuabbbbi 2651\nxvwdocsjldezldb 2661\n",
+      "output": "fwqwqqicsmepogor\n"
+    },
+    {
+      "input": "100\nuzkpoqpc 3302\nyatqafceddiwyzcf 650\najlfjmx 3618\nixmvr 3662\nlnpa 485\nqznrhue 2364\nyehoa 233\nqetxsyqu 1014\nharl 1824\npjxjvofirhsj 1507\ndmyygpy 1974\npbtjugprsaokv 1661\nntj 3854\nesvdeurmedrqa 2402\ndrx 827\npcrwnjydjxvzxyif 1019\nbnczvitbfmfczs 3444\nrhcrizlreuebtua 1010\nnnrjrouvdxvip 3422\negmcsyskrozqzz 1484\noryqwvgyafkh 857\nxuyed 879\nibydafgbrxcrgvqw 2702\nzqfftfv 2516\nfksmkxxfdpsgfobf 3360\nwoniaojdtff 2690\ngmnsqf 3545\nnabdxck 987\nwkfdpizmoqoq 236\nwxfaa 3706\nmtoftibu 81\ndizshmminbduj 1946\nhnnpzvwdkgbvf 617\nhjwqzziqqdepzu 488\nubppnvfuixiceg 1351\nuzbycityk 948\ndihxyvigvgeo 510\navjpfmdvs 90\ntvrfkbixqs 2130\nhihxorfol 3333\ndthqtiqi 3252\nktz 2102\nbozdny 3483\nhdhnalxsu 145\nnqzcfwcae 632\nzwwf 3345\nteqcawmstf 1520\nory 2571\newrofpxisle 2645\ncczuetr 687\neqnxkdaugmjm 1220\noocgzwjur 22\ndylnbikifgww 3416\nsyudadoqenohsnbw 3611\nwpqjtwxzfsjfx 2521\nfafqnlfsbmoa 2190\ncoyxasvfoobjsl 3001\nbzhmztlonxi 3796\nwespyrrijsmqw 461\nhhbzdwgrvzyyhqmi 538\nygxaqijqufraiylj 1991\nwqhohqgggefekqdd 3602\nrbypdu 3899\nmimsagclxfqcti 162\nvdzqu 2212\nwscofojooc 887\niapnowtcogxrviuw 1092\ncfxnnukuehg 935\nrjtiaf 4208\ntizlseqllxv 1795\nggpzvagrfheo 1736\naifvwarspzymbkl 2516\nskviedin 2937\nckxgspywzrbnckqa 3854\nrhrgo 1062\nuui 910\nxvfezo 1542\ntwlyww 212\npaer 3914\npaq 3387\nqzwmjnvvlbsu 2195\nottbwjqlyrgyh 3451\nfcttq 447\ndziui 2516\nrjnpzzcvshkefe 3766\npjjtfgokoatrdh 3858\nguuv 1799\nswhngwqe 3853\nuoxy 1744\ntvelfo 1204\nahhyixslvsw 671\nxhcqgn 1807\natdhh 2082\npoqjzsaxvzywme 3324\nhzqmznkbnzpsuuyo 595\nvpyjhhrksu 454\npoxceoxuci 1469\nzjdk 1559\njkjowdlpodri 3930\nhoxmj 2934\n",
+      "output": "zjdk\n"
+    },
+    {
+      "input": "1\ndlshogi 297\n",
+      "output": "dlshogi\n"
+    },
+    {
+      "input": "3\ntakahashi 2\naoki 6\nsnuke 5\n",
+      "output": "snuke\n"
+    },
+    {
+      "input": "3\ntakahashi 2813\ntakahashixx 1086\ntakahashix 4229\n",
+      "output": "takahashix\n"
+    }
+  ],
+  "timeout_sec": 10
+}

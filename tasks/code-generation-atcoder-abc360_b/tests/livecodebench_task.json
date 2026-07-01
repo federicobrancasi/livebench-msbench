@@ -1,0 +1,105 @@
+{
+  "contest_date": "2024-06-30T00:00:00",
+  "contest_id": "abc360",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc360_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "xfgtljgawwpxwtjbxtkspuubxshsvyjaybbttqvapncywqgjh wuth\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "ezcbcuudigagtlzzobhxzakwiafepemqnqaxdmmwxtnkitmis f\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "nfecmyljqtmtjgmxjctggeayhsjbbmugjdshrynofplziuhpldevbjmnvstjeyptcpdldiymtwnxrhbqwqgkqxulabuflswmrpfg ime\n",
+      "output": "No\n"
+    },
+    {
+      "input": "samaodpsoabrqytyoqmdpyechyfsihsnsahscfdiuffhhtzdwdnqewjhfjpacqhweevyysuisunmatapenbseiwfbubijlmtjlkd ycab\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "qcevrzyxbeqsuagkenndxrrhitfpqyrvhxagesuqtudzrhygmzqsmgmjakhvmolmdyodtimajjhuxirjlnvalijgfbidopxugtda j\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "qlknojothbvyozftcuujcoqnavbhwiqswbibaugzhgwrjiczyfshjarjzmcystffstifujtnmnovaiwvgzrosjakonsaphzxfxvt uu\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "yiaxkcgujthherobztrjihneoqpcbfsixqqugfhdvqxucbgsqvcqkjaauosqpoayjhncqloskcxoczyfieseczktuirjpjgonpam m\n",
+      "output": "No\n"
+    },
+    {
+      "input": "whdxeajesslotoiyzgmzrsqutnpiijhrwiozpgseqqqoampswxtaq aj\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "xaapggrcwffaprxzfognmubchoetgbyncqrgtftshwgtjvglgkaohmxdxkhvklasvcdkgywhvtwgjvpkdrdopecxlpypbqyxdznj c\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "rnewqdirqhsncdoo q\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "cwyxvcnwmorqiedyiofzzidkucziwduojntbvfamlhhvokcp enn\n",
+      "output": "No\n"
+    },
+    {
+      "input": "vhewcemifgmyzqtliu wz\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "hasildigiqsjemsaotxnvdnptqzhyltezrlppkonjbznirtjuieaneketeuzixohgozdfcxkrrhscqoogtvymzleissbigqqcjbk imvhlbueoccysj\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaa\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ydbaijpubekwvf e\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "okkxzayzyfkflscgstcamvfgkslytaklozosfosmlolgiccmgbcczfhcbyhmkdsfqnsffennyaqvdqxmkzjcrycoodqfuqxkolfc llhfjo\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ngpcexgjbhgmjcmizvrsodquinzgjehsrigaesznmuldexbvvhlcbtuzrngytglegeizveenuurocikewwusdrqbuakcmbppkhzk hosltgoqhk\n",
+      "output": "No\n"
+    },
+    {
+      "input": "auheuejccagnharaaztcprmfldhbx c\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "cfdirfhejpiqmfyjufassyeoyxuwdoqzuskocdwqyuktvnatxbuslobtaboilkdapyqzgylegxlckab cmyxlg\n",
+      "output": "No\n"
+    },
+    {
+      "input": "atcoder toe\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "beginner r\n",
+      "output": "No\n"
+    },
+    {
+      "input": "verticalreading agh\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

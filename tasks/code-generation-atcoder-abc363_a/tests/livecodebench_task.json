@@ -1,0 +1,69 @@
+{
+  "contest_date": "2024-07-20T00:00:00",
+  "contest_id": "abc363",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc363_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "99\n",
+      "output": "1\n"
+    },
+    {
+      "input": "1\n",
+      "output": "99\n"
+    },
+    {
+      "input": "174\n",
+      "output": "26\n"
+    },
+    {
+      "input": "225\n",
+      "output": "75\n"
+    },
+    {
+      "input": "299\n",
+      "output": "1\n"
+    },
+    {
+      "input": "100\n",
+      "output": "100\n"
+    },
+    {
+      "input": "100\n",
+      "output": "100\n"
+    },
+    {
+      "input": "200\n",
+      "output": "100\n"
+    },
+    {
+      "input": "200\n",
+      "output": "100\n"
+    },
+    {
+      "input": "35\n",
+      "output": "65\n"
+    },
+    {
+      "input": "189\n",
+      "output": "11\n"
+    },
+    {
+      "input": "250\n",
+      "output": "50\n"
+    },
+    {
+      "input": "123\n",
+      "output": "77\n"
+    },
+    {
+      "input": "250\n",
+      "output": "50\n"
+    }
+  ],
+  "timeout_sec": 10
+}

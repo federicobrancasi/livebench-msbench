@@ -1,0 +1,69 @@
+{
+  "contest_date": "2024-08-03T00:00:00",
+  "contest_id": "abc365",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc365_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1583\n",
+      "output": "365\n"
+    },
+    {
+      "input": "1896\n",
+      "output": "366\n"
+    },
+    {
+      "input": "1687\n",
+      "output": "365\n"
+    },
+    {
+      "input": "2000\n",
+      "output": "366\n"
+    },
+    {
+      "input": "2016\n",
+      "output": "366\n"
+    },
+    {
+      "input": "2023\n",
+      "output": "365\n"
+    },
+    {
+      "input": "1595\n",
+      "output": "365\n"
+    },
+    {
+      "input": "1949\n",
+      "output": "365\n"
+    },
+    {
+      "input": "1818\n",
+      "output": "365\n"
+    },
+    {
+      "input": "1900\n",
+      "output": "365\n"
+    },
+    {
+      "input": "2023\n",
+      "output": "365\n"
+    },
+    {
+      "input": "1992\n",
+      "output": "366\n"
+    },
+    {
+      "input": "1800\n",
+      "output": "365\n"
+    },
+    {
+      "input": "1600\n",
+      "output": "366\n"
+    }
+  ],
+  "timeout_sec": 10
+}
