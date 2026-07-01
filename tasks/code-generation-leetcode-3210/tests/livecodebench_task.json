@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-11-25T00:00:00",
+  "contest_id": "weekly-contest-373",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3210",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"f\"\n8",
+      "output": "0"
+    },
+    {
+      "input": "\"dl\"\n1",
+      "output": "0"
+    },
+    {
+      "input": "\"gtk\"\n8",
+      "output": "0"
+    },
+    {
+      "input": "\"shra\"\n7",
+      "output": "0"
+    },
+    {
+      "input": "\"iczan\"\n4",
+      "output": "1"
+    },
+    {
+      "input": "\"zmjzd\"\n2",
+      "output": "0"
+    },
+    {
+      "input": "\"ryxnml\"\n9",
+      "output": "0"
+    },
+    {
+      "input": "\"coydlsm\"\n3",
+      "output": "0"
+    },
+    {
+      "input": "\"vaavovpjrvdphtvommiigyflguilfwytmxlrdkkcsdoqwkryoaxuimzcxweeaydoeyoydqwyyzsvhjtsstaiedmsapjuwwqohbugdtxvuxspvcbxelrcdjfyugsjljkkslcyimbcoslxnzeswpygyplerjovovcjpmmgdpgtbhflcjxowtmnwhypzqyzlarfzrisavfncvetfwdlzydlybnodzrrcimdtvpuqhezhqfzjerdfalhsnbyiywbkexrfmxqtczjaszjcmlqqeqsheqhkjoaummfsetffjvvamkdzxgmgokuuwqukjwxbdamkytxvqexrrosjordpxzpmhjpesxaydegxhfdglxvordmhprxllalcibfjmxnfjmfhasuchkhurfvxjmiwcalzcqaqzfmfuhvktgprpoktortxauwpdaejaattibqyyuvybsqkctlyvcibqborsbbxmhsjzvullberiedvpuafyfitxmquadsjbrwxlknfwtxlxqehzzagnurfcygjjcmylzzbuvuacynuwifvyhwdgtwyfwmaqmcyjfrdsbqmgxuzudulncyreefbgjlpnoadurvmoqbkjgkndkihpstqorvmbxcywqldcmyzlufgcsffiybcogaavwwmrshhxhtjtgpubdqegwyatwtlhbajvmxrkciorszrojtqaijtadgixxnyqptmfgmyxtffaowapycjnfwjitnvzfltbbflllogmvpesrtmixzozhcgzeijxpovyfsprwhzgdirsddvmkwtnxtoxncjfsmevgvxyhhwywupcvsfzhhbhkbzunbtuvnzdwoofdefgmotkdanwhayciprtkkrkzkjboxxqns\"\n425",
+      "output": "0"
+    },
+    {
+      "input": "\"ejnxphtxwfhvqwqtlyexegvsvojkdvbeylneqcfzbsrirfvrrhpumbhqsuudvlhvljsqmolrbxkravmwtbmfivjztplitjwkrmvhgcupxxklgypxmasgdfnyxkalejznyzvrtmxcrdmmdybngcmonkgvjwagsmijlstfxuxvomvviwacqnbuxqfqylopuipypwddbfcwlwklolloqcrjbjtsvmsrqvibkwyktyerytgzeqlmijqmmcnsscjbfxybyrlwhxdsgawgpncccghesxiveluyafygojvwwodscmhcihysnnrbmhfrhlqngubgoneoivildorzhggtwzhmcwkkccmxwisshvgnjeppzzujrwoehuhsoncwnbumfmhatvihbnsqhfegqltutgrgosynwdjxkehofjccspapxpvoyknaexocleujekysxupdttaotiwxfjzwdjzbzabgvsdhdnncqcwepruszlzufczylqlbqrlnwzsaskvwasjuxcgkfdwpgxvqklrkswqvgblxnkeniijwqkuotbettdkjocekbloucuitarcgrgqlzkwcnmgkxghrkmieyrtpnwobirukvowllsfljoggswixvevyessypslitftjqfswcajrmhfopdgkdxzbwffluoprptcihshflqrssgjcymsypnuwgvuwaqfxabsaysplotlqqkpripgdyemdxvnfvmzupftxcuewvdxhjhwrhojpriyvzoopbrarmikjwtmgufnuumqkezourcfhylwdtqwmqxexqhmunumokfcdqwrwfjjpmncwoplagltsgagalmuokqonkzvhkhjxyczoczixzoeviwcsrdwyubxfwitlmpqwbacriyozyrjpmxkqdsnifkrrivbhzhnslwydbswgrvchoyuhwtvzpwhnkczwjjbc\"\n177",
+      "output": "0"
+    },
+    {
+      "input": "\"qtzqusuuiruvgqokwyobwhphdvicpeidqetuxpjhgqhfhxilrfpeszcxqyaivojhjgzdkcpqhzkslevmpssgkxdbtdrhooozcxaynojqzhoujmwafykycdnlkiwirnbgaoxoxnastboafeafgbfqlslmlozsfyvxvjdsdzphhsnwfdlkekyatxvvurtfmyjacjbgkqmokdjnlvgljuqttkrzrxxodcremwomfmhjyvxtijinkesqhgvporslowjnwbhubesfuubnurepgldbsxyfmcqfbkmuxzgbhwrjcresiohmmbzlnfrbhgmzqdvcxyuxvmdrzjtgbodqdyewwpiekstaaemtjbjyjprxvlndvrxelhviruewvcasphlqsodpdwsbnwhdfdaaphnnazkmcngyjghuyjcaesjdxavuaujcyptaepgbfoabawyxhozxaphxvfmpdpctqrknobvidtkjnyiagszmqxgkjhughjfxcgbntwgpxijkbzamvrcgwpjxqjhvxpvselghpwykvksfvzulwkbjxjxnfqkgtkcqidiakkadcjukqgfahypztdtkzddydfuerbmsmthyjdpaskammxyjkunyxtmkoykghuspgpifetccttiwrmkbnzvlkdevtjkqkbrdheaqxfrcmwnjjbgcgirytsldnkvgjcvuvtuievyowvctvccimlcpcsxynpftjxtklilbinvvrjuqfokrxoebmwsutdhizgzevjxoohqaitrdzwpcsxcousnocsbmtchlhgynmrpqsujzegajjdzjvbpokntbyamphwmzcfdmosdfbxzhznypdgrvlmcvpltsjiwhmqjnxrhhxatntxqoptrynbyxngcfereqwocaczuzvwgdbrdatqtuxmqiozsrlvoanilzpsqxglzqsamgdamgzvehalvpznbgrwmyjywgylucgjozrefmcqgroepziwumdwebhefypnhevytu\"\n1000",
+      "output": "0"
+    },
+    {
+      "input": "\"zstzrfgvurjscukryeuuuebuptpuuglycjzqmubmkvfpfovuqhbumsjqdpmzikxossquujzdueegfhptdgxvrvouzffnafvruvlycpqviohsusmzkodptgkpalsxxtzarbrxwteghndrbrkytsbqmhewaurpgiratyiqizacujvmgpkwwrewtdnxkkspnqatvcbbzubuapbctsewimsaujurnsjcjmijvofhxnqfgsesgzdnugrxgjjgizljzsyuorylfiodmnasvalfagqgmspjuvbpnuaiuopehikrbvjpnhhmcdlwwzztldvumtmdwdzxqrtgqgklfgzgagwryotgudhtmdbwcaesognetxwoiszlrjnscvafonvvbdzhepfmwcvumpttryisitkcpsywzfbtetuzmccyynzhauyyenkzirymrgothvsnlkjjotakuogrscstibmthgurxwwalibvnjfwimvxmhimlomvlagjxysenzajvddcapvzyspszvdmbuxxvpctfgpyrcdhltslyznrweqfdncgmqnedtjydxzedhghxzzrclxrednyidtckprgkouuuuyxfxyfvrivrpgpbxylcwvwtlkvbgbzcaidjeatkkkcsszpaguoyodinywlrbxuhawjuyyuutlybcwzpngburfkjivfqzhmdckpebfeagnmkmndcildaawytvgrftfohpsouwuefwefmskespbkkwclxnidzseezebxmgtnefcteknxidmdebpvdnwxmbirzrvuqsfvmmbjlmpzvtkoqebropillsgkyxochrayvenxsrynsdpiqxifmcrdpfkbiyghavyjzeasppkmwituqlrqsayphqhbkaobgcrgkwyvyafqpuhsyrunrjypuxfasljqzdvtxnushdxtxuvtshbcsyyazihhlfimuruhulvngholongyjuargdpowtembpqhaurjgpchrflmboqixwbf\"\n1000",
+      "output": "0"
+    },
+    {
+      "input": "\"baeyh\"\n2",
+      "output": "2"
+    },
+    {
+      "input": "\"abba\"\n1",
+      "output": "3"
+    },
+    {
+      "input": "\"bcdf\"\n1",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

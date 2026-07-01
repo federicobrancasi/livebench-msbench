@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-12-30T00:00:00",
+  "contest_id": "weekly-contest-378",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3267",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"vvv\"",
+      "output": "1"
+    },
+    {
+      "input": "\"ttt\"",
+      "output": "1"
+    },
+    {
+      "input": "\"yww\"",
+      "output": "-1"
+    },
+    {
+      "input": "\"azd\"",
+      "output": "-1"
+    },
+    {
+      "input": "\"tbr\"",
+      "output": "-1"
+    },
+    {
+      "input": "\"ltac\"",
+      "output": "-1"
+    },
+    {
+      "input": "\"fxdz\"",
+      "output": "-1"
+    },
+    {
+      "input": "\"tgvjv\"",
+      "output": "-1"
+    },
+    {
+      "input": "\"wqtaxohmdjrcykeeaxpbtavzjdpe\"",
+      "output": "1"
+    },
+    {
+      "input": "\"grnnnnnnnnnnnnnnnnnnndywsdesevvtmjhmrnnnnnnnnnnapz\"",
+      "output": "17"
+    },
+    {
+      "input": "\"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedxdyvleqlmialrknr\"",
+      "output": "31"
+    },
+    {
+      "input": "\"dzllllllllllllllllllllqordklowgscjqzjuoecfgrruwecw\"",
+      "output": "18"
+    },
+    {
+      "input": "\"aaaa\"",
+      "output": "2"
+    },
+    {
+      "input": "\"abcdef\"",
+      "output": "-1"
+    },
+    {
+      "input": "\"abcaba\"",
+      "output": "1"
+    }
+  ],
+  "timeout_sec": 10
+}

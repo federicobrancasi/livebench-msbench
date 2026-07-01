@@ -1,0 +1,69 @@
+{
+  "contest_date": "2024-01-27T00:00:00",
+  "contest_id": "weekly-contest-382",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3312",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"E\"",
+      "output": "0"
+    },
+    {
+      "input": "\"r\"",
+      "output": "0"
+    },
+    {
+      "input": "\"H\"",
+      "output": "0"
+    },
+    {
+      "input": "\"G\"",
+      "output": "0"
+    },
+    {
+      "input": "\"M\"",
+      "output": "0"
+    },
+    {
+      "input": "\"a\"",
+      "output": "0"
+    },
+    {
+      "input": "\"Qh\"",
+      "output": "1"
+    },
+    {
+      "input": "\"AIw\"",
+      "output": "2"
+    },
+    {
+      "input": "\"CRJEJYXHJAJUZQLSGDFCSMKSBAODDTATIFAOHBDSZIYUGVRBOEVCODFCLMUTTSBJZXAVBHIIPEIXYSXTXYNVCZZZOMSNHVHGZHKE\"",
+      "output": "94"
+    },
+    {
+      "input": "\"RqZlRtJhLfPZXonaRNgfShpvIBrScljQGLtiySpeSwMQcQZPdxSgTBRiNWySVPweOAbrbRoywfWhcmrZgETIpDxmeXRMxQlznyxJ\"",
+      "output": "99"
+    },
+    {
+      "input": "\"cjsiuzodienyfsyafmjkzrylsggairtvimbkkwtlgwprtauylqpazsbzfmizqctvibvxqnytextdmfuiwbovwbnqualasevmbjuc\"",
+      "output": "97"
+    },
+    {
+      "input": "\"JkDvRICdDlDBvmMFXDybvyvJqCVmFhgkQQoSvnLFXKTLmGfcHVUgXRjuKjscOdkGxkYeeBagXJyJDyNvnPqULtGSabPEUROsMutw\"",
+      "output": "95"
+    },
+    {
+      "input": "\"aAbBcC\"",
+      "output": "2"
+    },
+    {
+      "input": "\"AaAaAaaA\"",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

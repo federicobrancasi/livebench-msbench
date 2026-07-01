@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-12-09T00:00:00",
+  "contest_id": "biweekly-contest-119",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3230",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"\"",
+      "output": "0"
+    },
+    {
+      "input": "\"x\"",
+      "output": "0"
+    },
+    {
+      "input": "\"k\"",
+      "output": "0"
+    },
+    {
+      "input": "\"e\"",
+      "output": "0"
+    },
+    {
+      "input": "\"a\"",
+      "output": "0"
+    },
+    {
+      "input": "\"i\"",
+      "output": "0"
+    },
+    {
+      "input": "\"d\"",
+      "output": "0"
+    },
+    {
+      "input": "\"s\"",
+      "output": "0"
+    },
+    {
+      "input": "\"b\"",
+      "output": "0"
+    },
+    {
+      "input": "\"tuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmno\"",
+      "output": "49"
+    },
+    {
+      "input": "\"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\"",
+      "output": "50"
+    },
+    {
+      "input": "\"cxyayzaxybxzbyxcyybyycyzczzayxazyaxxczybxzczxbyxcyybxxaxzbzyczzayybyyayybxzczzbxxbyyaxzcxzczxcyyczzb\"",
+      "output": "25"
+    },
+    {
+      "input": "\"aaaaa\"",
+      "output": "2"
+    },
+    {
+      "input": "\"abddez\"",
+      "output": "2"
+    },
+    {
+      "input": "\"zyxyxyz\"",
+      "output": "3"
+    }
+  ],
+  "timeout_sec": 10
+}

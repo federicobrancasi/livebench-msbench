@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-10-08T00:00:00",
+  "contest_id": "weekly-contest-366",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3172",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1\n8",
+      "output": "1"
+    },
+    {
+      "input": "1\n2",
+      "output": "1"
+    },
+    {
+      "input": "5\n2",
+      "output": "3"
+    },
+    {
+      "input": "6\n5",
+      "output": "11"
+    },
+    {
+      "input": "5\n7",
+      "output": "15"
+    },
+    {
+      "input": "9\n6",
+      "output": "33"
+    },
+    {
+      "input": "8\n10",
+      "output": "36"
+    },
+    {
+      "input": "7\n10",
+      "output": "28"
+    },
+    {
+      "input": "10\n1",
+      "output": "-55"
+    },
+    {
+      "input": "55\n6",
+      "output": "1000"
+    },
+    {
+      "input": "921\n387",
+      "output": "422259"
+    },
+    {
+      "input": "1000\n1000",
+      "output": "498500"
+    },
+    {
+      "input": "10\n3",
+      "output": "19"
+    },
+    {
+      "input": "5\n6",
+      "output": "15"
+    },
+    {
+      "input": "5\n1",
+      "output": "-15"
+    }
+  ],
+  "timeout_sec": 10
+}

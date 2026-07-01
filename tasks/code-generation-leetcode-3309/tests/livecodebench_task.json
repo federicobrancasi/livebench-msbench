@@ -1,0 +1,73 @@
+{
+  "contest_date": "2024-02-17T00:00:00",
+  "contest_id": "weekly-contest-385",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3309",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[\"ft\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"qdes\", \"o\", \"abjvywvh\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"oabp\", \"waby\", \"tabz\", \"iabn\", \"labq\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"wabco\", \"rabcl\", \"qabcd\", \"vabcc\", \"iabcd\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"jmabln\", \"adabfr\", \"rmabur\", \"zwabqp\", \"thabbt\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"vfipmp\", \"uhatc\", \"oehwriwalg\", \"lbgtqjv\", \"csbx\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"fbyxzk\", \"edgbdaf\", \"hbt\", \"robpfdcj\", \"i\", \"knc\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"akwatll\", \"pjfajjz\", \"fpparos\", \"ledalph\", \"bmvaffb\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"e\", \"gr\", \"oi\", \"y\", \"yjxnk\", \"bnpj\", \"e\", \"rr\"]",
+      "output": "1"
+    },
+    {
+      "input": "[\"neclmneclm\", \"omfbaomfba\", \"amrvaamrva\", \"ndmjnndmjn\", \"jmiyrjmiyr\", \"hajfihajfi\", \"ptvcmptvcm\", \"lliqolliqo\", \"sfkiysfkiy\", \"mfeplmfepl\", \"hjomqhjomq\", \"yqdeyyqdey\", \"wnlrtwnlrt\", \"lctirlctir\", \"ufbuoufbuo\", \"fnrwlfnrwl\", \"gvnirgvnir\", \"iwznciwznc\", \"otnclotncl\", \"ptwqrptwqr\", \"exrcgexrcg\", \"cvvjicvvji\", \"hqpuxhqpux\", \"dzcaydzcay\", \"inyqsinyqs\", \"epezsepezs\", \"ngngingngi\", \"hfkzfhfkzf\", \"japxjjapxj\", \"zzasrzzasr\", \"tvsletvsle\", \"blqlwblqlw\", \"vakiovakio\", \"sqozusqozu\", \"ajgyaajgya\", \"yyluvyyluv\", \"phijfphijf\", \"fxhshfxhsh\", \"zbxahzbxah\", \"wvhkewvhke\", \"fwapofwapo\", \"pvpxvpvpxv\", \"xvjtwxvjtw\", \"valhmvalhm\", \"utymbutymb\", \"hrrvwhrrvw\", \"hnvhchnvhc\", \"gamdegamde\", \"ulsorulsor\", \"luvowluvow\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"sdwulobxcw\", \"nxpzymgfsw\", \"qvwwiyowza\", \"tvantzscju\", \"hnsvmwogau\", \"aswxrkkjdz\", \"jcqlcrquwn\", \"mufeosrdja\", \"fqybtxyhrw\", \"tnnrbfscud\", \"ilgfirstvf\", \"rcjuxajlot\", \"efrdrigqah\", \"sghvufinlb\", \"jtukgyblyf\", \"ujasirkdsu\", \"gcpffkxtrh\", \"ejhxusvcqw\", \"kemygnaqvm\", \"pxbfsjdjmp\", \"tqqqspyjjg\", \"sodtabavhc\", \"ykrfvekqdf\", \"yanwpwspgz\", \"ujyfrlgmhh\", \"pzjgniqjpy\", \"atzwcmrups\", \"jhrgbxjvfu\", \"gnamsavvjq\", \"tebnkbeqmr\", \"sbwxjxwsfx\", \"oasqtdnsbv\", \"vrjgjhentb\", \"fpgokgomyr\", \"xavcbvgptm\", \"meouozlvvw\", \"ionnfbfltk\", \"lxxlzfbrdm\", \"suznerqwdv\", \"uwhdulrxuy\", \"vbxvadzfsq\", \"lsstejxmtk\", \"lrlhveinip\", \"dquzyjuwcw\", \"upskxetyep\", \"uswrkxvfqc\", \"qhmnvknwpn\", \"satcwtprrp\", \"ztgivktdih\", \"rrspapshqg\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\", \"svlgyoqkyw\"]",
+      "output": "1225"
+    },
+    {
+      "input": "[\"a\", \"aba\", \"ababa\", \"aa\"]",
+      "output": "4"
+    },
+    {
+      "input": "[\"pa\", \"papa\", \"ma\", \"mama\"]",
+      "output": "2"
+    },
+    {
+      "input": "[\"abab\", \"ab\"]",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}
