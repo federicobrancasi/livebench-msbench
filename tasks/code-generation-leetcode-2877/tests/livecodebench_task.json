@@ -1,0 +1,69 @@
+{
+  "contest_date": "2023-07-30T00:00:00",
+  "contest_id": "weekly-contest-356",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "2877",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"o\"\n\"x\"\n\"d\"",
+      "output": "\"dox\""
+    },
+    {
+      "input": "\"pmg\"\n\"jv\"\n\"e\"",
+      "output": "\"ejvpmg\""
+    },
+    {
+      "input": "\"hc\"\n\"lhiv\"\n\"hd\"",
+      "output": "\"hchdlhiv\""
+    },
+    {
+      "input": "\"tah\"\n\"vq\"\n\"gcrw\"",
+      "output": "\"gcrwtahvq\""
+    },
+    {
+      "input": "\"pxp\"\n\"o\"\n\"zjfacmb\"",
+      "output": "\"opxpzjfacmb\""
+    },
+    {
+      "input": "\"nlgqdguu\"\n\"gm\"\n\"e\"",
+      "output": "\"egmnlgqdguu\""
+    },
+    {
+      "input": "\"jb\"\n\"rgyxglb\"\n\"koa\"",
+      "output": "\"jbkoargyxglb\""
+    },
+    {
+      "input": "\"mrmzito\"\n\"nssds\"\n\"k\"",
+      "output": "\"kmrmzitonssds\""
+    },
+    {
+      "input": "\"sln\"\n\"nmrfbbumy\"\n\"cxqnl\"",
+      "output": "\"cxqnlslnmrfbbumy\""
+    },
+    {
+      "input": "\"kklsvpeqxegqskwgbwxreuprkgjgwuagxyhxvnakucehmmxnnxttedmwkungsutmizitclkjldjoxiajdeddkttmlfdqtoyiprzh\"\n\"ttedmwkungsutmizitclkjldjoxiajdeddkttmlfdqtoyiprzhslqbktwmbvjrkhaimwddwmxrtnsigrqfptklmkqvmnjujgguqk\"\n\"vbufbcdirblienjdlksffbtipttedmwkungsutmizitclkjldjoxiajdeddkttmlfdqtoyiprzhldtbwjdzcecsslgdbneqqkkes\"",
+      "output": "\"kklsvpeqxegqskwgbwxreuprkgjgwuagxyhxvnakucehmmxnnxttedmwkungsutmizitclkjldjoxiajdeddkttmlfdqtoyiprzhslqbktwmbvjrkhaimwddwmxrtnsigrqfptklmkqvmnjujgguqkvbufbcdirblienjdlksffbtipttedmwkungsutmizitclkjldjoxiajdeddkttmlfdqtoyiprzhldtbwjdzcecsslgdbneqqkkes\""
+    },
+    {
+      "input": "\"wovhrtfykmytnachvglbfqnrogibwopkalnrhzfmuorkixoauvofrhcqonlushhhdfhuzhytumfwdwemokrobmh\"\n\"muednoskclbzjudiostwrtbkvmqlwogwhbdeiipdktuedbdoygruyogbaaswlevdkdpeykofxweajqnngjxsxqffssmjn\"\n\"oqldwomhdtonzsqbwkzgcjiollhwnyfqkwxzoauhiekoydsmagthdfkcgctahibyygezclmcwbifgtdxndurwebupglfoyamux\"",
+      "output": "\"muednoskclbzjudiostwrtbkvmqlwogwhbdeiipdktuedbdoygruyogbaaswlevdkdpeykofxweajqnngjxsxqffssmjnoqldwomhdtonzsqbwkzgcjiollhwnyfqkwxzoauhiekoydsmagthdfkcgctahibyygezclmcwbifgtdxndurwebupglfoyamuxwovhrtfykmytnachvglbfqnrogibwopkalnrhzfmuorkixoauvofrhcqonlushhhdfhuzhytumfwdwemokrobmh\""
+    },
+    {
+      "input": "\"raejtnpndbrnfkvhwtpuuyvcimdjqkqbsjryknxgsvbrxzvdjyrvlbjmaqpjftwbakdcvgevlzykeztlfzddexzhsouxybbbkoua\"\n\"wqfebyibylvqhwmksjovneujfievgcbsfcsqdiwgbcwagfispvzkciclkijfguwjoxudodbyesanvzipjerdimtwhmtmfzkrshir\"\n\"lohdppbqkqdgaygemcaspusswrgyuiszpjmcjhozpcmfxfzggfrfkyprjwfsjbumiggqnejxvevumlydqassfjhgmjgocejruoax\"",
+      "output": "\"lohdppbqkqdgaygemcaspusswrgyuiszpjmcjhozpcmfxfzggfrfkyprjwfsjbumiggqnejxvevumlydqassfjhgmjgocejruoaxwqfebyibylvqhwmksjovneujfievgcbsfcsqdiwgbcwagfispvzkciclkijfguwjoxudodbyesanvzipjerdimtwhmtmfzkrshiraejtnpndbrnfkvhwtpuuyvcimdjqkqbsjryknxgsvbrxzvdjyrvlbjmaqpjftwbakdcvgevlzykeztlfzddexzhsouxybbbkoua\""
+    },
+    {
+      "input": "\"abc\"\n\"bca\"\n\"aaa\"",
+      "output": "\"aaabca\""
+    },
+    {
+      "input": "\"ab\"\n\"ba\"\n\"aba\"",
+      "output": "\"aba\""
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-08-27T00:00:00",
+  "contest_id": "weekly-contest-360",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "3019",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"R\"",
+      "output": "1"
+    },
+    {
+      "input": "\"_\"",
+      "output": "1"
+    },
+    {
+      "input": "\"L\"",
+      "output": "1"
+    },
+    {
+      "input": "\"_LR_R\"",
+      "output": "3"
+    },
+    {
+      "input": "\"RRRLR\"",
+      "output": "3"
+    },
+    {
+      "input": "\"_L_LL\"",
+      "output": "5"
+    },
+    {
+      "input": "\"___LLR\"",
+      "output": "4"
+    },
+    {
+      "input": "\"RRL_RLR_\"",
+      "output": "4"
+    },
+    {
+      "input": "\"________________________L________________________R\"",
+      "output": "48"
+    },
+    {
+      "input": "\"_RLLRR_____LRRL_LRRRRL_RR__L_L_RLLRLRRRRL_RR_R_RR_\"",
+      "output": "26"
+    },
+    {
+      "input": "\"RRL_R_LRR___L_R_LRLR_RR_RRL_L_R_RRLL____LRR_RRR_LL\"",
+      "output": "26"
+    },
+    {
+      "input": "\"R_RLRRLL_R_L___RRRRLRLLRL_LLLRLRRR_LL_R__LRLRR_LRL\"",
+      "output": "14"
+    },
+    {
+      "input": "\"L_RL__R\"",
+      "output": "3"
+    },
+    {
+      "input": "\"_R__LL_\"",
+      "output": "5"
+    },
+    {
+      "input": "\"_______\"",
+      "output": "7"
+    }
+  ],
+  "timeout_sec": 10
+}

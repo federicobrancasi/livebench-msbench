@@ -1,0 +1,69 @@
+{
+  "contest_date": "2023-08-06T00:00:00",
+  "contest_id": "weekly-contest-357",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "2886",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"gb\"",
+      "output": "\"gb\""
+    },
+    {
+      "input": "\"ixm\"",
+      "output": "\"xm\""
+    },
+    {
+      "input": "\"frz\"",
+      "output": "\"frz\""
+    },
+    {
+      "input": "\"rztd\"",
+      "output": "\"rztd\""
+    },
+    {
+      "input": "\"fkmf\"",
+      "output": "\"fkmf\""
+    },
+    {
+      "input": "\"lezw\"",
+      "output": "\"lezw\""
+    },
+    {
+      "input": "\"tlmbi\"",
+      "output": "\"bmlt\""
+    },
+    {
+      "input": "\"vqtjkl\"",
+      "output": "\"vqtjkl\""
+    },
+    {
+      "input": "\"obscyymb\"",
+      "output": "\"obscyymb\""
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\"",
+      "output": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\""
+    },
+    {
+      "input": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\"",
+      "output": "\"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\""
+    },
+    {
+      "input": "\"iiacyhffiicnxwuvilvlaipirxnruzqcocixlwhiupatairinlkdswifdwpacifiacwihieywjoikiaegpsiiiiizgbqfivpmpimiviiybhguzxqbwhcgdoq\"",
+      "output": "\"mfqbgzkhfwsdklnatapucocqzurnxralvlacyhffcnxwuvpxlwhrfdwpacacweywjoaegpsvpmpvybhguzxqbwhcgdoq\""
+    },
+    {
+      "input": "\"string\"",
+      "output": "\"rtsng\""
+    },
+    {
+      "input": "\"poiinter\"",
+      "output": "\"ponter\""
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,73 @@
+{
+  "contest_date": "2023-06-24T00:00:00",
+  "contest_id": "biweekly-contest-107",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "2847",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "[\"ga\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"uw\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"qg\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"zr\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"ku\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"fp\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"us\", \"su\"]",
+      "output": "1"
+    },
+    {
+      "input": "[\"gh\", \"hg\", \"kf\", \"fk\"]",
+      "output": "2"
+    },
+    {
+      "input": "[\"ei\", \"nq\", \"gw\", \"rt\", \"wb\", \"wg\", \"zr\", \"sn\", \"co\", \"oc\", \"qn\", \"uk\", \"ku\", \"tc\", \"ct\", \"df\", \"vb\", \"iy\", \"fd\", \"ns\", \"rz\", \"zv\", \"vz\", \"ip\", \"bw\", \"tr\", \"yi\", \"ie\", \"pi\", \"bv\"]",
+      "output": "15"
+    },
+    {
+      "input": "[\"tv\", \"eu\", \"lg\", \"df\", \"pt\", \"cb\", \"ja\", \"by\", \"cw\", \"ut\", \"zt\", \"yn\", \"rh\", \"vs\", \"nj\", \"vn\", \"fl\", \"ln\", \"pe\", \"tk\", \"lq\", \"ug\", \"ab\", \"ex\", \"dt\", \"ee\", \"hm\", \"ce\", \"tm\", \"nu\", \"nr\", \"vc\", \"aw\", \"ti\", \"lk\", \"jc\", \"xi\", \"wm\", \"lt\", \"ih\", \"px\", \"uv\", \"hv\", \"sh\", \"qz\", \"ue\", \"sy\", \"qs\", \"ms\", \"po\"]",
+      "output": "1"
+    },
+    {
+      "input": "[\"qg\", \"vw\", \"lu\", \"xm\", \"yt\", \"am\", \"bs\", \"lp\", \"nt\", \"la\", \"rb\", \"tz\", \"bu\", \"op\", \"qt\", \"fi\", \"mj\", \"rw\", \"ud\", \"bb\", \"mh\", \"pq\", \"th\", \"zy\", \"ew\", \"so\", \"ig\", \"zb\", \"hc\", \"ax\", \"fy\", \"ov\", \"ka\", \"kv\", \"eo\", \"hj\", \"hk\", \"rv\", \"xb\", \"ny\", \"hn\", \"sw\", \"gh\", \"xf\", \"ec\", \"jj\", \"ix\", \"rg\", \"jo\", \"ho\"]",
+      "output": "0"
+    },
+    {
+      "input": "[\"vz\", \"zv\", \"fn\", \"nf\", \"ic\", \"ci\", \"tb\", \"bt\", \"mx\", \"xm\", \"uk\", \"ku\", \"gt\", \"tg\", \"mq\", \"qm\", \"iv\", \"vi\", \"gi\", \"ig\", \"lp\", \"pl\", \"sy\", \"ys\", \"hn\", \"nh\", \"vf\", \"fv\", \"vj\", \"jv\", \"xd\", \"dx\", \"hf\", \"fh\", \"tk\", \"kt\", \"qe\", \"eq\", \"fz\", \"zf\", \"zi\", \"iz\", \"pb\", \"bp\", \"uc\", \"cu\", \"rn\", \"nr\", \"vx\", \"xv\"]",
+      "output": "25"
+    },
+    {
+      "input": "[\"cd\", \"ac\", \"dc\", \"ca\", \"zz\"]",
+      "output": "2"
+    },
+    {
+      "input": "[\"ab\", \"ba\", \"cc\"]",
+      "output": "1"
+    },
+    {
+      "input": "[\"aa\", \"ab\"]",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

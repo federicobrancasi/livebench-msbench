@@ -1,0 +1,61 @@
+{
+  "contest_date": "2023-09-02T00:00:00",
+  "contest_id": "biweekly-contest-112",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "leetcode",
+  "question_id": "2999",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "\"cdqy\"\n\"cyqd\"",
+      "output": "true"
+    },
+    {
+      "input": "\"hobr\"\n\"bohr\"",
+      "output": "true"
+    },
+    {
+      "input": "\"xbbv\"\n\"bvxb\"",
+      "output": "true"
+    },
+    {
+      "input": "\"fqcu\"\n\"fucq\"",
+      "output": "true"
+    },
+    {
+      "input": "\"vmyc\"\n\"ycvm\"",
+      "output": "true"
+    },
+    {
+      "input": "\"oorz\"\n\"oorz\"",
+      "output": "true"
+    },
+    {
+      "input": "\"egzr\"\n\"egzr\"",
+      "output": "true"
+    },
+    {
+      "input": "\"nfxt\"\n\"ntxf\"",
+      "output": "true"
+    },
+    {
+      "input": "\"uwhd\"\n\"udhw\"",
+      "output": "true"
+    },
+    {
+      "input": "\"abcd\"\n\"dacb\"",
+      "output": "false"
+    },
+    {
+      "input": "\"abcd\"\n\"cdab\"",
+      "output": "true"
+    },
+    {
+      "input": "\"abcd\"\n\"dacb\"",
+      "output": "false"
+    }
+  ],
+  "timeout_sec": 10
+}
