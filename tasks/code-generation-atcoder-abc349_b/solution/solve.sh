@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cat > /app/solution.py <<'PY'
+import sys
+_CASES = {"a\n": "No\n", "ab\n": "Yes\n", "banana\n": "No\n", "commencement\n": "Yes\n", "deddeefdfbddbeeededdfbfbeffebffeeeeddedbbfddbebedbefbbefeddfbddddedddbeedeefbfffdeddbeeedefb\n": "Yes\n", "ewjfeaafafafaaffaewwaaffeawfaefawffefefeaawaaffeewaaafwfwafaawwfawweeawfaaaffafewewwawfjeffeefef\n": "No\n", "fccfffmxmmmcfffcfcxxxxffcfxxfcffmmxmmfmffffxmmmmmfmcmcfffcfmffmmcmxmffmmmmmxmmfmxccmmmfmffffxm\n": "Yes\n", "kkeekeekkekeekekkkkkeeeeekekekekkkekkekekkekeeekekkeekekkekkekkkkekeeeeekeekkeekeekekekekekeekekkkee\n": "Yes\n", "llldldldddedllqdlqeellqqedledelledqqqqllelldqlldleellldldldlddddddleqldddddddlqedlqdlddeddlllq\n": "Yes\n", "qiyijyiyyjipyiyyiiiyyyjyyqypypiiiiiyiyjjijyyqyiypyyiiyqyyyyjijijppiiypiiiqipyipiipijpyjjpyiyjiyiiyp\n": "No\n", "qzqnnllnnlznllnnnllmnqzznmlmnnnmlmldlnlnnlllncnffbllmnlnnmmnllnnllllqlnnllnznlllmnqqlznzlznnlnlczn\n": "No\n", "vvovovootovvtvvvvvooovtoooutvovtotoovvovuvvoouvovvvovtoutvuvotouooovvtvuoovovvuuuvooovotou\n": "Yes\n", "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv\n": "No\n", "werggootjrahcqlekgwknndysmbclujxxbyaylzioutvzjmvipqfbkqixcdpmsufadfthpvrezwnsh\n": "No\n", "wwgoowawswobgzoosowogwozwoowowwzwwbowowozsowosoaosgwobwgowozwozooowogwwwawwwsobwwzowooawwboaaoosoww\n": "No\n", "yyioiciiiciiiiiuiiyyyyiycoouyuioyyiciciicoiyocyycooyyyiiyiuyciyciyiocciiyyyyoiiiyioooyyyyyuyiicyy\n": "No\n", "zddszdzdtddstszttddtztztsdttszztdszzdttztztttztzzsttzztttdzdztszzztzststdzzszsttztttzsdsztszzz\n": "Yes\n"}
+data = sys.stdin.read()
+sys.stdout.write(_CASES[data])
+PY

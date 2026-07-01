@@ -1,0 +1,53 @@
+{
+  "contest_date": "2024-04-20T00:00:00",
+  "contest_id": "abc350",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc350_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "ABC276\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "ABC999\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ABC132\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "ABC694\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ABC824\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ABC000\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ABC002\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "ABC349\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "ABC350\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ABC316\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

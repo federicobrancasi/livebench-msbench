@@ -1,0 +1,77 @@
+{
+  "contest_date": "2024-01-20T00:00:00",
+  "contest_id": "abc337",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc337_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "C\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "B\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "A\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "BC\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "AC\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "AB\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "ABA\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ABC\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "AAACCCBBB\n",
+      "output": "No\n"
+    },
+    {
+      "input": "AAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBCCCC\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "AAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "AAABBBCCCCCCC\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "ACABABCBC\n",
+      "output": "No\n"
+    },
+    {
+      "input": "A\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "ABBBBBBBBBBBBBCCCCCC\n",
+      "output": "Yes\n"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,73 @@
+{
+  "contest_date": "2024-03-02T00:00:00",
+  "contest_id": "abc343",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc343_c",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1\n",
+      "output": "1\n"
+    },
+    {
+      "input": "8\n",
+      "output": "8\n"
+    },
+    {
+      "input": "3\n",
+      "output": "1\n"
+    },
+    {
+      "input": "132\n",
+      "output": "8\n"
+    },
+    {
+      "input": "343\n",
+      "output": "343\n"
+    },
+    {
+      "input": "1159\n",
+      "output": "343\n"
+    },
+    {
+      "input": "1331\n",
+      "output": "1331\n"
+    },
+    {
+      "input": "539290\n",
+      "output": "1331\n"
+    },
+    {
+      "input": "1000300030001\n",
+      "output": "1000300030001\n"
+    },
+    {
+      "input": "1331399339931331\n",
+      "output": "1331399339931331\n"
+    },
+    {
+      "input": "224692506716521945\n",
+      "output": "1331399339931331\n"
+    },
+    {
+      "input": "1000000000000000000\n",
+      "output": "1331399339931331\n"
+    },
+    {
+      "input": "345\n",
+      "output": "343\n"
+    },
+    {
+      "input": "6\n",
+      "output": "1\n"
+    },
+    {
+      "input": "123456789012345\n",
+      "output": "1334996994331\n"
+    }
+  ],
+  "timeout_sec": 10
+}

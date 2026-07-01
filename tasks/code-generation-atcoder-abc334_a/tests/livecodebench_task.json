@@ -1,0 +1,61 @@
+{
+  "contest_date": "2023-12-23T00:00:00",
+  "contest_id": "abc334",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc334_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1000 1\n",
+      "output": "Bat\n"
+    },
+    {
+      "input": "750 78\n",
+      "output": "Bat\n"
+    },
+    {
+      "input": "445 426\n",
+      "output": "Bat\n"
+    },
+    {
+      "input": "568 340\n",
+      "output": "Bat\n"
+    },
+    {
+      "input": "674 467\n",
+      "output": "Bat\n"
+    },
+    {
+      "input": "1 1000\n",
+      "output": "Glove\n"
+    },
+    {
+      "input": "31 123\n",
+      "output": "Glove\n"
+    },
+    {
+      "input": "522 575\n",
+      "output": "Glove\n"
+    },
+    {
+      "input": "447 629\n",
+      "output": "Glove\n"
+    },
+    {
+      "input": "431 580\n",
+      "output": "Glove\n"
+    },
+    {
+      "input": "300 100\n",
+      "output": "Bat\n"
+    },
+    {
+      "input": "334 343\n",
+      "output": "Glove\n"
+    }
+  ],
+  "timeout_sec": 10
+}

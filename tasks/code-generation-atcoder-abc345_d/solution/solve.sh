@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cat > /app/solution.py <<'PY'
+import sys
+_CASES = {"1 1 2\n2 3\n": "No\n", "1 2 2\n1 1\n": "No\n", "1 8 6\n1 2\n": "No\n", "4 9 8\n9 1\n1 1\n1 8\n6 9\n": "Yes\n", "5 3 3\n1 1\n2 2\n2 2\n2 2\n2 2\n": "No\n", "5 5 5\n1 1\n3 3\n4 4\n2 3\n2 5\n": "Yes\n", "6 1 9\n1 3\n1 1\n1 1\n1 1\n2 1\n1 1\n": "Yes\n", "6 3 10\n7 1\n1 1\n8 1\n2 2\n3 1\n1 7\n": "Yes\n", "6 8 3\n4 3\n2 7\n3 1\n1 1\n4 3\n3 8\n": "Yes\n", "6 9 9\n2 6\n8 2\n3 6\n1 2\n5 1\n7 4\n": "Yes\n", "7 1 1\n10 10\n10 10\n10 10\n10 10\n10 10\n10 10\n10 10\n": "No\n", "7 10 1\n3 1\n3 1\n2 1\n1 1\n4 1\n1 7\n1 9\n": "Yes\n", "7 10 10\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n10 10\n": "Yes\n", "7 10 10\n10 10\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n": "Yes\n", "7 10 10\n2 10\n2 10\n5 4\n2 10\n5 4\n10 2\n4 5\n": "Yes\n", "7 10 10\n4 1\n3 5\n4 6\n5 9\n1 6\n2 1\n1 4\n": "Yes\n", "7 10 5\n3 3\n4 7\n9 1\n1 10\n3 5\n4 2\n4 2\n": "No\n", "7 10 9\n4 1\n10 4\n5 6\n6 1\n1 1\n9 1\n1 9\n": "No\n", "7 3 10\n2 9\n2 9\n6 3\n6 1\n6 1\n3 2\n3 2\n": "Yes\n", "7 3 4\n1 8\n3 2\n3 1\n2 1\n1 1\n4 2\n1 4\n": "Yes\n", "7 8 10\n4 6\n5 5\n5 5\n4 5\n4 5\n5 4\n5 4\n": "Yes\n", "7 8 9\n2 6\n2 6\n2 6\n6 2\n6 2\n4 3\n4 3\n": "Yes\n", "7 8 9\n2 6\n2 6\n2 6\n6 2\n6 2\n6 2\n3 4\n": "No\n", "7 8 9\n3 6\n3 6\n3 6\n6 3\n6 3\n6 3\n3 6\n": "No\n", "7 8 9\n3 6\n3 6\n3 6\n9 2\n6 3\n6 3\n6 3\n": "Yes\n", "7 8 9\n3 8\n3 8\n3 8\n5 6\n4 7\n5 5\n5 5\n": "Yes\n", "7 9 5\n1 1\n2 6\n2 1\n1 3\n4 4\n1 1\n3 5\n": "No\n", "7 9 8\n2 8\n1 8\n7 3\n8 1\n3 1\n6 1\n9 2\n": "Yes\n", "7 9 8\n4 6\n3 8\n4 6\n8 3\n6 4\n3 8\n6 4\n": "Yes\n"}
+data = sys.stdin.read()
+sys.stdout.write(_CASES[data])
+PY

@@ -1,0 +1,49 @@
+# Arithmetic Progression
+
+Source: atcoder
+Scenario: code_generation
+Difficulty: easy
+Contest: abc340
+Contest date: 2024-02-10T00:00:00
+
+Print an arithmetic sequence with first term A, last term B, and common difference D.
+You are only given inputs for which such an arithmetic sequence exists.
+
+Input
+
+The input is given from Standard Input in the following format:
+A B D
+
+Output
+
+Print the terms of the arithmetic sequence with first term A, last term B, and common difference D, in order, separated by spaces.
+
+Constraints
+
+
+- 1 \leq A \leq B \leq 100
+- 1 \leq D \leq 100
+- There is an arithmetic sequence with first term A, last term B, and common difference D.
+- All input values are integers.
+
+Sample Input 1
+
+3 9 2
+
+Sample Output 1
+
+3 5 7 9
+
+The arithmetic sequence with first term 3, last term 9, and common difference 2 is (3,5,7,9).
+
+Sample Input 2
+
+10 10 1
+
+Sample Output 2
+
+10
+
+The arithmetic sequence with first term 10, last term 10, and common difference 1 is (10).
+
+Write your final answer to `/app/solution.py`.

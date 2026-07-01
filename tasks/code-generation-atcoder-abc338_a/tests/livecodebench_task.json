@@ -1,0 +1,77 @@
+{
+  "contest_date": "2024-01-27T00:00:00",
+  "contest_id": "abc338",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc338_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "f\n",
+      "output": "No\n"
+    },
+    {
+      "input": "wA\n",
+      "output": "No\n"
+    },
+    {
+      "input": "Z\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "NO\n",
+      "output": "No\n"
+    },
+    {
+      "input": "iE\n",
+      "output": "No\n"
+    },
+    {
+      "input": "No\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "Yes\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "NmkfFE\n",
+      "output": "No\n"
+    },
+    {
+      "input": "MweioajemklreikogjeriojgoerisjgirjGseiogjerosgjoserjgioerjsgOjrieosjgioesjgiojiakwedmfklweanfkljead\n",
+      "output": "No\n"
+    },
+    {
+      "input": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "UuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuU\n",
+      "output": "No\n"
+    },
+    {
+      "input": "Vjfwelamvfdkrgeioigerjwqlftfesfjsdamfoewjfweaikojfojweafweaklmvdfmavklfdbmklsdfkbhfweioahedsfnogheri\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "Capitalized\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "AtCoder\n",
+      "output": "No\n"
+    },
+    {
+      "input": "yes\n",
+      "output": "No\n"
+    },
+    {
+      "input": "A\n",
+      "output": "Yes\n"
+    }
+  ],
+  "timeout_sec": 10
+}

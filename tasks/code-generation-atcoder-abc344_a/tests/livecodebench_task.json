@@ -1,0 +1,69 @@
+{
+  "contest_date": "2024-03-09T00:00:00",
+  "contest_id": "abc344",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc344_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "voossjoatryxmbwxbwexnagmaygzyfnzpqftobtaotuayxmwvzllkujidhukzwzcltgqngguftuahalwvjwqncksizgzajkhyj||\n",
+      "output": "voossjoatryxmbwxbwexnagmaygzyfnzpqftobtaotuayxmwvzllkujidhukzwzcltgqngguftuahalwvjwqncksizgzajkhyj\n"
+    },
+    {
+      "input": "||\n",
+      "output": "\n"
+    },
+    {
+      "input": "|ujlkseszafzjmdtsbyldhylcgkyngvmhneqyjdugofklitxaoykfoqkzsznjyarkuprerivhubpehxmoydakklbdnfhfxamotu|\n",
+      "output": "\n"
+    },
+    {
+      "input": "|krjzrim|lvum\n",
+      "output": "lvum\n"
+    },
+    {
+      "input": "ngqjhwkcexecmdkmzakbzrkjwqdyuxd||\n",
+      "output": "ngqjhwkcexecmdkmzakbzrkjwqdyuxd\n"
+    },
+    {
+      "input": "||rdyluacvrayggwnpnzijdifyervjaoal\n",
+      "output": "rdyluacvrayggwnpnzijdifyervjaoal\n"
+    },
+    {
+      "input": "gpuamkxksz|hkbpphykinkezpl|vfjaqmopod\n",
+      "output": "gpuamkxkszvfjaqmopod\n"
+    },
+    {
+      "input": "|jm|\n",
+      "output": "\n"
+    },
+    {
+      "input": "||belzvbozjaraefmlotftnqrjolvuamahndekfdsqcfvmqbocbomjxrqsfskevfxphcqoqkbbomcyurwlrnhrhctntzlylvwulb\n",
+      "output": "belzvbozjaraefmlotftnqrjolvuamahndekfdsqcfvmqbocbomjxrqsfskevfxphcqoqkbbomcyurwlrnhrhctntzlylvwulb\n"
+    },
+    {
+      "input": "renexcfycebeurgvjyo||spdhvuyfvtv\n",
+      "output": "renexcfycebeurgvjyospdhvuyfvtv\n"
+    },
+    {
+      "input": "xovldqfzaorahdigyojknviaztpcmxl|vovafhjphvshyfiqqtqbx|\n",
+      "output": "xovldqfzaorahdigyojknviaztpcmxl\n"
+    },
+    {
+      "input": "atcoder|beginner|contest\n",
+      "output": "atcodercontest\n"
+    },
+    {
+      "input": "|spoiler|\n",
+      "output": "\n"
+    },
+    {
+      "input": "||xyz\n",
+      "output": "xyz\n"
+    }
+  ],
+  "timeout_sec": 10
+}

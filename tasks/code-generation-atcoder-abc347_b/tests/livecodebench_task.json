@@ -1,0 +1,65 @@
+{
+  "contest_date": "2024-03-30T00:00:00",
+  "contest_id": "abc347",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc347_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "uurlpnopuqotqmpsnmkknkrlrnsjmpokrplsurpjknoruuljjluprjkpkoorlkltuknupuupkolkopjlsnploqukmoqqtrrstmrs\n",
+      "output": "4932\n"
+    },
+    {
+      "input": "zyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzyzy\n",
+      "output": "199\n"
+    },
+    {
+      "input": "vrxmrutlmwmruuupoxsysustnppkonsrplmnoqvmspvrmqpwuquvwutwwsxrkqovoklskvrlvvwppntkwmlvtolsksxwmksksnmv\n",
+      "output": "4943\n"
+    },
+    {
+      "input": "zxwvvvvvwvxxvxwvyyvvyxzzyzvzxvxyzyzzxwvzwzzwzvzvvwyxwzvywxxyvyxwxyxvzvxxvywvxxyvxzwywzzxzvyyzyxzzzww\n",
+      "output": "4846\n"
+    },
+    {
+      "input": "a\n",
+      "output": "1\n"
+    },
+    {
+      "input": "vgxgpuamkxkszhkbpphykinkezplvfjaqmopodotkrjzrimlvumuarenexcfycebeurgvjyospdhvuyfvtvnrdyluacvrayggwnp\n",
+      "output": "4972\n"
+    },
+    {
+      "input": "pqrvrjjssumnpoiromlsnimqmtjvqinwjlmnlslovwiqwouvsnkjtosnkqujpuwwrlwwtpnnjvjpnnvmiwrwvpsnvtkskpsqwmjk\n",
+      "output": "4948\n"
+    },
+    {
+      "input": "fweolnvpijtoovmjupwudtwklvjvxlofggemhgofiendofnpephmyigrjkfektdkdyloytvqrnvsofxgrmfoelnwxvnnidudgrkj\n",
+      "output": "4963\n"
+    },
+    {
+      "input": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy\n",
+      "output": "100\n"
+    },
+    {
+      "input": "nzijdifyervjaoalcgxovldqfzaorahdigyojknviaztpcmxlvovafhjphvshyfiqqtqbxjjmqngqjhwkcexecmdkmzakbzrkjwq\n",
+      "output": "4970\n"
+    },
+    {
+      "input": "yay\n",
+      "output": "5\n"
+    },
+    {
+      "input": "aababc\n",
+      "output": "17\n"
+    },
+    {
+      "input": "abracadabra\n",
+      "output": "54\n"
+    }
+  ],
+  "timeout_sec": 10
+}

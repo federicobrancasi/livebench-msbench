@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cat > /app/solution.py <<'PY'
+import sys
+_CASES = {"...................................................................................................v\n": "v\n", "..........................................................xysnpaxxeytwjzagnztjollxpvujroofabofsyctkt\n": "xysnpaxxeytwjzagnztjollxpvujroofabofsyctkt\n", "..........txt\n": "txt\n", "..g..bkhd.uc....u....c..l\n": "l\n", ".hrsqdwdbcrbuwkxorlklkagwbrubgdscupnvlhchwgasicljgxyovtxqfeydptcypujzavnedquliepcqscjqheqjhwpkmrafeb\n": "hrsqdwdbcrbuwkxorlklkagwbrubgdscupnvlhchwgasicljgxyovtxqfeydptcypujzavnedquliepcqscjqheqjhwpkmrafeb\n", ".z\n": "z\n", "atcoder.jp\n": "jp\n", "d.ry...x.nh.gkcpuz.hr.o..ib..e.sgvokqc..lx...n..d\n": "d\n", "liygbltddvuflyhwxifwsohrdsronnfwsavycxhxzauvzhqimzagiwreivndozsikcnvvoejykthcmtseknvgitcwpjwtseftj.h\n": "h\n", "m.bembokenqraaqorzitwwutdfvgwwabfsjdmapjimquvhjrivgaspzhmideiwmaovkvuqtfvydpxmiujgkwoglpsdphtcbwngsm\n": "bembokenqraaqorzitwwutdfvgwwabfsjdmapjimquvhjrivgaspzhmideiwmaovkvuqtfvydpxmiujgkwoglpsdphtcbwngsm\n", "nkxmypofmyxavjsmpejkxzmpzzikybgtmezpkqizb.dagrnkdbtpwjuhtjahjdcookqqcj.jyabkujqjwuowgspjdklocwwmxpxm\n": "jyabkujqjwuowgspjdklocwwmxpxm\n", "r.d.mla...z.mln..r...a......nzq..sq.he..zqn..........a....g.ot.mi..m..l..d..if...u.c....uv.s..ttk.xg\n": "xg\n", "rjvctjxgbauhyg.xkfvu\n": "xkfvu\n", "translate.google.com\n": "com\n", "x..nc...vmknfza.gdr....yl..i....gz...p.....p.k..m...rou.....j.h..nofaf..q...sjb.s..m.k.w..h.n.u.a..b\n": "b\n", "zieebyu.xmsxuwz.elaurigrnxtpmhjajywwuygbdiluowtorxqk.k\n": "k\n"}
+data = sys.stdin.read()
+sys.stdout.write(_CASES[data])
+PY

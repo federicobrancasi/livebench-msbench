@@ -1,0 +1,73 @@
+{
+  "contest_date": "2024-04-06T00:00:00",
+  "contest_id": "abc348",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc348_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "99\n",
+      "output": "ooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxoox\n"
+    },
+    {
+      "input": "28\n",
+      "output": "ooxooxooxooxooxooxooxooxooxo\n"
+    },
+    {
+      "input": "21\n",
+      "output": "ooxooxooxooxooxooxoox\n"
+    },
+    {
+      "input": "86\n",
+      "output": "ooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxoo\n"
+    },
+    {
+      "input": "27\n",
+      "output": "ooxooxooxooxooxooxooxooxoox\n"
+    },
+    {
+      "input": "1\n",
+      "output": "o\n"
+    },
+    {
+      "input": "99\n",
+      "output": "ooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxoox\n"
+    },
+    {
+      "input": "17\n",
+      "output": "ooxooxooxooxooxoo\n"
+    },
+    {
+      "input": "10\n",
+      "output": "ooxooxooxo\n"
+    },
+    {
+      "input": "53\n",
+      "output": "ooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxoo\n"
+    },
+    {
+      "input": "100\n",
+      "output": "ooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxo\n"
+    },
+    {
+      "input": "59\n",
+      "output": "ooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxooxoo\n"
+    },
+    {
+      "input": "2\n",
+      "output": "oo\n"
+    },
+    {
+      "input": "7\n",
+      "output": "ooxooxo\n"
+    },
+    {
+      "input": "9\n",
+      "output": "ooxooxoox\n"
+    }
+  ],
+  "timeout_sec": 10
+}

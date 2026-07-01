@@ -1,0 +1,101 @@
+{
+  "contest_date": "2024-03-23T00:00:00",
+  "contest_id": "abc346",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc346_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "100 100\n",
+      "output": "No\n"
+    },
+    {
+      "input": "100 70\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "19 16\n",
+      "output": "No\n"
+    },
+    {
+      "input": "96 67\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "29 21\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "100 73\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "75 51\n",
+      "output": "No\n"
+    },
+    {
+      "input": "6 89\n",
+      "output": "No\n"
+    },
+    {
+      "input": "1 0\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "17 10\n",
+      "output": "No\n"
+    },
+    {
+      "input": "86 31\n",
+      "output": "No\n"
+    },
+    {
+      "input": "0 2\n",
+      "output": "No\n"
+    },
+    {
+      "input": "1 0\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "61 45\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "68 50\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "0 1\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "41 31\n",
+      "output": "No\n"
+    },
+    {
+      "input": "2 0\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "24 16\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "3 2\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "3 0\n",
+      "output": "No\n"
+    },
+    {
+      "input": "92 66\n",
+      "output": "Yes\n"
+    }
+  ],
+  "timeout_sec": 10
+}

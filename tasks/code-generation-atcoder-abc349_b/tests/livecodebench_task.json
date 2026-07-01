@@ -1,0 +1,81 @@
+{
+  "contest_date": "2024-04-13T00:00:00",
+  "contest_id": "abc349",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc349_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "vvovovootovvtvvvvvooovtoooutvovtotoovvovuvvoouvovvvovtoutvuvotouooovvtvuoovovvuuuvooovotou\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "zddszdzdtddstszttddtztztsdttszztdszzdttztztttztzzsttzztttdzdztszzztzststdzzszsttztttzsdsztszzz\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "yyioiciiiciiiiiuiiyyyyiycoouyuioyyiciciicoiyocyycooyyyiiyiuyciyciyiocciiyyyyoiiiyioooyyyyyuyiicyy\n",
+      "output": "No\n"
+    },
+    {
+      "input": "deddeefdfbddbeeededdfbfbeffebffeeeeddedbbfddbebedbefbbefeddfbddddedddbeedeefbfffdeddbeeedefb\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "werggootjrahcqlekgwknndysmbclujxxbyaylzioutvzjmvipqfbkqixcdpmsufadfthpvrezwnsh\n",
+      "output": "No\n"
+    },
+    {
+      "input": "a\n",
+      "output": "No\n"
+    },
+    {
+      "input": "fccfffmxmmmcfffcfcxxxxffcfxxfcffmmxmmfmffffxmmmmmfmcmcfffcfmffmmcmxmffmmmmmxmmfmxccmmmfmffffxm\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "qiyijyiyyjipyiyyiiiyyyjyyqypypiiiiiyiyjjijyyqyiypyyiiyqyyyyjijijppiiypiiiqipyipiipijpyjjpyiyjiyiiyp\n",
+      "output": "No\n"
+    },
+    {
+      "input": "wwgoowawswobgzoosowogwozwoowowwzwwbowowozsowosoaosgwobwgowozwozooowogwwwawwwsobwwzowooawwboaaoosoww\n",
+      "output": "No\n"
+    },
+    {
+      "input": "llldldldddedllqdlqeellqqedledelledqqqqllelldqlldleellldldldlddddddleqldddddddlqedlqdlddeddlllq\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "kkeekeekkekeekekkkkkeeeeekekekekkkekkekekkekeeekekkeekekkekkekkkkekeeeeekeekkeekeekekekekekeekekkkee\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv\n",
+      "output": "No\n"
+    },
+    {
+      "input": "qzqnnllnnlznllnnnllmnqzznmlmnnnmlmldlnlnnlllncnffbllmnlnnmmnllnnllllqlnnllnznlllmnqqlznzlznnlnlczn\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ewjfeaafafafaaffaewwaaffeawfaefawffefefeaawaaffeewaaafwfwafaawwfawweeawfaaaffafewewwawfjeffeefef\n",
+      "output": "No\n"
+    },
+    {
+      "input": "commencement\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "banana\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ab\n",
+      "output": "Yes\n"
+    }
+  ],
+  "timeout_sec": 10
+}

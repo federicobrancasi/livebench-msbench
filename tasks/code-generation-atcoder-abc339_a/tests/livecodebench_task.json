@@ -1,0 +1,77 @@
+{
+  "contest_date": "2024-02-03T00:00:00",
+  "contest_id": "abc339",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc339_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "rjvctjxgbauhyg.xkfvu\n",
+      "output": "xkfvu\n"
+    },
+    {
+      "input": "..g..bkhd.uc....u....c..l\n",
+      "output": "l\n"
+    },
+    {
+      "input": "d.ry...x.nh.gkcpuz.hr.o..ib..e.sgvokqc..lx...n..d\n",
+      "output": "d\n"
+    },
+    {
+      "input": "zieebyu.xmsxuwz.elaurigrnxtpmhjajywwuygbdiluowtorxqk.k\n",
+      "output": "k\n"
+    },
+    {
+      "input": "x..nc...vmknfza.gdr....yl..i....gz...p.....p.k..m...rou.....j.h..nofaf..q...sjb.s..m.k.w..h.n.u.a..b\n",
+      "output": "b\n"
+    },
+    {
+      "input": "liygbltddvuflyhwxifwsohrdsronnfwsavycxhxzauvzhqimzagiwreivndozsikcnvvoejykthcmtseknvgitcwpjwtseftj.h\n",
+      "output": "h\n"
+    },
+    {
+      "input": "...................................................................................................v\n",
+      "output": "v\n"
+    },
+    {
+      "input": "r.d.mla...z.mln..r...a......nzq..sq.he..zqn..........a....g.ot.mi..m..l..d..if...u.c....uv.s..ttk.xg\n",
+      "output": "xg\n"
+    },
+    {
+      "input": "nkxmypofmyxavjsmpejkxzmpzzikybgtmezpkqizb.dagrnkdbtpwjuhtjahjdcookqqcj.jyabkujqjwuowgspjdklocwwmxpxm\n",
+      "output": "jyabkujqjwuowgspjdklocwwmxpxm\n"
+    },
+    {
+      "input": "..........................................................xysnpaxxeytwjzagnztjollxpvujroofabofsyctkt\n",
+      "output": "xysnpaxxeytwjzagnztjollxpvujroofabofsyctkt\n"
+    },
+    {
+      "input": "m.bembokenqraaqorzitwwutdfvgwwabfsjdmapjimquvhjrivgaspzhmideiwmaovkvuqtfvydpxmiujgkwoglpsdphtcbwngsm\n",
+      "output": "bembokenqraaqorzitwwutdfvgwwabfsjdmapjimquvhjrivgaspzhmideiwmaovkvuqtfvydpxmiujgkwoglpsdphtcbwngsm\n"
+    },
+    {
+      "input": ".hrsqdwdbcrbuwkxorlklkagwbrubgdscupnvlhchwgasicljgxyovtxqfeydptcypujzavnedquliepcqscjqheqjhwpkmrafeb\n",
+      "output": "hrsqdwdbcrbuwkxorlklkagwbrubgdscupnvlhchwgasicljgxyovtxqfeydptcypujzavnedquliepcqscjqheqjhwpkmrafeb\n"
+    },
+    {
+      "input": "atcoder.jp\n",
+      "output": "jp\n"
+    },
+    {
+      "input": "translate.google.com\n",
+      "output": "com\n"
+    },
+    {
+      "input": ".z\n",
+      "output": "z\n"
+    },
+    {
+      "input": "..........txt\n",
+      "output": "txt\n"
+    }
+  ],
+  "timeout_sec": 10
+}

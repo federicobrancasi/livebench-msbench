@@ -1,0 +1,77 @@
+{
+  "contest_date": "2024-01-06T00:00:00",
+  "contest_id": "abc335",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc335_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "2023\n",
+      "output": "2024\n"
+    },
+    {
+      "input": "20232023\n",
+      "output": "20232024\n"
+    },
+    {
+      "input": "s8y48y2753qlmcw3x0yyubhq4q2023\n",
+      "output": "s8y48y2753qlmcw3x0yyubhq4q2024\n"
+    },
+    {
+      "input": "wzs4kp220237iqua8ge0f722023d2023\n",
+      "output": "wzs4kp220237iqua8ge0f722023d2024\n"
+    },
+    {
+      "input": "73uwp2630umehavza950461pdc0ksddlokdg3xdx50fbzqe4c38cyls7s12023\n",
+      "output": "73uwp2630umehavza950461pdc0ksddlokdg3xdx50fbzqe4c38cyls7s12024\n"
+    },
+    {
+      "input": "5aq6wxjeadmzjyiu4w859zf6l1u9kkvra8npksjlnolh6l1h1gkzkl79lijgza1ydhd92023\n",
+      "output": "5aq6wxjeadmzjyiu4w859zf6l1u9kkvra8npksjlnolh6l1h1gkzkl79lijgza1ydhd92024\n"
+    },
+    {
+      "input": "fd2ud0g1dk06d8eyjsfj9gbfje1qowshos811bxwygbak7rzbpan88sqoc0caipxkma6ve4hb4wp2hulbyg2023\n",
+      "output": "fd2ud0g1dk06d8eyjsfj9gbfje1qowshos811bxwygbak7rzbpan88sqoc0caipxkma6ve4hb4wp2hulbyg2024\n"
+    },
+    {
+      "input": "3krk82023462023c4riv0bvmos2023dz1il8l40eskfz4zicn70ys20233sih6w2023023e40b7p20239d6akvtk2023\n",
+      "output": "3krk82023462023c4riv0bvmos2023dz1il8l40eskfz4zicn70ys20233sih6w2023023e40b7p20239d6akvtk2024\n"
+    },
+    {
+      "input": "16tcfyt22023uz2023023o3xxrol720237eh630tp12023duk202322022023ecn2020233eyxlfn20232332023nz20233r2023\n",
+      "output": "16tcfyt22023uz2023023o3xxrol720237eh630tp12023duk202322022023ecn2020233eyxlfn20232332023nz20233r2024\n"
+    },
+    {
+      "input": "1d7c6jm9202302023tpgjabxu202202320232023tq22792023220232023kyg202324r9m202320202023yjzxedgpt9isy2023\n",
+      "output": "1d7c6jm9202302023tpgjabxu202202320232023tq22792023220232023kyg202324r9m202320202023yjzxedgpt9isy2024\n"
+    },
+    {
+      "input": "0220322422320222023220023222220232002420022203204323303240200240202020222222304402223002242220222023\n",
+      "output": "0220322422320222023220023222220232002420022203204323303240200240202020222222304402223002242220222024\n"
+    },
+    {
+      "input": "4242243200422322224220302424223244232400022022202022022240220220222420223402042222024200223022242023\n",
+      "output": "4242243200422322224220302424223244232400022022202022022240220220222420223402042222024200223022242024\n"
+    },
+    {
+      "input": "hello2023\n",
+      "output": "hello2024\n"
+    },
+    {
+      "input": "worldtourfinals2023\n",
+      "output": "worldtourfinals2024\n"
+    },
+    {
+      "input": "2023\n",
+      "output": "2024\n"
+    },
+    {
+      "input": "20232023\n",
+      "output": "20232024\n"
+    }
+  ],
+  "timeout_sec": 10
+}
