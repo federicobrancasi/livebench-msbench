@@ -1,0 +1,181 @@
+{
+  "contest_date": "2025-01-11T00:00:00",
+  "contest_id": "abc388",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc388_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "Zy",
+      "output": "ZUPC\n"
+    },
+    {
+      "input": "Adugtsd",
+      "output": "AUPC\n"
+    },
+    {
+      "input": "Wkmfknuvneoweqkegfolzmnzpmxhzgogswbmbhucflbxuvfhtjtcwqyjylnobuwqvurxnsopiwpgkibbbflajuaecznvhtmrhogk",
+      "output": "WUPC\n"
+    },
+    {
+      "input": "Gilxpsfwvgyb",
+      "output": "GUPC\n"
+    },
+    {
+      "input": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "output": "AUPC\n"
+    },
+    {
+      "input": "Rgz",
+      "output": "RUPC\n"
+    },
+    {
+      "input": "Bbpneptwcvwezlnbtomobdpyeabtteukdwrulgmzyypdbtwotukudvwtjzemzjxvzdqzgbz",
+      "output": "BUPC\n"
+    },
+    {
+      "input": "Tdtczkkrokiaqbglcgqlggivxxjjqmiplwhbjrcaopxobznpoodcchdyengotcnrymbfhpheilkndrjtrzgwjyoqtoruiihadtz",
+      "output": "TUPC\n"
+    },
+    {
+      "input": "Xdxajlwathefodplwieaglkpjjrukfscdrsjfmeezhkqhhyfjlnvbetamcwcenjrnxesnjulchouluqbmnanxkogljpcf",
+      "output": "XUPC\n"
+    },
+    {
+      "input": "Qobtdw",
+      "output": "QUPC\n"
+    },
+    {
+      "input": "Rsjoc",
+      "output": "RUPC\n"
+    },
+    {
+      "input": "Dwh",
+      "output": "DUPC\n"
+    },
+    {
+      "input": "Acxmw",
+      "output": "AUPC\n"
+    },
+    {
+      "input": "Ejdxc",
+      "output": "EUPC\n"
+    },
+    {
+      "input": "Wdfxnhgjxvaxrqnbdmuidxslhvwwrvjhxhcqjvkhlupjsfezar",
+      "output": "WUPC\n"
+    },
+    {
+      "input": "Yzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+      "output": "YUPC\n"
+    },
+    {
+      "input": "Hhzez",
+      "output": "HUPC\n"
+    },
+    {
+      "input": "T",
+      "output": "TUPC\n"
+    },
+    {
+      "input": "R",
+      "output": "RUPC\n"
+    },
+    {
+      "input": "Zmksh",
+      "output": "ZUPC\n"
+    },
+    {
+      "input": "Prd",
+      "output": "PUPC\n"
+    },
+    {
+      "input": "Hhuomwvsnbmwsnyvwbfociwfoqprtyabpkjobzzngrucxeamvnkagawyavqt",
+      "output": "HUPC\n"
+    },
+    {
+      "input": "Vmwqi",
+      "output": "VUPC\n"
+    },
+    {
+      "input": "A",
+      "output": "AUPC\n"
+    },
+    {
+      "input": "Eb",
+      "output": "EUPC\n"
+    },
+    {
+      "input": "Je",
+      "output": "JUPC\n"
+    },
+    {
+      "input": "Qugrdnurmxyzijolsuefdwdmmsoervjlupxngppwqkpubojexpbtgalpmaqcvcvxvmalbdtaiuwjxheysjgdno",
+      "output": "QUPC\n"
+    },
+    {
+      "input": "Didrtwezwomfynnfhokqelouucpygjawotoagjdyujrtenwypcvpyhrymiuadivbaimqswmodxiljyvgtcbczijrkdqhyfcnjjqe",
+      "output": "DUPC\n"
+    },
+    {
+      "input": "Rp",
+      "output": "RUPC\n"
+    },
+    {
+      "input": "Qibz",
+      "output": "QUPC\n"
+    },
+    {
+      "input": "Fgf",
+      "output": "FUPC\n"
+    },
+    {
+      "input": "Occkq",
+      "output": "OUPC\n"
+    },
+    {
+      "input": "Vgnclhisyfngldcwaqoyvgdpmigubzgtedgomlredtpesmuvnqpvkppuvgrthakwxkkbqeitzemsjwwzpczcqbchebjayok",
+      "output": "VUPC\n"
+    },
+    {
+      "input": "Khxk",
+      "output": "KUPC\n"
+    },
+    {
+      "input": "Hypltjvl",
+      "output": "HUPC\n"
+    },
+    {
+      "input": "Zfk",
+      "output": "ZUPC\n"
+    },
+    {
+      "input": "Jaeeikkzlwckytbbifesjlmrejdpxhbjfqxcjmkjnddrppkzzkdpdwpnbjkxvefusmzucczcgxhbmadmrqjopzs",
+      "output": "JUPC\n"
+    },
+    {
+      "input": "Cldbtagfwdpg",
+      "output": "CUPC\n"
+    },
+    {
+      "input": "W",
+      "output": "WUPC\n"
+    },
+    {
+      "input": "Utewjmxnucatgwk",
+      "output": "UUPC\n"
+    },
+    {
+      "input": "Kyoto",
+      "output": "KUPC"
+    },
+    {
+      "input": "Tohoku",
+      "output": "TUPC"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,185 @@
+{
+  "contest_date": "2024-11-22T00:00:00",
+  "contest_id": "abc381",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc381_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "m",
+      "output": "No\n"
+    },
+    {
+      "input": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+      "output": "No\n"
+    },
+    {
+      "input": "vtkf",
+      "output": "No\n"
+    },
+    {
+      "input": "pcrpxdiroawvwzmhumlabhwvxvdmenalmzpqducstmxyrqwlreenhtrvieytaokjzeiyjsrgyafiqbrthvogbnxkifxzhym",
+      "output": "No\n"
+    },
+    {
+      "input": "ljaevuhdehkrsmczohrrhrzixjgooeyitrpzfzqgfotcghopjjsifedhxtrwwfirfcgynoocg",
+      "output": "No\n"
+    },
+    {
+      "input": "ddwwlf",
+      "output": "No\n"
+    },
+    {
+      "input": "tbh",
+      "output": "No\n"
+    },
+    {
+      "input": "nwq",
+      "output": "No\n"
+    },
+    {
+      "input": "nnbbeeqqppssvvxxhhffffssdduuddtt",
+      "output": "No\n"
+    },
+    {
+      "input": "nxwjqrboncifhasynrpgdtfaojiysprsrolgefxcciecvktecrwjmpgozbpivzyirqfllbwvcugpc",
+      "output": "No\n"
+    },
+    {
+      "input": "oazdv",
+      "output": "No\n"
+    },
+    {
+      "input": "palzstnpf",
+      "output": "No\n"
+    },
+    {
+      "input": "fllweik",
+      "output": "No\n"
+    },
+    {
+      "input": "qqffwwoottiiaaxxzz",
+      "output": "Yes\n"
+    },
+    {
+      "input": "llzzttssccggwwmmqqxxppffbbcchhaaooddyyjjoouucckkbbwwjjppeemmaaiiddccyyjjxx",
+      "output": "No\n"
+    },
+    {
+      "input": "xxkkeevv",
+      "output": "Yes\n"
+    },
+    {
+      "input": "dqzcjqk",
+      "output": "No\n"
+    },
+    {
+      "input": "fybweeumvyprjyawemqtguxdnkpznixtaaubgkdlxrpwccolzzjtfcdrapvagltztifyvokvcwzxlwembhvx",
+      "output": "No\n"
+    },
+    {
+      "input": "a",
+      "output": "No\n"
+    },
+    {
+      "input": "yynnkkxxyyyyqqnnppyyaallddqqeeyyxxyyttcczzyyffhh",
+      "output": "No\n"
+    },
+    {
+      "input": "gzz",
+      "output": "No\n"
+    },
+    {
+      "input": "vzgxwwsrwjpme",
+      "output": "No\n"
+    },
+    {
+      "input": "p",
+      "output": "No\n"
+    },
+    {
+      "input": "oacx",
+      "output": "No\n"
+    },
+    {
+      "input": "pd",
+      "output": "No\n"
+    },
+    {
+      "input": "ljuthrljvzkpka",
+      "output": "No\n"
+    },
+    {
+      "input": "baxbzkt",
+      "output": "No\n"
+    },
+    {
+      "input": "l",
+      "output": "No\n"
+    },
+    {
+      "input": "mat",
+      "output": "No\n"
+    },
+    {
+      "input": "xddcqrrkrhwjj",
+      "output": "No\n"
+    },
+    {
+      "input": "aaaabbbb",
+      "output": "No\n"
+    },
+    {
+      "input": "xxaabbccdd",
+      "output": "Yes\n"
+    },
+    {
+      "input": "aa",
+      "output": "Yes\n"
+    },
+    {
+      "input": "yrdewff",
+      "output": "No\n"
+    },
+    {
+      "input": "bbaacc",
+      "output": "Yes\n"
+    },
+    {
+      "input": "pvxxvgnneb",
+      "output": "No\n"
+    },
+    {
+      "input": "yyttjj",
+      "output": "Yes\n"
+    },
+    {
+      "input": "knbhs",
+      "output": "No\n"
+    },
+    {
+      "input": "xaqq",
+      "output": "No\n"
+    },
+    {
+      "input": "abab",
+      "output": "No\n"
+    },
+    {
+      "input": "aabbcc",
+      "output": "Yes"
+    },
+    {
+      "input": "aab",
+      "output": "No"
+    },
+    {
+      "input": "zzzzzz",
+      "output": "No"
+    }
+  ],
+  "timeout_sec": 10
+}

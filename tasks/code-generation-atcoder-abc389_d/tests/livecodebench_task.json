@@ -1,0 +1,185 @@
+{
+  "contest_date": "2025-01-18T00:00:00",
+  "contest_id": "abc389",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc389_d",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "8",
+      "output": "177\n"
+    },
+    {
+      "input": "777560",
+      "output": "1899402406153\n"
+    },
+    {
+      "input": "90",
+      "output": "25089\n"
+    },
+    {
+      "input": "41",
+      "output": "5121\n"
+    },
+    {
+      "input": "999999",
+      "output": "3141582372037\n"
+    },
+    {
+      "input": "2",
+      "output": "5\n"
+    },
+    {
+      "input": "432806",
+      "output": "588484653041\n"
+    },
+    {
+      "input": "193319",
+      "output": "117407568241\n"
+    },
+    {
+      "input": "38",
+      "output": "4397\n"
+    },
+    {
+      "input": "20",
+      "output": "1185\n"
+    },
+    {
+      "input": "32",
+      "output": "3101\n"
+    },
+    {
+      "input": "12",
+      "output": "401\n"
+    },
+    {
+      "input": "1000000",
+      "output": "3141588655989\n"
+    },
+    {
+      "input": "7472",
+      "output": "175367633\n"
+    },
+    {
+      "input": "100000",
+      "output": "31415526933\n"
+    },
+    {
+      "input": "70",
+      "output": "15101\n"
+    },
+    {
+      "input": "58",
+      "output": "10349\n"
+    },
+    {
+      "input": "45",
+      "output": "6197\n"
+    },
+    {
+      "input": "237",
+      "output": "175541\n"
+    },
+    {
+      "input": "2862",
+      "output": "25721577\n"
+    },
+    {
+      "input": "8080",
+      "output": "205071053\n"
+    },
+    {
+      "input": "4149",
+      "output": "54063413\n"
+    },
+    {
+      "input": "974845",
+      "output": "2985523148261\n"
+    },
+    {
+      "input": "99999",
+      "output": "31414897965\n"
+    },
+    {
+      "input": "83",
+      "output": "21321\n"
+    },
+    {
+      "input": "9857",
+      "output": "305199293\n"
+    },
+    {
+      "input": "14",
+      "output": "561\n"
+    },
+    {
+      "input": "1",
+      "output": "1\n"
+    },
+    {
+      "input": "41",
+      "output": "5121\n"
+    },
+    {
+      "input": "9",
+      "output": "221\n"
+    },
+    {
+      "input": "4",
+      "output": "37\n"
+    },
+    {
+      "input": "26",
+      "output": "2025\n"
+    },
+    {
+      "input": "30",
+      "output": "2709\n"
+    },
+    {
+      "input": "61",
+      "output": "11441\n"
+    },
+    {
+      "input": "8777",
+      "output": "241979901\n"
+    },
+    {
+      "input": "37",
+      "output": "4157\n"
+    },
+    {
+      "input": "38",
+      "output": "4397\n"
+    },
+    {
+      "input": "5",
+      "output": "61\n"
+    },
+    {
+      "input": "2716",
+      "output": "23163573\n"
+    },
+    {
+      "input": "14",
+      "output": "561\n"
+    },
+    {
+      "input": "2",
+      "output": "5"
+    },
+    {
+      "input": "4",
+      "output": "37"
+    },
+    {
+      "input": "26",
+      "output": "2025"
+    }
+  ],
+  "timeout_sec": 10
+}

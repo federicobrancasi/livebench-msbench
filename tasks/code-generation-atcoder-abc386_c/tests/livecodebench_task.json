@@ -1,0 +1,197 @@
+{
+  "contest_date": "2024-12-28T00:00:00",
+  "contest_id": "abc386",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc386_c",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "1\niyfaituqwxdrrwadhbhjfkbmeqtzazvpzvsbewxdrtufyoavg\nvstmdeyxoktaxyijlfexsljaoqzb",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nddvrszrlpxylnyudvtzgkxlihttyrhvtbpjsvtmuqsnijoyztffovweodxgurfwnacdziapfsedvpandwkrulirhsznjlxlpltuxhznxuqwhauxvmeoeryhtrneahmgwkbudadpsedabqhhcppodghkroyobgewfugodwdqxmpjpmblpsexoqxihtuibfoacootudlnwqixjxiciyjhtxolhegaatsjjtjylohouakfyxwxfzdwoxhxyngvmtsefzrobpcssyqvfgqkvpbnxmglobarjobixx\nucuhiwcgyukjnfmjakrvgcshgnvekfahsqhstyzhnulipkbstnrxedejwpakuyfhqvqbpbzxphwbflvfpepgxeleyggavvxamghdikwspzlmvaprjdltlxovxscermmtorghpbqffsjaplixmdzvpeeczaohjeehangvkmxkbzisygshsxbsunbdvceisnyycjphfhnykwumbhtkbqwurnfdsdlwmqa",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nyrxttfqkgfuugjexmftdaqwerkyljlsutyqnskteeavzejbzmf\nfzwrvmzgfulbuachnplslxiwgw",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nduyhzxkbnjetfffdsdbahvjssstqcounckhlfomzwxmmzzcimautviirruaqmtcqppjitvepzoyzvjrtgtfpecsclbqkhcswhqpmeiamzepoukcupnmettvjduwxozkhbhvwycdfsnqivvrurgbhiuowqddmuuhgtqowfvncetdubvxccltztmpssrrgghunmepzqxcefzuyifmkzllpquqvxwvlxklbfclihbokakqpcfrsotvwirmonamuscggmsylbpgvwkjagkbta\nojgoedyypcgbuypbsgptbidadajxvgouvgwmwkbntwoyjmzznozbnmkaakqgtfzzzjaznmnchvmatxgwyyzplwwjkfowmihyruntahqwkpzajcxtklgekwncocgnjrnqokoszhoqweozjexzjfspeycardrqotabbyeltibwdzvfbbmkaygvktttawusfgbjjpyucbnlqgoknrxrztutchbfxvixyazfydpsmdavctdblojmmjxsfqrqqnbjgrjmjwnqvlbpprnbigd",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nlckxat\nwpoljeea",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nphapqqcpa\nyo",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nae\nozhyla",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nshjtornax\npe",
+      "output": "No\n"
+    },
+    {
+      "input": "1\ndy\ndiumze",
+      "output": "No\n"
+    },
+    {
+      "input": "1\noimvyzyp\nkim",
+      "output": "No\n"
+    },
+    {
+      "input": "1\npnbtxbt\nblxq",
+      "output": "No\n"
+    },
+    {
+      "input": "1\noilyccrmrrnskulmjmnrxugymakpgpxjcgqmhkkdexxbxeujyufumsqvtzofkjtuwzhyamanffdxhjkcphubabzgvduqhoxnrwuyslsctslsrnzewvxzmvpirgfdrelwhgtrefonncejwqykvbfsfxmsfttdehhhiaiphhqvkdxcgnuenftbihesyvpfzzmeodsbbspfwjjcdkkkdqnivitlrjdyhhg\nnjnvrxmvkekpqqgrwfvbmddrqfepnzdacxcpjpucgbilytdvuhcgztuwyqilbifbqzvvlxmawcdnrhhvhncbeledyhrrtchjvtrpmueiakstsmnyiaqpzpganmxnxiqhcndxtfrtcxmxbazbqsfnzkfdipuybprdlaxrxjlylfanlyaadyvoncoivpbaajqdefltosbpdtnwzxsndexzsmnbvgndhttuyerci",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nwqkmexiwqyzcvvsmiekbu\nqfumbsaabtldfmbwfexnvwvbuihsheuorkuhquhbzkwzguaqbz",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nvlfxxg\nclmz",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nabc\nabc",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1\nikgne\ny",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nctapbzqcu\nwc",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nfgmnoadigzhhpnbhvagfnipylmaxrffx\nqcjdwuxkxuycigluhzropqmghgylgge",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nphbbriehtrrhhmyybpdhwwaevvmghowpodzjcmtgsnerttepdvnvdzpzjkyvrxdobefiyegxpeudozfjpmzqpyakajuioqgcujxptwonczwmegtdvpserkoargpmlyqzlnigorxndmpfaoaoytszeufpttlzzfsdbsxyopxnkjpyjpajmilestgmydynadhyrhmsxexzpiyqaqktdrvunotxxjcczhxkibbxqxdrbesfaxxptabxhilhwbtkijzwuklhvxvumlregktwiqkpflommzpzbkqnhsu\noziiiovsbefzffbzhisntxdaobtejahhmbliompbhitdieziccyolzipnlpfmdzwcxysuxhuenfrckktyuscgnmwmgbjkyilwimfhhvvdfibywfbfpwdpjmzcsfpldvgponvyfyrozqzivdjpyckqwnmcevgatuwrgyilspgiebypecvxvvhfyhrwzpsfarsbkonzmyodadghrlnyssdvjmiziyolvqzjtcwnnxlphbxlxadhprhgvbxrrwicuzchwtbntzebryjiuginlzajdsazfyh",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nacov\nghgwglep",
+      "output": "No\n"
+    },
+    {
+      "input": "1\ncbmnh\nqq",
+      "output": "No\n"
+    },
+    {
+      "input": "1\ncrfgas\nln",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nwvewcimdvqpwnqeovhqvlvyoi\nknkbacadoqsbluxmtcdrejmupwh",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nlltzwmsnfsvffmfzzesemvysyymvjdzjsrbwrbtxiuxl\nujwudpjvrtnyalksvjxsbagcuhyzkkjedpxftgbojzvqx",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nbdrgyatfzonvmrediowuchbcfnrmvxmhosrdabnttvlrrqobpxogiyajdekkojngucxkugtlnemhilxzgtqvgifsqhikdhyzrixogzlnyuclituhrzzjhkeaiqlsholtxlqrnidsabuuspdmjpujcwrtiextouzwyhbquqllvphompeblafkvjhssqshqkhhirbkedjpjlzzfbwgziimecbpdkscckaldkazkgbvstnnyuxprvaommsre\ntgamycwpjpemmtxorddmxdqrggulxyyctesyfuxisdkmagcekzznaqerhfpmjovxbfpnmmiznoofhqpnzylxihlfmyucyqooraumzkebklojyvrocyqidusumcvnjrkmkzgyifuoaoqirbksijovddrluotpxizsgntqrgvajlxzqjsfrgjbizyodyqjuetqdrgzofvedqxzxfukyzzlltxyxrrrtptwafenkjbljnbuutcugsocbmgsrxbadsyykkuidbskzssmcdm",
+      "output": "No\n"
+    },
+    {
+      "input": "1\ngaukcynn\nxzj",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nabcd\nad",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nrostbphxlbpfckqdnsiuwrvcduqctcddritjuxbxvwoojloyhkxjcccaarmwuitkwoiwzatfryhcygmjrnowwetljzulqpmjmbnqposyafjxnlyyyupmizpjiuwozpypvmjxhzqeovhzltyskrpyusxxhffnfmganbictizdhwrtbrskxmnhufqjuovindlptkagcoycekncntgshminbvoljwfkfrjfpoemkpiwudzyhohv\nccyoukioceltseqtnolupfutddsyvxptofxdgqxyhuvravvjgasdzxrbcvvqpyeeojlnqxmqezddxrzjrrqablxycxzkhxjmmxcptfcxqwdesrgyirrvnakehcvdaoqvtsvhcxdwgmvshosioagbtrgdouymvpsyhiyfsvlcdifrvuhhdqcsvftwuvyrvlemrhoghtlnhyhgaftbubxdpjruusirdnwucks",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nabc\nac",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1\njbburylffahbpqmrconteiaefhawfxggvvzyjmtclykloyieohjnotzevjgulpbedzgdayyxndiudygwsmmkryqhsrqinpdujppyqhfldhsnaosjgqbfyqhdhbkvyzmggqyxciiesdyfokqxkrsxtmepgpgjigrmsdwlkrnlzbnfntnqgnnkzkidcucrseezsnildfodenljuvtdubvugzomwnihytydizwxbrzmxeygmnjsgehsaielrcdzuwwafbqqaewzzz\nfgcpcjahbjhfuyolnrnkkrjgyaltzniwkkysjmtxsizdmhcrqgxtgeuechkzgwldpnhkegqhnnlbsglzqkgosklprwqrpxffhfgjwsmpyzexstyizgnrdhefvzesvkwafjhkkdpxngyojmjsfwvmwgqurkzgjgsaoyynpxkvsxnptukintjgqsodeqphqzippnaaiylhthziotbokqkdopddvvfddgicrgdmxkcmvccmnpprhlduusu",
+      "output": "No\n"
+    },
+    {
+      "input": "1\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1\ncayjtse\ntsdj",
+      "output": "No\n"
+    },
+    {
+      "input": "1\naaaa\nbbbb",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nciqht\nhquhwyhab",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nbxouhkznibvxuwwbowxckgouxftnmdmbrnfzxdrfwsjvkcpwnoohmvylcjcaudoefkcaoyqfutsapvgeoiznicxcevjljzbwcbejwchprvtrxqyamnigyvoazenixbmzcwxzbmfgneuuycuwmviqmeqqymmqagitofeuxnsfjgkncgshrjmmxfnagtylbmuvynqgosypxhzsonbhjzqvtrjvavbggsygyvzcgwuj\nkbneasalltwsvsepxnbdcmyifexmjmyiyawdvskymsnhchjhecziqrgodyfqkadxmwkbjpdpjkdhbpmvqqpupcjmjcsrdrysnoqhcebgwfpehgajyyqbjyoepidjfnifdgvpywjkdpcmxmrmrupkpbvgcizzhpiyzlkrnjdllfwinmolipxfkvivawbqinclyjlgbkygmpughaptqgvyfcctpbpyixndmzfwpyqahxbkyuzapccifigykxyvckbwxblafcmliscukcblrrdisupyqrfeentaitmbzchauhj",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nnjzcsg\ngxjomy",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nzzz\nzzz",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1\nbyhvjnqikvprbwgmnoxgicuhhgovfacxbxbmiovdnksakt\nnflmwsypztxewuctucbtz",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nabc\nabxyz",
+      "output": "No\n"
+    },
+    {
+      "input": "1\nabc\nabxc",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1\nabc\nagc",
+      "output": "Yes"
+    },
+    {
+      "input": "1\nabc\nawtf",
+      "output": "No"
+    },
+    {
+      "input": "1\nabc\nac",
+      "output": "Yes"
+    },
+    {
+      "input": "1\nback\nblack",
+      "output": "Yes"
+    },
+    {
+      "input": "1\nsame\nsame",
+      "output": "Yes"
+    },
+    {
+      "input": "1\nleap\nread",
+      "output": "No"
+    }
+  ],
+  "timeout_sec": 10
+}

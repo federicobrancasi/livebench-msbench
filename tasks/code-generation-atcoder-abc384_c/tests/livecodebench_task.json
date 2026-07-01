@@ -1,0 +1,185 @@
+{
+  "contest_date": "2024-12-14T00:00:00",
+  "contest_id": "abc384",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc384_c",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "2692 2697 2702 2712 2716",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nABCD\nCDE\nBDE\nADE\nBCE\nBCD\nACE\nACD\nABE\nABD\nABC\nDE\nCE\nCD\nBE\nBD\nAE\nAD\nBC\nAC\nAB\nE\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "190 257 327 460 520",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nABCE\nBDE\nABCD\nADE\nBCE\nBCD\nACE\nDE\nACD\nABE\nABD\nCE\nCD\nBE\nABC\nBD\nAE\nAD\nBC\nE\nAC\nD\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "2583 2626 2715 2716 2716",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCD\nABCE\nCDE\nBDE\nBCD\nBCE\nADE\nACD\nACE\nABD\nABE\nABC\nDE\nCD\nCE\nBD\nBE\nBC\nAD\nAE\nAC\nAB\nD\nE\nC\nB\nA\n"
+    },
+    {
+      "input": "2604 2718 2718 2718 2718",
+      "output": "ABCDE\nBCDE\nABCD\nABCE\nABDE\nACDE\nBCD\nBCE\nBDE\nCDE\nABC\nABD\nABE\nACD\nACE\nADE\nBC\nBD\nBE\nCD\nCE\nDE\nAB\nAC\nAD\nAE\nB\nC\nD\nE\nA\n"
+    },
+    {
+      "input": "126 280 350 500 536",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nBDE\nABCE\nABCD\nBCE\nADE\nBCD\nDE\nACE\nACD\nABE\nABD\nCE\nCD\nBE\nBD\nABC\nAE\nBC\nAD\nE\nD\nAC\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "175 255 340 388 450",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nCDE\nABCD\nBDE\nBCE\nADE\nBCD\nACE\nACD\nABE\nDE\nABD\nCE\nABC\nCD\nBE\nBD\nAE\nBC\nAD\nAC\nE\nAB\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "123 131 264 385 402",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nABCE\nBDE\nADE\nABCD\nBCE\nACE\nDE\nBCD\nACD\nCE\nABE\nCD\nABD\nBE\nAE\nABC\nBD\nAD\nE\nBC\nAC\nD\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "157 180 200 363 587",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nBDE\nABCE\nADE\nBCE\nDE\nACE\nABE\nABCD\nCE\nBE\nAE\nBCD\nACD\nABD\nE\nCD\nBD\nABC\nAD\nBC\nD\nAC\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "100 100 100 100 100",
+      "output": "ABCDE\nABCD\nABCE\nABDE\nACDE\nBCDE\nABC\nABD\nABE\nACD\nACE\nADE\nBCD\nBCE\nBDE\nCDE\nAB\nAC\nAD\nAE\nBC\nBD\nBE\nCD\nCE\nDE\nA\nB\nC\nD\nE\n"
+    },
+    {
+      "input": "190 198 246 480 552",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nBDE\nADE\nABCE\nABCD\nDE\nBCE\nACE\nABE\nBCD\nACD\nABD\nCE\nBE\nAE\nCD\nBD\nAD\nABC\nE\nD\nBC\nAC\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "2673 2689 2693 2710 2710",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCD\nABCE\nCDE\nBDE\nADE\nBCD\nBCE\nACD\nACE\nABD\nABE\nABC\nDE\nCD\nCE\nBD\nBE\nAD\nAE\nBC\nAC\nAB\nD\nE\nC\nB\nA\n"
+    },
+    {
+      "input": "500 704 1236 1970 2451",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nBDE\nADE\nABCE\nDE\nABCD\nBCE\nACE\nBCD\nACD\nCE\nABE\nCD\nABD\nBE\nAE\nBD\nAD\nE\nABC\nD\nBC\nAC\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "104 124 400 487 537",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nABCE\nBDE\nADE\nABCD\nBCE\nACE\nDE\nBCD\nACD\nCE\nCD\nABE\nABD\nBE\nAE\nABC\nBD\nAD\nE\nBC\nAC\nD\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "100 100 100 100 2718",
+      "output": "ABCDE\nABCE\nABDE\nACDE\nBCDE\nABE\nACE\nADE\nBCE\nBDE\nCDE\nAE\nBE\nCE\nDE\nE\nABCD\nABC\nABD\nACD\nBCD\nAB\nAC\nAD\nBC\nBD\nCD\nA\nB\nC\nD\n"
+    },
+    {
+      "input": "127 300 375 480 533",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nABCE\nBDE\nABCD\nBCE\nBCD\nADE\nACE\nDE\nACD\nABE\nCE\nABD\nCD\nBE\nABC\nBD\nBC\nAE\nAD\nE\nAC\nD\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "366 509 961 1108 2432",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nABCE\nBDE\nADE\nBCE\nACE\nDE\nCE\nABE\nABCD\nBE\nAE\nBCD\nACD\nE\nCD\nABD\nABC\nBD\nAD\nBC\nAC\nD\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "2520 2599 2682 2704 2710",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nABCD\nCDE\nBDE\nBCE\nBCD\nADE\nACE\nACD\nABE\nABD\nABC\nDE\nCE\nCD\nBE\nBD\nBC\nAE\nAD\nAC\nAB\nE\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "162 265 342 464 555",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nABCE\nBDE\nABCD\nADE\nBCE\nBCD\nACE\nDE\nABE\nACD\nCE\nABD\nBE\nCD\nABC\nBD\nAE\nAD\nBC\nE\nAC\nD\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "102 289 323 352 532",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nCDE\nBDE\nBCE\nABCD\nADE\nBCD\nACE\nABE\nDE\nCE\nBE\nACD\nABD\nABC\nCD\nBD\nAE\nBC\nE\nAD\nAC\nAB\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "162 208 1322 2193 2296",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nBDE\nADE\nDE\nABCE\nABCD\nBCE\nACE\nBCD\nACD\nCE\nCD\nABE\nABD\nBE\nAE\nBD\nAD\nE\nD\nABC\nBC\nAC\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "136 171 364 388 546",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nABCE\nBDE\nBCE\nADE\nABCD\nACE\nDE\nBCD\nCE\nACD\nABE\nCD\nBE\nABD\nAE\nABC\nBD\nE\nBC\nAD\nAC\nD\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "500 500 500 500 500",
+      "output": "ABCDE\nABCD\nABCE\nABDE\nACDE\nBCDE\nABC\nABD\nABE\nACD\nACE\nADE\nBCD\nBCE\nBDE\nCDE\nAB\nAC\nAD\nAE\nBC\nBD\nBE\nCD\nCE\nDE\nA\nB\nC\nD\nE\n"
+    },
+    {
+      "input": "100 2718 2718 2718 2718",
+      "output": "ABCDE\nBCDE\nABCD\nABCE\nABDE\nACDE\nBCD\nBCE\nBDE\nCDE\nABC\nABD\nABE\nACD\nACE\nADE\nBC\nBD\nBE\nCD\nCE\nDE\nAB\nAC\nAD\nAE\nB\nC\nD\nE\nA\n"
+    },
+    {
+      "input": "110 193 349 378 502",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nABCE\nBDE\nBCE\nABCD\nADE\nACE\nBCD\nDE\nCE\nACD\nABE\nCD\nBE\nABD\nABC\nAE\nBD\nBC\nE\nAD\nAC\nD\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "174 288 315 444 479",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nCDE\nABCD\nBDE\nADE\nBCE\nBCD\nACE\nABE\nACD\nDE\nABD\nCE\nABC\nBE\nCD\nBD\nAE\nAD\nBC\nAC\nE\nAB\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "2256 2316 2621 2677 2688",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nABCD\nCDE\nBDE\nBCE\nADE\nBCD\nACE\nACD\nABE\nABD\nABC\nDE\nCE\nCD\nBE\nBD\nAE\nBC\nAD\nAC\nAB\nE\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "408 1125 1571 1755 1817",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nABCE\nABCD\nBDE\nBCE\nBCD\nADE\nACE\nACD\nDE\nCE\nABE\nCD\nABD\nABC\nBE\nBD\nBC\nAE\nAD\nAC\nE\nD\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "173 234 308 355 403",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nABCD\nCDE\nBDE\nBCE\nADE\nBCD\nACE\nACD\nABE\nABD\nDE\nABC\nCE\nCD\nBE\nBD\nAE\nBC\nAD\nAC\nAB\nE\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "100 100 2718 2718 2718",
+      "output": "ABCDE\nACDE\nBCDE\nCDE\nABCD\nABCE\nABDE\nACD\nACE\nADE\nBCD\nBCE\nBDE\nCD\nCE\nDE\nABC\nABD\nABE\nAC\nAD\nAE\nBC\nBD\nBE\nC\nD\nE\nAB\nA\nB\n"
+    },
+    {
+      "input": "149 256 266 332 593",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nCDE\nBDE\nBCE\nADE\nACE\nABCD\nABE\nDE\nCE\nBCD\nBE\nACD\nAE\nABD\nABC\nCD\nE\nBD\nBC\nAD\nAC\nAB\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "163 248 310 496 537",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nBDE\nABCE\nABCD\nADE\nBCE\nBCD\nDE\nACE\nACD\nABE\nABD\nCE\nCD\nBE\nBD\nABC\nAE\nAD\nBC\nE\nD\nAC\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "2360 2672 2690 2711 2716",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nABCD\nCDE\nBDE\nBCE\nBCD\nADE\nACE\nACD\nABE\nABD\nABC\nDE\nCE\nCD\nBE\nBD\nBC\nAE\nAD\nAC\nAB\nE\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "128 223 266 351 460",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nCDE\nBDE\nABCD\nBCE\nADE\nACE\nBCD\nABE\nDE\nACD\nCE\nABD\nBE\nABC\nCD\nAE\nBD\nBC\nAD\nE\nAC\nAB\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "171 196 286 397 477",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nABCE\nBDE\nABCD\nADE\nBCE\nACE\nBCD\nDE\nACD\nABE\nABD\nCE\nCD\nBE\nABC\nAE\nBD\nAD\nBC\nE\nAC\nD\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "101 101 101 101 102",
+      "output": "ABCDE\nABCE\nABDE\nACDE\nBCDE\nABCD\nABE\nACE\nADE\nBCE\nBDE\nCDE\nABC\nABD\nACD\nBCD\nAE\nBE\nCE\nDE\nAB\nAC\nAD\nBC\nBD\nCD\nE\nA\nB\nC\nD\n"
+    },
+    {
+      "input": "100 200 300 400 2718",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nCDE\nABCE\nBDE\nADE\nBCE\nACE\nDE\nABE\nCE\nBE\nAE\nE\nABCD\nBCD\nACD\nABD\nCD\nABC\nBD\nAD\nBC\nAC\nD\nAB\nC\nB\nA\n"
+    },
+    {
+      "input": "689 811 1612 1705 2084",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nABCE\nABCD\nBDE\nBCE\nADE\nACE\nBCD\nACD\nDE\nCE\nABE\nCD\nABD\nABC\nBE\nAE\nBD\nBC\nAD\nAC\nE\nD\nC\nAB\nB\nA\n"
+    },
+    {
+      "input": "100 100 100 2718 2718",
+      "output": "ABCDE\nABDE\nACDE\nBCDE\nADE\nBDE\nCDE\nDE\nABCD\nABCE\nABD\nABE\nACD\nACE\nBCD\nBCE\nAD\nAE\nBD\nBE\nCD\nCE\nD\nE\nABC\nAB\nAC\nBC\nA\nB\nC\n"
+    },
+    {
+      "input": "2718 2718 2718 2718 2718",
+      "output": "ABCDE\nABCD\nABCE\nABDE\nACDE\nBCDE\nABC\nABD\nABE\nACD\nACE\nADE\nBCD\nBCE\nBDE\nCDE\nAB\nAC\nAD\nAE\nBC\nBD\nBE\nCD\nCE\nDE\nA\nB\nC\nD\nE\n"
+    },
+    {
+      "input": "2013 2495 2669 2695 2713",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nABCD\nCDE\nBDE\nBCE\nBCD\nADE\nACE\nACD\nABE\nABD\nABC\nDE\nCE\nCD\nBE\nBD\nBC\nAE\nAD\nAC\nAB\nE\nD\nC\nB\nA\n"
+    },
+    {
+      "input": "400 500 600 700 800",
+      "output": "ABCDE\nBCDE\nACDE\nABDE\nABCE\nABCD\nCDE\nBDE\nADE\nBCE\nACE\nBCD\nABE\nACD\nABD\nABC\nDE\nCE\nBE\nCD\nAE\nBD\nAD\nBC\nAC\nAB\nE\nD\nC\nB\nA"
+    },
+    {
+      "input": "800 800 900 900 1000",
+      "output": "ABCDE\nACDE\nBCDE\nABCE\nABDE\nABCD\nCDE\nACE\nADE\nBCE\nBDE\nABE\nACD\nBCD\nABC\nABD\nCE\nDE\nAE\nBE\nCD\nAC\nAD\nBC\nBD\nAB\nE\nC\nD\nA\nB"
+    },
+    {
+      "input": "128 256 512 1024 2048",
+      "output": "ABCDE\nBCDE\nACDE\nCDE\nABDE\nBDE\nADE\nDE\nABCE\nBCE\nACE\nCE\nABE\nBE\nAE\nE\nABCD\nBCD\nACD\nCD\nABD\nBD\nAD\nD\nABC\nBC\nAC\nC\nAB\nB\nA"
+    }
+  ],
+  "timeout_sec": 10
+}

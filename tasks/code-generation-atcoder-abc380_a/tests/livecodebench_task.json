@@ -1,0 +1,189 @@
+{
+  "contest_date": "2024-11-16T00:00:00",
+  "contest_id": "abc380",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc380_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "222222",
+      "output": "No\n"
+    },
+    {
+      "input": "138525",
+      "output": "No\n"
+    },
+    {
+      "input": "323132",
+      "output": "Yes\n"
+    },
+    {
+      "input": "284856",
+      "output": "No\n"
+    },
+    {
+      "input": "234027",
+      "output": "No\n"
+    },
+    {
+      "input": "179511",
+      "output": "No\n"
+    },
+    {
+      "input": "732652",
+      "output": "No\n"
+    },
+    {
+      "input": "262101",
+      "output": "No\n"
+    },
+    {
+      "input": "100000",
+      "output": "No\n"
+    },
+    {
+      "input": "227383",
+      "output": "No\n"
+    },
+    {
+      "input": "999999",
+      "output": "No\n"
+    },
+    {
+      "input": "193860",
+      "output": "No\n"
+    },
+    {
+      "input": "111111",
+      "output": "No\n"
+    },
+    {
+      "input": "620280",
+      "output": "No\n"
+    },
+    {
+      "input": "181303",
+      "output": "No\n"
+    },
+    {
+      "input": "110612",
+      "output": "No\n"
+    },
+    {
+      "input": "312233",
+      "output": "Yes\n"
+    },
+    {
+      "input": "987676",
+      "output": "No\n"
+    },
+    {
+      "input": "252930",
+      "output": "No\n"
+    },
+    {
+      "input": "700599",
+      "output": "No\n"
+    },
+    {
+      "input": "870500",
+      "output": "No\n"
+    },
+    {
+      "input": "123233",
+      "output": "Yes\n"
+    },
+    {
+      "input": "223769",
+      "output": "No\n"
+    },
+    {
+      "input": "246751",
+      "output": "No\n"
+    },
+    {
+      "input": "186559",
+      "output": "No\n"
+    },
+    {
+      "input": "126398",
+      "output": "No\n"
+    },
+    {
+      "input": "124859",
+      "output": "No\n"
+    },
+    {
+      "input": "119331",
+      "output": "No\n"
+    },
+    {
+      "input": "589681",
+      "output": "No\n"
+    },
+    {
+      "input": "167873",
+      "output": "No\n"
+    },
+    {
+      "input": "224937",
+      "output": "No\n"
+    },
+    {
+      "input": "279302",
+      "output": "No\n"
+    },
+    {
+      "input": "827879",
+      "output": "No\n"
+    },
+    {
+      "input": "257785",
+      "output": "No\n"
+    },
+    {
+      "input": "291321",
+      "output": "No\n"
+    },
+    {
+      "input": "213333",
+      "output": "No\n"
+    },
+    {
+      "input": "958776",
+      "output": "No\n"
+    },
+    {
+      "input": "112233",
+      "output": "No\n"
+    },
+    {
+      "input": "165668",
+      "output": "No\n"
+    },
+    {
+      "input": "206151",
+      "output": "No\n"
+    },
+    {
+      "input": "123233",
+      "output": "Yes"
+    },
+    {
+      "input": "123234",
+      "output": "No"
+    },
+    {
+      "input": "323132",
+      "output": "Yes"
+    },
+    {
+      "input": "500000",
+      "output": "No"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,189 @@
+{
+  "contest_date": "2024-11-22T00:00:00",
+  "contest_id": "abc381",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc381_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "3\n/12",
+      "output": "No\n"
+    },
+    {
+      "input": "2\n//",
+      "output": "No\n"
+    },
+    {
+      "input": "1\n2",
+      "output": "No\n"
+    },
+    {
+      "input": "9\n1111/2222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "5\n11/22",
+      "output": "Yes\n"
+    },
+    {
+      "input": "47\n11111111111111111111111/22222222222222222222222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "7\n111/222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "2\n1/",
+      "output": "No\n"
+    },
+    {
+      "input": "5\n/////",
+      "output": "No\n"
+    },
+    {
+      "input": "6\n1//11/",
+      "output": "No\n"
+    },
+    {
+      "input": "1\n1",
+      "output": "No\n"
+    },
+    {
+      "input": "5\n1/2/1",
+      "output": "No\n"
+    },
+    {
+      "input": "3\n1/2",
+      "output": "Yes\n"
+    },
+    {
+      "input": "5\n11/22",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1\n/",
+      "output": "Yes\n"
+    },
+    {
+      "input": "1\n/",
+      "output": "Yes\n"
+    },
+    {
+      "input": "91\n111111111111111111111111111111111111111111111/222222222222222222222222222222222222222222222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "7\n111/222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "4\n////",
+      "output": "No\n"
+    },
+    {
+      "input": "11\n11111/22222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "8\n1112/221",
+      "output": "No\n"
+    },
+    {
+      "input": "8\n//212121",
+      "output": "No\n"
+    },
+    {
+      "input": "10\n11/212///1",
+      "output": "No\n"
+    },
+    {
+      "input": "87\n1111111111111111111111111111111111111111111/2222222222222222222222222222222222222222222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "34\n1121121/2111112212/2121/2//12211/1",
+      "output": "No\n"
+    },
+    {
+      "input": "11\n1/2//22//12",
+      "output": "No\n"
+    },
+    {
+      "input": "32\n12//1/2/212211///1/1112/12111/22",
+      "output": "No\n"
+    },
+    {
+      "input": "57\n1111111111111111111111111111/2222222222222222222222222222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "3\n1/2",
+      "output": "Yes\n"
+    },
+    {
+      "input": "5\n/1111",
+      "output": "No\n"
+    },
+    {
+      "input": "3\n1/2",
+      "output": "Yes\n"
+    },
+    {
+      "input": "6\n/12/12",
+      "output": "No\n"
+    },
+    {
+      "input": "6\n/11/11",
+      "output": "No\n"
+    },
+    {
+      "input": "11\n/11/2/2221/",
+      "output": "No\n"
+    },
+    {
+      "input": "7\n111/222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "7\n111/222",
+      "output": "Yes\n"
+    },
+    {
+      "input": "47\n21/1111/2/21111222222212//1/1//21/121/2221/1121",
+      "output": "No\n"
+    },
+    {
+      "input": "90\n//2/11//11222/2121121/2/2//2////21//2///11112122//21/12/2211/1/11222/212////21///11221//22",
+      "output": "No\n"
+    },
+    {
+      "input": "6\n11/222",
+      "output": "No\n"
+    },
+    {
+      "input": "1\n2",
+      "output": "No\n"
+    },
+    {
+      "input": "5\n11/22",
+      "output": "Yes"
+    },
+    {
+      "input": "1\n/",
+      "output": "Yes"
+    },
+    {
+      "input": "4\n1/22",
+      "output": "No"
+    },
+    {
+      "input": "5\n22/11",
+      "output": "No"
+    }
+  ],
+  "timeout_sec": 10
+}

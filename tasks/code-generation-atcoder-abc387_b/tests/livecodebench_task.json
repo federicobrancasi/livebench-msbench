@@ -1,0 +1,185 @@
+{
+  "contest_date": "2025-01-04T00:00:00",
+  "contest_id": "abc387",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc387_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "26",
+      "output": "2025\n"
+    },
+    {
+      "input": "15",
+      "output": "1995\n"
+    },
+    {
+      "input": "8",
+      "output": "1993\n"
+    },
+    {
+      "input": "13",
+      "output": "2025\n"
+    },
+    {
+      "input": "35",
+      "output": "1955\n"
+    },
+    {
+      "input": "80",
+      "output": "2025\n"
+    },
+    {
+      "input": "22",
+      "output": "2025\n"
+    },
+    {
+      "input": "36",
+      "output": "1917\n"
+    },
+    {
+      "input": "13",
+      "output": "2025\n"
+    },
+    {
+      "input": "5",
+      "output": "2015\n"
+    },
+    {
+      "input": "15",
+      "output": "1995\n"
+    },
+    {
+      "input": "5",
+      "output": "2015\n"
+    },
+    {
+      "input": "7",
+      "output": "2011\n"
+    },
+    {
+      "input": "81",
+      "output": "1944\n"
+    },
+    {
+      "input": "68",
+      "output": "2025\n"
+    },
+    {
+      "input": "2",
+      "output": "2021\n"
+    },
+    {
+      "input": "8",
+      "output": "1993\n"
+    },
+    {
+      "input": "13",
+      "output": "2025\n"
+    },
+    {
+      "input": "1",
+      "output": "2024\n"
+    },
+    {
+      "input": "3",
+      "output": "2019\n"
+    },
+    {
+      "input": "50",
+      "output": "2025\n"
+    },
+    {
+      "input": "7",
+      "output": "2011\n"
+    },
+    {
+      "input": "15",
+      "output": "1995\n"
+    },
+    {
+      "input": "6",
+      "output": "2001\n"
+    },
+    {
+      "input": "81",
+      "output": "1944\n"
+    },
+    {
+      "input": "3",
+      "output": "2019\n"
+    },
+    {
+      "input": "11",
+      "output": "2025\n"
+    },
+    {
+      "input": "38",
+      "output": "2025\n"
+    },
+    {
+      "input": "78",
+      "output": "2025\n"
+    },
+    {
+      "input": "15",
+      "output": "1995\n"
+    },
+    {
+      "input": "22",
+      "output": "2025\n"
+    },
+    {
+      "input": "71",
+      "output": "2025\n"
+    },
+    {
+      "input": "9",
+      "output": "1998\n"
+    },
+    {
+      "input": "57",
+      "output": "2025\n"
+    },
+    {
+      "input": "49",
+      "output": "1976\n"
+    },
+    {
+      "input": "10",
+      "output": "2005\n"
+    },
+    {
+      "input": "9",
+      "output": "1998\n"
+    },
+    {
+      "input": "9",
+      "output": "1998\n"
+    },
+    {
+      "input": "10",
+      "output": "2005\n"
+    },
+    {
+      "input": "5",
+      "output": "2015\n"
+    },
+    {
+      "input": "1",
+      "output": "2024"
+    },
+    {
+      "input": "11",
+      "output": "2025"
+    },
+    {
+      "input": "24",
+      "output": "1929"
+    }
+  ],
+  "timeout_sec": 10
+}

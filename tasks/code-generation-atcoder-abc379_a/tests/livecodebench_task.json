@@ -1,0 +1,181 @@
+{
+  "contest_date": "2024-11-09T00:00:00",
+  "contest_id": "abc379",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc379_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "113",
+      "output": "131 311\n"
+    },
+    {
+      "input": "111",
+      "output": "111 111\n"
+    },
+    {
+      "input": "293",
+      "output": "932 329\n"
+    },
+    {
+      "input": "454",
+      "output": "544 445\n"
+    },
+    {
+      "input": "351",
+      "output": "513 135\n"
+    },
+    {
+      "input": "462",
+      "output": "624 246\n"
+    },
+    {
+      "input": "315",
+      "output": "153 531\n"
+    },
+    {
+      "input": "674",
+      "output": "746 467\n"
+    },
+    {
+      "input": "244",
+      "output": "442 424\n"
+    },
+    {
+      "input": "141",
+      "output": "411 114\n"
+    },
+    {
+      "input": "152",
+      "output": "521 215\n"
+    },
+    {
+      "input": "982",
+      "output": "829 298\n"
+    },
+    {
+      "input": "321",
+      "output": "213 132\n"
+    },
+    {
+      "input": "187",
+      "output": "871 718\n"
+    },
+    {
+      "input": "676",
+      "output": "766 667\n"
+    },
+    {
+      "input": "122",
+      "output": "221 212\n"
+    },
+    {
+      "input": "433",
+      "output": "334 343\n"
+    },
+    {
+      "input": "524",
+      "output": "245 452\n"
+    },
+    {
+      "input": "177",
+      "output": "771 717\n"
+    },
+    {
+      "input": "123",
+      "output": "231 312\n"
+    },
+    {
+      "input": "919",
+      "output": "199 991\n"
+    },
+    {
+      "input": "783",
+      "output": "837 378\n"
+    },
+    {
+      "input": "526",
+      "output": "265 652\n"
+    },
+    {
+      "input": "699",
+      "output": "996 969\n"
+    },
+    {
+      "input": "169",
+      "output": "691 916\n"
+    },
+    {
+      "input": "111",
+      "output": "111 111\n"
+    },
+    {
+      "input": "333",
+      "output": "333 333\n"
+    },
+    {
+      "input": "257",
+      "output": "572 725\n"
+    },
+    {
+      "input": "658",
+      "output": "586 865\n"
+    },
+    {
+      "input": "231",
+      "output": "312 123\n"
+    },
+    {
+      "input": "334",
+      "output": "343 433\n"
+    },
+    {
+      "input": "729",
+      "output": "297 972\n"
+    },
+    {
+      "input": "724",
+      "output": "247 472\n"
+    },
+    {
+      "input": "787",
+      "output": "877 778\n"
+    },
+    {
+      "input": "272",
+      "output": "722 227\n"
+    },
+    {
+      "input": "295",
+      "output": "952 529\n"
+    },
+    {
+      "input": "124",
+      "output": "241 412\n"
+    },
+    {
+      "input": "714",
+      "output": "147 471\n"
+    },
+    {
+      "input": "467",
+      "output": "674 746\n"
+    },
+    {
+      "input": "191",
+      "output": "911 119\n"
+    },
+    {
+      "input": "379",
+      "output": "793 937"
+    },
+    {
+      "input": "919",
+      "output": "199 991"
+    }
+  ],
+  "timeout_sec": 10
+}
