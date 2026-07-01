@@ -1,0 +1,89 @@
+{
+  "contest_date": "2024-10-05T00:00:00",
+  "contest_id": "abc374",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc374_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "xgpuamkxsan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "muarenexcfycebeusan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "asanb\n",
+      "output": "No\n"
+    },
+    {
+      "input": "asan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "abcdefghijklmnopqrstuvwxyzaasn\n",
+      "output": "No\n"
+    },
+    {
+      "input": "ayggwnpnzijdifyervjaoalcgxo\n",
+      "output": "No\n"
+    },
+    {
+      "input": "aran\n",
+      "output": "No\n"
+    },
+    {
+      "input": "abcdefghijklmnopqrstuvwxyzanas\n",
+      "output": "No\n"
+    },
+    {
+      "input": "zhkbpphsan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "sansan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "vjyospdhvuyfvtvnrdyluacsan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "abcdefghijklmnopqrstuvwxyzasam\n",
+      "output": "No\n"
+    },
+    {
+      "input": "abcdefghijklmnopqrstuvwxyzasan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "sana\n",
+      "output": "No\n"
+    },
+    {
+      "input": "inkezplvfjaqmopodotkrjzrimlsan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "abcdefghijklmnopqrstuvwxyzasna\n",
+      "output": "No\n"
+    },
+    {
+      "input": "sansansansansansansansansansan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "takahashisan\n",
+      "output": "Yes\n"
+    },
+    {
+      "input": "aokikun\n",
+      "output": "No\n"
+    }
+  ],
+  "timeout_sec": 10
+}

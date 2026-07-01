@@ -1,0 +1,185 @@
+{
+  "contest_date": "2024-10-05T00:00:00",
+  "contest_id": "abc374",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc374_g",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "49\nNR\nQH\nSS\nRR\nJV\nJE\nKJ\nVE\nCL\nMZ\nKE\nNO\nPX\nDZ\nFF\nIQ\nPP\nOO\nCU\nAA\nAQ\nAH\nXX\nFL\nKK\nYS\nKW\nRS\nDM\nNY\nNN\nJJ\nKV\nAI\nII\nLU\nIT\nDX\nTQ\nRY\nCC\nFC\nMX\nYY\nMP\nWV\nHH\nWE\nDP\n",
+      "output": "23\n"
+    },
+    {
+      "input": "12\nAA\nDA\nCI\nEE\nMM\nUU\nTT\nLL\nVU\nOO\nVV\nTZ\n",
+      "output": "8\n"
+    },
+    {
+      "input": "5\nLI\nLL\nRR\nQQ\nBB\n",
+      "output": "4\n"
+    },
+    {
+      "input": "12\nWU\nBI\nPL\nQK\nFX\nZT\nSN\nMY\nVD\nRO\nCG\nEH\n",
+      "output": "12\n"
+    },
+    {
+      "input": "344\nXS\nTM\nRB\nZK\nOX\nZX\nTK\nLU\nMM\nUC\nIC\nSN\nQT\nZN\nWN\nZS\nYF\nRC\nGJ\nIW\nIP\nRQ\nHC\nLN\nOS\nPX\nWW\nXM\nNN\nIN\nBU\nAP\nRN\nRT\nBT\nTT\nZI\nFC\nXW\nYO\nGI\nHE\nHU\nPT\nTC\nSM\nGD\nYT\nCC\nVD\nTW\nQC\nGE\nHB\nVN\nVE\nZU\nOK\nQK\nVG\nFM\nMN\nRK\nYB\nYA\nQU\nKX\nRM\nYM\nJC\nGN\nYS\nEX\nQP\nJN\nVW\nDN\nOE\nOW\nZL\nRS\nOC\nOD\nZE\nZJ\nYC\nFW\nPN\nGM\nBE\nUN\nRV\nEW\nHO\nHT\nHG\nBN\nSS\nPS\nYU\nAU\nRL\nLM\nMC\nTX\nQG\nGB\nXC\nRJ\nOT\nQX\nEN\nDJ\nAK\nBK\nYV\nRX\nRI\nHD\nPU\nVO\nIJ\nBX\nBM\nQQ\nTS\nHK\nLX\nHQ\nGA\nGK\nZA\nGT\nVQ\nET\nZT\nPF\nVU\nEC\nYZ\nUX\nKC\nLA\nGF\nIF\nQF\nLF\nDS\nYQ\nIB\nGW\nYP\nHF\nGO\nUS\nUT\nGU\nQN\nDW\nIX\nUD\nOF\nDC\nHS\nZZ\nFT\nKN\nPP\nIK\nFS\nYJ\nHJ\nGP\nLB\nYI\nXN\nAC\nVI\nRO\nRE\nZB\nFX\nBS\nYG\nVC\nPK\nTN\nAJ\nAW\nZD\nUE\nKW\nUJ\nFE\nQI\nUK\nVJ\nVT\nBC\nVM\nBD\nYW\nFJ\nZH\nRA\nBW\nTD\nHV\nAN\nYR\nBA\nYN\nAF\nZR\nZQ\nIS\nGC\nEM\nQO\nUF\nQL\nAD\nRP\nWM\nJW\nVL\nYK\nYE\nZM\nLP\nDD\nON\nQD\nZF\nQA\nLO\nYL\nZO\nKM\nVX\nPO\nYH\nGG\nAO\nAX\nIO\nHA\nQS\nZV\nAS\nLS\nFN\nDX\nHL\nHW\nLK\nRF\nBJ\nQM\nGX\nKS\nOJ\nHI\nHM\nAM\nPM\nLT\nTJ\nIE\nRH\nYD\nEJ\nHH\nRU\nEK\nAE\nVK\nYX\nBB\nLE\nLW\nIU\nES\nBO\nPD\nYY\nVA\nED\nOM\nJS\nGS\nRG\nSC\nLD\nFD\nKD\nIM\nWC\nVV\nZW\nLJ\nFK\nUW\nVP\nHN\nBP\nHP\nPC\nXJ\nUU\nJF\nKJ\nQE\nHZ\nVF\nUM\nHX\nZC\nQW\nZG\nIT\nID\nIA\nLC\nBF\nJJ\nQJ\nPE\nWS\nDM\nPJ\nRD\nZP\nNC\nGL\nIL\nRW\nJM\nVB\nAT\nPW\nQB\nUO\nVS\n",
+      "output": "169\n"
+    },
+    {
+      "input": "340\nVJ\nPZ\nPT\nVB\nHG\nMZ\nRQ\nIH\nOT\nRY\nUD\nBG\nIT\nIL\nVR\nLW\nHL\nIG\nVS\nDZ\nXN\nOW\nPF\nNS\nFM\nFW\nAJ\nNQ\nVC\nVY\nJE\nOX\nHD\nGY\nIX\nOC\nPR\nOE\nPN\nSS\nDN\nXS\nKW\nFX\nUL\nTR\nLK\nOY\nTN\nEY\nOR\nKZ\nPU\nGE\nFT\nIB\nHM\nBQ\nPM\nUJ\nHJ\nHN\nVM\nFB\nAH\nVU\nBX\nIW\nPX\nXT\nCC\nUF\nXW\nLZ\nUX\nXR\nUT\nUQ\nLS\nDF\nXK\nRE\nDY\nIM\nCN\nVK\nMK\nIZ\nGZ\nXY\nDQ\nJR\nCL\nCD\nTW\nPL\nBN\nCS\nBY\nAW\nGJ\nGN\nJS\nJK\nVG\nVL\nAX\nIR\nVT\nXQ\nLJ\nDE\nNZ\nHY\nMW\nCZ\nOO\nAK\nTE\nLN\nTJ\nFQ\nHC\nKQ\nPW\nIO\nPY\nJZ\nCG\nJY\nRZ\nAO\nRK\nVF\nLL\nOK\nCQ\nWW\nOG\nPG\nDM\nME\nTZ\nVX\nKK\nBZ\nGT\nCY\nOU\nGQ\nLE\nNN\nGK\nRN\nVW\nOD\nHK\nFR\nHE\nHF\nHX\nFN\nVZ\nFJ\nWQ\nLR\nOB\nES\nCW\nDW\nIU\nEE\nBJ\nZZ\nYY\nJW\nYS\nMY\nBM\nOQ\nAF\nTY\nWY\nGS\nFE\nDR\nDG\nCJ\nXJ\nTS\nGR\nAZ\nBK\nOJ\nWZ\nOS\nXM\nEQ\nPH\nMR\nQS\nPS\nWS\nOF\nPQ\nAN\nXZ\nHT\nHB\nUG\nKE\nFZ\nAY\nAE\nCF\nTM\nOZ\nBR\nCX\nXX\nAR\nBT\nHU\nUR\nIK\nBW\nVD\nVN\nAU\nIV\nCT\nGG\nIF\nTK\nPB\nEZ\nUE\nVE\nPE\nMN\nUK\nIY\nRW\nAM\nAD\nYZ\nPK\nUN\nPP\nLX\nUM\nEW\nKS\nON\nAA\nDD\nTQ\nHR\nQZ\nPJ\nBS\nLB\nFK\nPO\nIC\nFL\nAT\nLY\nHS\nLG\nCM\nFG\nHW\nIS\nPC\nUZ\nXE\nLQ\nIN\nVH\nKY\nIA\nAB\nIE\nEN\nDL\nUB\nDT\nUC\nAS\nRS\nDB\nOL\nAQ\nID\nHO\nMS\nAL\nDS\nZS\nHQ\nMJ\nVO\nBE\nUS\nAG\nGX\nLT\nDK\nDX\nCB\nGM\nCE\nAV\nCK\nIQ\nHZ\nKN\nOM\nDJ\nVP\nAP\nAC\nIP\nFS\nJN\nLM\nCR\nUW\nNY\nMQ\nUY\nYQ\nFY\nJQ\nIJ\nNW\nVQ\nGW\nPD\n",
+      "output": "169\n"
+    },
+    {
+      "input": "43\nLH\nWG\nYU\nIU\nAA\nKD\nFJ\nJO\nNN\nMD\nXU\nWZ\nIL\nVS\nNS\nAP\nIA\nJS\nTT\nLL\nGE\nRJ\nNF\nSS\nDP\nGB\nKH\nCC\nDZ\nRM\nWL\nRF\nUP\nYC\nFF\nNK\nBW\nWC\nYQ\nQQ\nEZ\nXX\nPP\n",
+      "output": "20\n"
+    },
+    {
+      "input": "374\nCN\nQS\nIF\nAZ\nRF\nAK\nCD\nPQ\nLX\nJE\nEI\nHQ\nUW\nPR\nSZ\nBA\nGJ\nJN\nYN\nOK\nLK\nPD\nOY\nSX\nNM\nGV\nJX\nTA\nGX\nCZ\nSF\nCI\nDX\nJJ\nUN\nMC\nTH\nQJ\nOQ\nTW\nTY\nCO\nJF\nLN\nLW\nZA\nTM\nLV\nVZ\nRZ\nTS\nIM\nPY\nTQ\nWV\nOV\nJV\nHA\nBV\nUB\nGY\nYJ\nCL\nCF\nKS\nUG\nQV\nNZ\nKA\nLS\nHI\nGQ\nXQ\nQX\nQA\nUF\nUI\nPN\nQM\nET\nWK\nEU\nWN\nJH\nES\nBD\nOA\nEK\nEQ\nPH\nCE\nWS\nIS\nBR\nNI\nWM\nTL\nKD\nLM\nOP\nEP\nPS\nPK\nHJ\nEJ\nNR\nYH\nNN\nYD\nAM\nTR\nRS\nTP\nWR\nCR\nLR\nOZ\nOG\nJI\nBI\nGB\nAD\nVX\nUH\nGZ\nGW\nUU\nLO\nZF\nND\nNW\nGD\nID\nGG\nNB\nIL\nCP\nDC\nPI\nPL\nTV\nBJ\nTT\nXL\nLA\nVF\nYL\nTN\nEF\nCJ\nUA\nLI\nHK\nVS\nUD\nTX\nVU\nSI\nAS\nLL\nAF\nCX\nGF\nED\nGE\nQP\nYW\nQR\nWJ\nXX\nUQ\nUZ\nIX\nZX\nKH\nPC\nNF\nHH\nQU\nTG\nVV\nCW\nYI\nPW\nUP\nUS\nKZ\nHN\nCG\nYB\nEX\nHR\nER\nWI\nOL\nGR\nEL\nSG\nQF\nPX\nWD\nGA\nRM\nBH\nKM\nRU\nCQ\nSW\nPJ\nXR\nYT\nLB\nKP\nEH\nEW\nUV\nFF\nOH\nKR\nLJ\nCS\nHF\nTU\nHV\nYR\nGN\nUJ\nGI\nCT\nLD\nLP\nCA\nEO\nHS\nVD\nZD\nVK\nBF\nHC\nLH\nKF\nFP\nJA\nPP\nGS\nGK\nYS\nLG\nLF\nUR\nAO\nYQ\nUL\nNA\nKK\nWX\nQZ\nBX\nSM\nMX\nGL\nLQ\nAX\nUO\nAC\nWF\nIK\nPF\nON\nDM\nBS\nTK\nWA\nTZ\nBM\nHZ\nOD\nVA\nPV\nYZ\nOM\nHW\nQK\nYK\nDZ\nUM\nOJ\nTI\nNK\nJS\nCV\nIJ\nOR\nNV\nEY\nBZ\nOX\nCK\nSD\nBK\nYV\nTJ\nZG\nJM\nJZ\nQD\nEA\nTD\nOW\nJR\nCH\nPZ\nUY\nNS\nQI\nZM\nTO\nEV\nEM\nNX\nXF\nGM\nHX\nNO\nHM\nEZ\nPT\nIV\nPB\nBQ\nOI\nEG\nRX\nUX\nIA\nWZ\nEN\nCY\nBN\nAR\nIR\nYA\nMF\nCU\nOF\nOB\nOS\nLZ\nRD\nPM\nQN\nEB\nBW\nII\nYF\nPG\nYX\nVM\nYM\nJK\nIZ\nTB\nPA\nCB\nCM\nVR\nHD\nGH\nWQ\nJD\nTF\nDF\nKX\nUK\n",
+      "output": "1\n"
+    },
+    {
+      "input": "11\nTT\nQQ\nJJ\nII\nCC\nYY\nXX\nBB\nSS\nMM\nKK\n",
+      "output": "11\n"
+    },
+    {
+      "input": "17\nHV\nUU\nSS\nWD\nHN\nYY\nDX\nJV\nGG\nOI\nRR\nMM\nCC\nPD\nWW\nAA\nKK\n",
+      "output": "15\n"
+    },
+    {
+      "input": "309\nIK\nPB\nUD\nPY\nMS\nIS\nAC\nPC\nVD\nVI\nKY\nZH\nDC\nML\nNB\nDB\nZB\nDH\nCX\nSD\nVB\nNA\nDF\nIY\nZR\nEX\nOY\nEG\nIF\nQG\nKX\nDQ\nQB\nZQ\nNQ\nDX\nZG\nTD\nET\nWK\nER\nNX\nUJ\nNL\nQY\nTT\nTC\nVY\nPT\nIQ\nTJ\nTS\nVF\nUY\nSL\nAK\nPJ\nNR\nAY\nNW\nUM\nNS\nSZ\nKQ\nAX\nNC\nWW\nIM\nOH\nGH\nPE\nFB\nKH\nNF\nIA\nQX\nNM\nYX\nKB\nUL\nEO\nMA\nGX\nTX\nWA\nEA\nEB\nNV\nII\nMF\nVX\nUA\nZL\nMO\nFZ\nPU\nVM\nIG\nDY\nTO\nEC\nIB\nWM\nAG\nSR\nWH\nSB\nTL\nES\nMR\nAQ\nOX\nAH\nFH\nDA\nFY\nNT\nWD\nPZ\nWQ\nYH\nZC\nNG\nOL\nFK\nGB\nZX\nIC\nTH\nGJ\nPK\nPR\nVS\nPI\nPX\nVC\nSA\nTF\nDG\nYC\nYG\nFG\nVT\nEJ\nWL\nSQ\nKC\nKG\nIJ\nUB\nPF\nPG\nIR\nNY\nZK\nYY\nMK\nVV\nIZ\nVH\nUO\nDL\nIH\nNE\nWZ\nHR\nYJ\nHX\nUC\nEZ\nZY\nCH\nTK\nTA\nJB\nVL\nEL\nWO\nQJ\nJX\nJH\nPM\nWJ\nNO\nUT\nUR\nJR\nKJ\nGL\nGR\nIO\nPS\nTW\nOC\nVR\nBR\nOD\nMB\nWR\nPO\nVK\nGC\nUQ\nEI\nFQ\nZJ\nEV\nPA\nND\nMC\nMQ\nFR\nEY\nVZ\nEF\nOJ\nIL\nTY\nBX\nPL\nUG\nUS\nLX\nDR\nLJ\nTQ\nVA\nDZ\nWF\nOA\nPD\nPH\nNZ\nUK\nCB\nTI\nLR\nZZ\nOK\nUU\nSX\nQH\nSF\nPV\nWG\nUX\nLH\nOR\nOG\nQC\nHB\nVW\nTB\nOF\nSG\nOQ\nUF\nPW\nMG\nLB\nTR\nWX\nIX\nEK\nUI\nTM\nMY\nCR\nEW\nSJ\nMJ\nEH\nUZ\nAF\nOZ\nEQ\nAZ\nDJ\nWY\nFL\nUH\nVO\nNU\nYB\nAB\nKR\nFJ\nMM\nMX\nVJ\nDK\nNP\nYR\nOB\nPQ\nAL\nID\nUV\nNI\nUW\nVQ\nFC\nWB\nWI\nEM\nJC\nMH\nSC\nSO\n",
+      "output": "157\n"
+    },
+    {
+      "input": "25\nNJ\nLV\nMZ\nHV\nVS\nVP\nJB\nGV\nXU\nWC\nAO\nKX\nQK\nUI\nEN\nRA\nCR\nAT\nZW\nAY\nAD\nPQ\nBM\nSE\nFV\n",
+      "output": "5\n"
+    },
+    {
+      "input": "3\nQC\nKK\nQQ\n",
+      "output": "2\n"
+    },
+    {
+      "input": "345\nFE\nVD\nSN\nML\nNB\nZT\nMR\nJI\nHY\nGI\nRJ\nTY\nUO\nYR\nDT\nWC\nMP\nOA\nGT\nYE\nPD\nQP\nTW\nTG\nKH\nLC\nWQ\nLP\nQX\nJO\nCI\nQW\nYU\nKO\nFB\nIT\nKK\nSI\nBJ\nWI\nBO\nRK\nRZ\nVS\nQS\nZS\nIO\nTV\nZY\nQO\nJF\nSW\nWY\nZD\nQF\nOB\nQZ\nQB\nIN\nYV\nNY\nUU\nWB\nWF\nJZ\nBN\nIM\nEZ\nOQ\nZA\nWZ\nVG\nUC\nYC\nTU\nCX\nVY\nGS\nMS\nDW\nXN\nID\nWH\nSE\nNF\nIS\nHE\nVJ\nHC\nVH\nUD\nXM\nDA\nFL\nMD\nPU\nSZ\nHL\nDR\nPW\nCU\nZP\nAX\nSD\nIC\nRU\nEP\nVZ\nNK\nQJ\nSJ\nLR\nZV\nTF\nLA\nIB\nWX\nOX\nRL\nHS\nQI\nGY\nTJ\nZN\nES\nUV\nZH\nIH\nVO\nVE\nMK\nMW\nPB\nUE\nTN\nUX\nLM\nRY\nNA\nPE\nRH\nLH\nTK\nAG\nHR\nCT\nEA\nQN\nOV\nEC\nUY\nCY\nNQ\nBL\nTR\nSR\nZE\nCG\nKX\nXD\nXP\nUP\nKA\nGZ\nOW\nLD\nDX\nZM\nUI\nZX\nVI\nJJ\nEW\nSC\nJC\nJX\nMX\nJR\nKV\nPA\nCF\nBW\nUH\nRI\nMA\nAJ\nAO\nGF\nNO\nGV\nXK\nHG\nAT\nDF\nFJ\nSV\nBC\nGJ\nMV\nET\nUK\nEO\nMT\nQD\nPO\nEU\nTH\nYQ\nFD\nUF\nIA\nTL\nRA\nXA\nIQ\nRW\nRP\nNL\nUJ\nNV\nIJ\nTP\nII\nND\nOH\nRQ\nPM\nCZ\nMI\nUR\nEF\nHI\nYT\nIK\nTI\nAQ\nLT\nAU\nMO\nOS\nLS\nKJ\nSG\nXZ\nHD\nAL\nNR\nXR\nKL\nHU\nQG\nSM\nAW\nTT\nYW\nRS\nYY\nLG\nKM\nMG\nZZ\nXG\nBX\nUL\nVC\nTZ\nWG\nWK\nVW\nOF\nDQ\nEJ\nCB\nAZ\nGB\nPP\nBQ\nVT\nMH\nSH\nXH\nZU\nAN\nOO\nSY\nOY\nJU\nJS\nIE\nUW\nUG\nYP\nWR\nIR\nDP\nKQ\nBM\nDM\nFT\nEX\nKI\nGL\nOG\nTB\nSU\nXF\nXW\nTM\nBU\nXB\nFM\nTE\nJM\nHA\nSL\nRR\nEL\nPF\nZB\nXE\nOL\nFY\nGX\nOJ\nRC\nGR\nOZ\nPK\nXC\nTD\nOE\nFI\nZJ\nDB\nVV\nNU\nBF\nOP\nNW\nXO\nEE\nVR\nQE\nWV\nUT\n",
+      "output": "1\n"
+    },
+    {
+      "input": "25\nPI\nNF\nUL\nRA\nOP\nYQ\nIC\nWE\nHN\nKW\nXJ\nGK\nVY\nQS\nJB\nAM\nSG\nFX\nEO\nCU\nZT\nLR\nBZ\nDV\nMH\n",
+      "output": "1\n"
+    },
+    {
+      "input": "337\nFJ\nLJ\nXD\nFC\nJJ\nIB\nBU\nJZ\nAR\nNI\nIF\nOS\nOJ\nSX\nQA\nRA\nKY\nQP\nEG\nRG\nLC\nIJ\nMH\nRU\nSE\nSN\nPL\nBP\nYW\nKE\nQZ\nMX\nJV\nRE\nGG\nHX\nIV\nOX\nNX\nQB\nKV\nRN\nOB\nQW\nNE\nDN\nHN\nKT\nCC\nTQ\nIQ\nTE\nPP\nGV\nHK\nSZ\nNY\nXQ\nXV\nTG\nCV\nBL\nZA\nCW\nTV\nBV\nIA\nHD\nPV\nBZ\nSY\nRZ\nFB\nFQ\nUU\nHB\nIZ\nEZ\nNN\nMF\nOP\nSA\nKL\nCB\nNP\nBW\nEB\nJY\nVY\nRC\nSL\nJU\nDU\nQG\nHW\nMI\nPZ\nCJ\nCG\nHY\nOK\nKN\nII\nKX\nIX\nKQ\nWK\nTD\nDG\nHI\nGF\nLB\nRR\nHT\nVX\nHP\nMQ\nMC\nCX\nRX\nRY\nHR\nYU\nTJ\nLA\nLE\nLU\nLR\nLI\nNV\nOE\nHU\nFY\nRQ\nJT\nYZ\nBY\nZW\nTB\nLV\nZU\nUV\nOI\nTP\nTW\nFT\nLZ\nYA\nEA\nLT\nCU\nDW\nOD\nOG\nCY\nMJ\nJG\nFW\nKK\nQQ\nNF\nJB\nHZ\nCP\nKB\nRP\nRS\nCD\nZX\nRM\nTY\nCZ\nAW\nTZ\nWV\nKP\nEC\nES\nIW\nKI\nLW\nDT\nMT\nDC\nLQ\nKD\nZG\nLD\nSU\nMG\nRW\nQX\nNG\nHO\nOC\nZE\nHL\nXE\nEY\nYV\nOF\nOZ\nPW\nFP\nIG\nSC\nON\nAX\nIT\nHE\nKF\nOY\nJX\nPM\nIK\nMA\nNZ\nWX\nDY\nWY\nEW\nIE\nSG\nSB\nOT\nBX\nRJ\nSP\nFE\nKG\nHH\nLG\nEU\nSQ\nWC\nKW\nKZ\nLP\nEQ\nYO\nIM\nYD\nNJ\nLO\nYS\nDE\nDM\nTX\nNQ\nHF\nHV\nDI\nEX\nPU\nDQ\nKJ\nFU\nDA\nIY\nTA\nUN\nNT\nIU\nGD\nDS\nEP\nFA\nNU\nJP\nOQ\nBA\nMP\nYX\nSM\nQU\nLX\nRF\nAU\nNB\nNA\nWG\nKA\nKM\nHG\nAG\nQC\nOU\nPC\nMU\nWU\nOR\nQY\nLN\nLM\nXG\nLK\nKC\nRB\nEJ\nQV\nSW\nXU\nLH\nHJ\nHM\nMY\nNC\nIP\nKS\nNM\nAV\nHA\nOV\nME\nTH\nYG\nFX\nOW\nDR\nLF\nST\nPG\nKU\nCA\nPY\nMM\nFZ\nSI\nIC\nJA\nSR\nEV\nTC\nBG\nFV\nMZ\nSV\n",
+      "output": "1\n"
+    },
+    {
+      "input": "25\nCA\nFA\nRJ\nRQ\nHA\nRU\nRE\nZA\nSA\nPA\nGA\nAR\nRN\nXA\nRM\nKA\nYA\nRT\nRW\nRD\nOA\nRI\nRL\nRB\nVA\n",
+      "output": "12\n"
+    },
+    {
+      "input": "285\nTV\nPM\nRN\nXL\nKS\nHF\nOW\nRG\nRS\nIR\nKN\nED\nFF\nJQ\nQE\nYQ\nCV\nQA\nFN\nXG\nIW\nGG\nWU\nRA\nGU\nFW\nSN\nTU\nZW\nHA\nYC\nBD\nYS\nLI\nII\nKV\nQQ\nTG\nHP\nTK\nHN\nEM\nTL\nAN\nHU\nJB\nLG\nIC\nTF\nWA\nEH\nYW\nLK\nNG\nEE\nBV\nMN\nKO\nZN\nBM\nQW\nKZ\nVN\nTX\nSP\nSA\nEW\nAK\nXB\nTZ\nHJ\nTM\nYX\nHC\nMO\nXM\nHZ\nLB\nSG\nWO\nPD\nCD\nOV\nPN\nOU\nHV\nPJ\nJL\nYB\nUC\nTQ\nOY\nHB\nXZ\nCW\nHL\nJA\nMD\nPB\nUD\nTJ\nJW\nMH\nUG\nLR\nBA\nSJ\nUB\nCF\nIE\nCL\nBO\nZM\nYR\nRD\nUA\nPW\nPQ\nHM\nUV\nLZ\nIZ\nQS\nPR\nPF\nJG\nTN\nTI\nEG\nUF\nKE\nVD\nIP\nAG\nYP\nXP\nSF\nHG\nXN\nEU\nLW\nSK\nHQ\nZA\nCE\nQD\nXD\nON\nIQ\nTB\nAY\nSM\nAA\nGC\nBF\nRV\nMA\nWC\nXE\nIL\nEA\nXV\nIN\nZG\nQL\nBR\nOG\nCK\nFA\nPK\nIK\nPA\nKG\nCZ\nWG\nSH\nZZ\nKD\nRM\nXH\nQC\nYN\nXK\nSR\nBK\nXF\nSU\nRT\nPG\nXU\nUU\nQN\nEF\nCN\nWR\nNJ\nSE\nSB\nWW\nYL\nBU\nIJ\nVJ\nEO\nFK\nXR\nBW\nQB\nFT\nAD\nJM\nKA\nQU\nCA\nJR\nYE\nNV\nVA\nLA\nLO\nDM\nDS\nMV\nZJ\nBG\nJN\nXC\nIV\nHH\nDR\nLU\nVB\nSW\nXJ\nYY\nYI\nTE\nER\nDQ\nKW\nJE\nID\nWV\nUN\nDY\nYJ\nHW\nLD\nDF\nTA\nGE\nEV\nJU\nND\nDD\nDT\nKK\nPP\nSZ\nLM\nQF\nTC\nSD\nPU\nPZ\nZB\nBN\nCI\nXQ\nFM\nHE\nWN\nIA\nPC\nKU\nXW\nIF\nQO\nJZ\nFG\nTH\nTO\nSI\nJF\nNP\n",
+      "output": "1\n"
+    },
+    {
+      "input": "17\nWW\nJQ\nZZ\nQQ\nTT\nEE\nXX\nDD\nPP\nIW\nVV\nBB\nME\nNN\nSS\nOO\nSF\n",
+      "output": "13\n"
+    },
+    {
+      "input": "25\nEI\nMV\nCE\nKL\nXH\nCK\nCN\nAM\nJB\nVD\nUX\nPS\nHV\nGF\nIU\nNP\nLW\nZJ\nBG\nVR\nSA\nQC\nOC\nCZ\nFV\n",
+      "output": "4\n"
+    },
+    {
+      "input": "70\nLL\nAN\nBB\nEY\nKL\nYB\nUA\nBN\nEZ\nQW\nQQ\nLZ\nDW\nUZ\nQY\nDI\nWL\nEK\nQL\nAK\nIN\nLN\nQN\nEI\nEU\nQK\nQD\nKN\nEN\nDB\nDZ\nIZ\nDN\nQZ\nWU\nQB\nWZ\nYK\nDA\nIK\nQA\nAZ\nYD\nBL\nWY\nWA\nZN\nED\nNN\nBU\nEB\nEA\nBK\nDL\nIW\nBW\nZK\nYN\nYL\nIA\nWB\nYZ\nYU\nEE\nEL\nZZ\nQE\nUK\nIB\nIL\n",
+      "output": "33\n"
+    },
+    {
+      "input": "466\nID\nNG\nSO\nQI\nVL\nBN\nPO\nGW\nKH\nAM\nZQ\nEF\nGI\nSD\nRJ\nNK\nZL\nTC\nKU\nSH\nZR\nHF\nRO\nFE\nOK\nLK\nIG\nXN\nRD\nKX\nWU\nWR\nUS\nZC\nJT\nVF\nKE\nWO\nGD\nBQ\nGY\nOW\nPQ\nYV\nFP\nZO\nEY\nDV\nTM\nGS\nCP\nQD\nAK\nJU\nJG\nYF\nPT\nMC\nFN\nEQ\nTH\nJH\nOR\nTB\nGU\nNN\nOX\nBM\nYU\nKB\nHY\nWI\nMI\nGX\nQG\nZM\nGC\nKZ\nZI\nZP\nFX\nSU\nTO\nTU\nHJ\nIR\nZA\nCV\nYI\nJZ\nWA\nPC\nVC\nGA\nNZ\nUE\nEV\nNU\nJM\nKL\nBX\nOY\nVJ\nBL\nJE\nAT\nKS\nWW\nSP\nOU\nZH\nVW\nUV\nNW\nCD\nYY\nBP\nLP\nPG\nBY\nHI\nWB\nLL\nYX\nTW\nLR\nMB\nKI\nRV\nYH\nOO\nNX\nBO\nPR\nPV\nXL\nUM\nJW\nSY\nDH\nCM\nPN\nMU\nLS\nTX\nQU\nHG\nGE\nHX\nSG\nUT\nKM\nMX\nDA\nEK\nXB\nWC\nDN\nET\nWS\nSC\nRQ\nWN\nTI\nHR\nFD\nOM\nOZ\nXG\nCK\nMQ\nST\nGM\nEM\nMY\nZJ\nOV\nEP\nGR\nGH\nOT\nUB\nXY\nXO\nVX\nDP\nPJ\nRC\nQY\nNT\nPX\nWD\nSL\nAI\nYQ\nOH\nMO\nFY\nBC\nJO\nYD\nRF\nHK\nJB\nHQ\nWK\nMP\nEI\nIJ\nGG\nTF\nRN\nDI\nLX\nMG\nMW\nZS\nYL\nEN\nKQ\nGO\nFO\nER\nIV\nKC\nEB\nTD\nDC\nLJ\nDO\nCJ\nVI\nBI\nOL\nBA\nEH\nWE\nMA\nDJ\nFV\nVD\nQC\nPA\nNI\nEA\nPL\nGK\nAG\nDE\nVO\nCO\nPS\nNQ\nDW\nQN\nLZ\nHO\nXV\nLF\nFB\nLU\nMS\nOC\nZW\nXX\nJV\nCX\nHH\nWY\nQZ\nPU\nYP\nXM\nEU\nKF\nSF\nFR\nYM\nEL\nAF\nYS\nKW\nML\nAC\nME\nBH\nOQ\nQV\nNL\nSV\nEJ\nJR\nQJ\nHW\nSN\nDK\nPY\nNM\nAQ\nKA\nXU\nTR\nWV\nBT\nAV\nXI\nDL\nWQ\nEO\nES\nAZ\nGF\nZY\nQF\nLC\nJQ\nLQ\nVS\nSM\nWL\nHA\nLH\nCG\nIA\nUN\nRW\nIO\nJN\nYJ\nQX\nQE\nHV\nNF\nHZ\nYW\nED\nRK\nPK\nRX\nZT\nSX\nBD\nKY\nYR\nWF\nMR\nXP\nOI\nIT\nSA\nTL\nMH\nMV\nRY\nNB\nTV\nEC\nFM\nJP\nBV\nVH\nMN\nJX\nVM\nRM\nBR\nJF\nHL\nGP\nKR\nHD\nPZ\nAD\nCC\nVU\nZX\nUX\nJC\nNA\nDX\nWG\nFQ\nPB\nHC\nCF\nYC\nIL\nRH\nPF\nLV\nAW\nIQ\nGJ\nNV\nZK\nWT\nUP\nEX\nLB\nQS\nDM\nFU\nGL\nFI\nZV\nFH\nVG\nLA\nWX\nSI\nSQ\nGT\nVQ\nJD\nUI\nIH\nHU\nCY\nGB\nWJ\nNS\nZB\nRA\nKD\nRR\nWM\nJA\nZF\nPH\nJI\nUC\nND\nMJ\nIS\nFK\nQP\nSE\nGQ\nXQ\nCN\nBJ\nRL\nAX\nBU\nNO\nWH\nZD\nBB\nKP\nFW\nPD\nUJ\nOP\nEZ\nMM\nJL\nUU\nRU\nOA\nZU\nGZ\nCB\nSK\nNR\nSW\nLN\n",
+      "output": "1\n"
+    },
+    {
+      "input": "1\nQU\n",
+      "output": "1\n"
+    },
+    {
+      "input": "25\nAQ\nYL\nDJ\nIO\nTL\nLX\nPA\nUH\nWP\nHF\nHG\nEV\nLD\nRM\nMB\nCR\nHZ\nSL\nVC\nOK\nJE\nKU\nNW\nBI\nXN\n",
+      "output": "4\n"
+    },
+    {
+      "input": "17\nKU\nIU\nOG\nUO\nEG\nOI\nII\nKO\nOU\nOK\nUI\nEI\nGE\nOE\nEU\nIK\nUK\n",
+      "output": "1\n"
+    },
+    {
+      "input": "195\nAL\nPQ\nDG\nYQ\nPZ\nTU\nVA\nTX\nII\nEW\nUH\nRH\nKK\nVO\nNF\nTH\nPI\nSV\nPU\nYR\nEE\nAG\nMQ\nBL\nSS\nKR\nWF\nCA\nNA\nRX\nKJ\nZZ\nSX\nEH\nZE\nJA\nST\nSU\nVU\nWN\nTC\nLK\nTE\nJW\nMG\nBX\nMO\nYL\nWQ\nTF\nNH\nIZ\nCU\nTN\nID\nSG\nIA\nPW\nCL\nYG\nTA\nTG\nIN\nRO\nZQ\nMS\nZB\nPD\nQX\nYK\nPE\nZY\nCH\nML\nCS\nCN\nKC\nPV\nAN\nDU\nIJ\nAP\nSL\nGF\nYE\nHX\nAB\nME\nBH\nOQ\nAA\nHC\nRQ\nYP\nEM\nLX\nKE\nBG\nAC\nJL\nSR\nWM\nAZ\nTM\nMB\nIC\nKQ\nTY\nSM\nUO\nOL\nYH\nPG\nYD\nSH\nJF\nLL\nJR\nTV\nZN\nCF\nAH\nFF\nPC\nVZ\nBA\nUU\nRA\nSW\nMU\nLC\nMF\nPP\nRD\nVR\nZK\nRL\nTL\nRR\nXF\nQQ\nKG\nOG\nKU\nIQ\nYN\nON\nKL\nDZ\nPR\nFT\nQD\nPS\nLF\nTJ\nTD\nZS\nGW\nIV\nEF\nQO\nVD\nBE\nMK\nUA\nKX\nQR\nGH\nVN\nJJ\nWA\nVF\nJD\nWY\nQN\nFC\nZM\nUL\nNL\nVM\nRU\nFY\nIH\nCC\nOO\nCE\nEL\nPH\nDT\nXV\nCW\nUD\nJX\nMA\nSB\n",
+      "output": "1\n"
+    },
+    {
+      "input": "53\nUU\nCJ\nZG\nMO\nSQ\nCV\nZR\nPD\nNZ\nZB\nFP\nBG\nEZ\nGG\nFG\nZF\nGR\nRP\nWV\nOT\nXV\nGP\nUB\nCW\nHH\nZU\nUP\nOO\nDY\nWJ\nJV\nHI\nII\nUF\nMM\nJJ\nXW\nKE\nFR\nIL\nYA\nAX\nBP\nQK\nXC\nZP\nBF\nUR\nLN\nTS\nUG\nBR\nXJ\n",
+      "output": "12\n"
+    },
+    {
+      "input": "25\nTO\nTQ\nJT\nFV\nTB\nPU\nIT\nRX\nUF\nLH\nWU\nTG\nUL\nCU\nMT\nUN\nUR\nVJ\nTZ\nDU\nEU\nSU\nXM\nTA\nHI\n",
+      "output": "7\n"
+    },
+    {
+      "input": "78\nDO\nBW\nCO\nOF\nDC\nIG\nLP\nOO\nHY\nNN\nCF\nCQ\nOG\nJJ\nDF\nNE\nVG\nZE\nVQ\nHW\nWY\nXX\nJF\nBA\nNK\nIV\nBY\nDJ\nVJ\nDG\nNX\nIC\nIO\nII\nOJ\nDI\nKZ\nVV\nVO\nWW\nCG\nXE\nSP\nIF\nAW\nQF\nAA\nUS\nYY\nZZ\nVF\nDQ\nGF\nCJ\nIJ\nZX\nMH\nAY\nKX\nOQ\nUP\nMY\nLR\nRP\nRS\nEE\nSS\nIQ\nHA\nMA\nDV\nUR\nLS\nKE\nMB\nMW\nCV\nHB\n",
+      "output": "41\n"
+    },
+    {
+      "input": "186\nPR\nKU\nQC\nSL\nEX\nFK\nNJ\nTH\nXK\nSQ\nGC\nVG\nZI\nTX\nFU\nIE\nWI\nXY\nTR\nEC\nHX\nIG\nTU\nAJ\nBR\nAV\nZH\nAR\nOR\nTQ\nZD\nTY\nFR\nMD\nQY\nPC\nEJ\nXL\nMF\nMP\nTZ\nTG\nPY\nNQ\nKH\nBD\nTJ\nOI\nSR\nFP\nJY\nQB\nFY\nNA\nHO\nZB\nDH\nTS\nUC\nQI\nGL\nFH\nCL\nDL\nEI\nAQ\nAE\nSB\nWB\nBX\nCK\nXR\nVV\nUA\nMH\nNC\nQQ\nSD\nAD\nNL\nHL\nAU\nUU\nFX\nEM\nFZ\nFA\nZO\nBL\nZP\nNI\nVZ\nEH\nMR\nFG\nNO\nZQ\nQD\nAA\nTI\nWY\nVE\nDP\nYY\nQH\nKW\nEQ\nWC\nAI\nHY\nTC\nFQ\nKK\nIR\nKD\nAS\nWX\nVX\nNW\nPL\nOJ\nCR\nVB\nZL\nPX\nVJ\nVU\nVT\nSP\nQL\nAM\nAZ\nAG\nNG\nMU\nXW\nRR\nUX\nSJ\nVH\nFS\nKE\nFV\nZU\nKZ\nNY\nKA\nLL\nBP\nHI\nCY\nKB\nCI\nNN\nFJ\nZC\nAP\nGI\nWP\nNZ\nSC\nMY\nKY\nFD\nEW\nAT\nQP\nNE\nCC\nSU\nXC\nMI\nQR\nWD\nTO\nIJ\nGG\nNH\nKX\nVD\nUP\nHR\nZZ\nUY\nMO\nWG\n",
+      "output": "45\n"
+    },
+    {
+      "input": "27\nHH\nXX\nWW\nQL\nXK\nZZ\nDD\nQQ\nAA\nKK\nND\nEP\nUU\nXR\nXL\nJJ\nVY\nMM\nSS\nSK\nOC\nAX\nTM\nEE\nBB\nDL\nGG\n",
+      "output": "17\n"
+    },
+    {
+      "input": "323\nDT\nOG\nUL\nQI\nOY\nQR\nQU\nKT\nQW\nMZ\nPJ\nUA\nBG\nEL\nUW\nBD\nBL\nSG\nJJ\nOI\nVD\nMF\nAA\nMN\nQO\nEE\nUT\nYX\nGJ\nPG\nOA\nYW\nFN\nFA\nLG\nBW\nUN\nFO\nLT\nRJ\nEW\nEN\nBA\nZN\nMA\nVI\nQV\nOU\nHC\nZZ\nGC\nLX\nBE\nDJ\nRT\nST\nDI\nOF\nFW\nLP\nSR\nBK\nPX\nFP\nWC\nJT\nZF\nVJ\nEX\nRG\nSJ\nBP\nXC\nMS\nDY\nGA\nRC\nVL\nJX\nZT\nGX\nZA\nUP\nSK\nAW\nBC\nQF\nMJ\nTN\nLJ\nMX\nQE\nEH\nNW\nOH\nZC\nOL\nKE\nDX\nKJ\nQZ\nVA\nUX\nKW\nUH\nQY\nFJ\nFT\nBS\nIP\nIE\nMT\nBR\nZJ\nXW\nVB\nQN\nIN\nIF\nVH\nOV\nBF\nJA\nBZ\nDH\nZE\nHJ\nUG\nRY\nBV\nDC\nMK\nKL\nDK\nHW\nKX\nTC\nRH\nRE\nSF\nYH\nMP\nDD\nKZ\nRA\nON\nET\nCT\nKP\nVO\nYU\nMC\nDN\nIW\nZX\nLN\nVK\nOK\nFG\nQX\nBU\nPP\nSW\nVU\nPW\nDL\nXN\nJC\nIC\nRW\nRN\nKN\nYC\nKF\nKC\nDO\nVF\nMB\nRI\nEJ\nIJ\nMG\nJW\nTX\nEC\nUJ\nZW\nVS\nVE\nRP\nYL\nQP\nQH\nOT\nLA\nZG\nZH\nGT\nRF\nZI\nVT\nKU\nTA\nBT\nYG\nHA\nBJ\nFE\nUU\nTW\nIX\nKI\nPT\nKK\nVG\nDA\nDP\nYE\nMH\nMU\nFX\nQQ\nOZ\nIG\nDF\nDW\nQK\nYY\nSO\nBX\nOX\nRO\nHG\nRZ\nCC\nZY\nYN\nOW\nNC\nDU\nUF\nHT\nGW\nSD\nEG\nDZ\nOP\nSH\nOC\nSY\nMY\nBH\nUE\nNA\nVW\nBO\nQL\nSP\nHL\nBY\nIL\nQD\nQJ\nQT\nOE\nHP\nDE\nQA\nMR\nRL\nPA\nYT\nID\nQB\nAC\nOJ\nLC\nKG\nMO\nYF\nSN\nDR\nHX\nFL\nIA\nLW\nIT\nKA\nHN\nEP\nGN\nFC\nMM\nMQ\nVP\nZU\nQS\nYA\nSI\nKY\nSL\nAG\nZP\nSZ\nJN\nII\nRK\nVZ\nYJ\nUC\nMI\nBI\nBN\nYI\nVN\nVY\nIH\nVR\nSU\nRX\nIU\nYP\nSC\n",
+      "output": "154\n"
+    },
+    {
+      "input": "26\nZZ\nEE\nAA\nMM\nNN\nYY\nFF\nRR\nBB\nWW\nLL\nXX\nQQ\nHH\nPP\nUU\nSS\nDD\nTT\nII\nVV\nGG\nCC\nOO\nKK\nJJ\n",
+      "output": "26\n"
+    },
+    {
+      "input": "21\nLL\nYY\nZH\nZK\nYH\nKK\nVV\nFF\nHH\nKF\nHL\nYF\nKV\nHV\nZX\nZL\nYV\nZV\nZY\nZF\nXK\n",
+      "output": "9\n"
+    },
+    {
+      "input": "27\nRO\nFU\nUR\nII\nQQ\nJK\nAA\nLM\nZZ\nGG\nQC\nAX\nFF\nOD\nTL\nCK\nWW\nHG\nPK\nWJ\nDD\nYY\nKK\nMP\nVS\nXT\nNN\n",
+      "output": "10\n"
+    },
+    {
+      "input": "50\nHH\nWZ\nPU\nQQ\nTY\nYD\nTD\nHJ\nZS\nYR\nRD\nGG\nKV\nAA\nSH\nQZ\nRU\nHZ\nWJ\nSI\nWW\nTT\nQJ\nGP\nOD\nLA\nBN\nCC\nFF\nXX\nOC\nBL\nMU\nIW\nOO\nZJ\nDU\nOK\nNE\nNL\nEM\nIV\nVV\nQW\nQS\nXN\nFA\nNF\nQH\nZV\n",
+      "output": "18\n"
+    },
+    {
+      "input": "45\nPP\nZJ\nWW\nZR\nCF\nZO\nWM\nOO\nKE\nKG\nRX\nVT\nND\nKY\nXF\nTF\nYM\nOI\nSF\nKK\nPT\nFF\nCO\nYV\nQD\nLP\nCC\nWC\nNM\nBF\nWV\nYX\nXX\nLI\nUI\nYY\nBB\nIH\nFH\nWZ\nVV\nNN\nPL\nWU\nJO\n",
+      "output": "20\n"
+    },
+    {
+      "input": "55\nCV\nPY\nHG\nGG\nMM\nEY\nKN\nUS\nHV\nZN\nBR\nQQ\nFP\nOQ\nZO\nPF\nGJ\nKQ\nUD\nYE\nEF\nVJ\nKO\nII\nDU\nKZ\nCJ\nCC\nBB\nMI\nSD\nOO\nJJ\nON\nRR\nWW\nPP\nGV\nNO\nHC\nPE\nSS\nNQ\nTT\nTM\nFF\nLL\nTI\nSU\nOZ\nCG\nDD\nHJ\nYF\nZQ\n",
+      "output": "17\n"
+    },
+    {
+      "input": "51\nLY\nGG\nDO\nAA\nII\nZF\nVO\nPA\nDE\nVE\nZJ\nXN\nVQ\nZZ\nOJ\nOK\nUQ\nAI\nHH\nHJ\nZU\nNW\nPN\nPP\nZL\nMH\nJJ\nTT\nLL\nXG\nRR\nLQ\nOX\nAO\nEE\nVW\nNG\nQQ\nKT\nFH\nDD\nSS\nZC\nZQ\nLH\nLF\nHT\nME\nXX\nVY\nUM\n",
+      "output": "24\n"
+    },
+    {
+      "input": "25\nXS\nKT\nJW\nUG\nDR\nID\nVL\nTM\nAS\nEK\nRQ\nHZ\nQE\nLP\nZC\nFS\nPO\nGI\nTY\nSJ\nCB\nBU\nOH\nWV\nTN\n",
+      "output": "3\n"
+    },
+    {
+      "input": "7\nAB\nBC\nCA\nCD\nDE\nDF\nXX\n",
+      "output": "3\n"
+    },
+    {
+      "input": "5\nAC\nBC\nCD\nDE\nDF\n",
+      "output": "2\n"
+    },
+    {
+      "input": "6\nAB\nAC\nCB\nAD\nDB\nBA\n",
+      "output": "1\n"
+    }
+  ],
+  "timeout_sec": 10
+}

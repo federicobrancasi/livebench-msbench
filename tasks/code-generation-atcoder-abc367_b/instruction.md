@@ -1,0 +1,70 @@
+# Cut .0
+
+Source: atcoder
+Scenario: code_generation
+Difficulty: easy
+Contest: abc367
+Contest date: 2024-08-17T00:00:00
+
+A real number X is given to the third decimal place.
+Print the real number X under the following conditions.
+
+- The decimal part must not have trailing 0s.
+- There must not be an unnecessary trailing decimal point.
+
+Input
+
+The input is given from Standard Input in the following format:
+X
+
+Output
+
+Output the answer.
+
+Constraints
+
+
+- 0 \le X < 100
+- X is given to the third decimal place.
+
+Sample Input 1
+
+1.012
+
+Sample Output 1
+
+1.012
+
+1.012 can be printed as it is.
+
+Sample Input 2
+
+12.340
+
+Sample Output 2
+
+12.34
+
+Printing 12.340 without the trailing 0 results in 12.34.
+
+Sample Input 3
+
+99.900
+
+Sample Output 3
+
+99.9
+
+Printing 99.900 without the trailing 0s results in 99.9.
+
+Sample Input 4
+
+0.000
+
+Sample Output 4
+
+0
+
+Printing 0.000 without trailing 0s or an unnecessary decimal point results in 0.
+
+Write your final answer to `/app/solution.py`.

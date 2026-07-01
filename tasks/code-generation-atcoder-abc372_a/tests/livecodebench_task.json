@@ -1,0 +1,89 @@
+{
+  "contest_date": "2024-09-21T00:00:00",
+  "contest_id": "abc372",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc372_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "eo\n",
+      "output": "eo\n"
+    },
+    {
+      "input": "uuwxwjobcmhqxhtfwbvnjpuzfgiuoa.hdk.tqdhzdhrletxohqxiiwn.zayzdizaibmcntctnu.er.jnasoyfgfobjnv\n",
+      "output": "uuwxwjobcmhqxhtfwbvnjpuzfgiuoahdktqdhzdhrletxohqxiiwnzayzdizaibmcntctnuerjnasoyfgfobjnv\n"
+    },
+    {
+      "input": "atcoder.jp\n",
+      "output": "atcoderjp\n"
+    },
+    {
+      "input": ".katdh..itbf.v.dpfd..rqo.i..ief..hv.kyqqj.wslet.jk.bqbqq...hr..fasyq.owfdxdhfacv.yl..sc.hx.\n",
+      "output": "katdhitbfvdpfdrqoiiefhvkyqqjwsletjkbqbqqhrfasyqowfdxdhfacvylschx\n"
+    },
+    {
+      "input": "sh.x.ie.w..oyx.bbr...mp..sl..tzb.ha....yz..msvzd\n",
+      "output": "shxiewoyxbbrmpsltzbhayzmsvzd\n"
+    },
+    {
+      "input": "handmade\n",
+      "output": "handmade\n"
+    },
+    {
+      "input": "juy..cplopnui.qonkkwiqrelytmphrykfpaxxwedxgmnojftqcnwhhi.bifnsfhwzyybg.nnomnsgkudvrfkfacnvnpckmdlgob\n",
+      "output": "juycplopnuiqonkkwiqrelytmphrykfpaxxwedxgmnojftqcnwhhibifnsfhwzyybgnnomnsgkudvrfkfacnvnpckmdlgob\n"
+    },
+    {
+      "input": "he.piwjgz.slptervmf\n",
+      "output": "hepiwjgzslptervmf\n"
+    },
+    {
+      "input": "c.u..m.r..mehlzhe..r..\n",
+      "output": "cumrmehlzher\n"
+    },
+    {
+      "input": "zjmqngzsml.sihvyvbsqnprxkrvgrzxfrulzczcqbjdglxmlmgkurpyzioakhrrmck\n",
+      "output": "zjmqngzsmlsihvyvbsqnprxkrvgrzxfrulzczcqbjdglxmlmgkurpyzioakhrrmck\n"
+    },
+    {
+      "input": "l.r.f.k.q.y.u.q.f.j.k.x.y.q.v.n.r.t.y.s.f.r.z.r.m.z.l.y.g.f.v.e.u.l.q.f.p.d.b.h.l.q.d.q.r.r.c.r.w.d.\n",
+      "output": "lrfkqyuqfjkxyqvnrtysfrzrmzlygfveulqfpdbhlqdqrrcrwd\n"
+    },
+    {
+      "input": ".aocoofidff\n",
+      "output": "aocoofidff\n"
+    },
+    {
+      "input": "w\n",
+      "output": "w\n"
+    },
+    {
+      "input": "rdz.c..qq..ji..ymfw..zqp.l..k.udm..i.l.kg.d..h.pd.r....sww..dm.bk.vuomvtynqmjqg\n",
+      "output": "rdzcqqjiymfwzqplkudmilkgdhpdrswwdmbkvuomvtynqmjqg\n"
+    },
+    {
+      "input": "....................................................................................................\n",
+      "output": "\n"
+    },
+    {
+      "input": ".\n",
+      "output": "\n"
+    },
+    {
+      "input": ".v.\n",
+      "output": "v\n"
+    },
+    {
+      "input": "chokudai\n",
+      "output": "chokudai\n"
+    },
+    {
+      "input": "...\n",
+      "output": "\n"
+    }
+  ],
+  "timeout_sec": 10
+}

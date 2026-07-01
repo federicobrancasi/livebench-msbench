@@ -1,0 +1,109 @@
+{
+  "contest_date": "2024-10-19T00:00:00",
+  "contest_id": "abc376",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc376_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "65 22\nR 50\nL 22\nR 64\nR 31\nR 9\nR 24\nR 28\nR 43\nR 61\nL 49\nR 56\nR 29\nR 64\nR 18\nL 57\nR 9\nR 10\nR 63\nR 44\nR 55\nR 9\nR 60\n",
+      "output": "512\n"
+    },
+    {
+      "input": "100 100\nL 48\nR 66\nL 94\nR 14\nL 39\nR 4\nR 47\nR 19\nL 20\nL 14\nR 94\nR 95\nL 42\nL 84\nL 3\nL 49\nL 33\nL 51\nR 41\nL 1\nL 60\nL 80\nL 33\nR 47\nR 96\nL 39\nR 32\nR 4\nL 96\nL 17\nL 72\nL 18\nL 11\nR 63\nL 15\nL 3\nL 34\nR 89\nR 43\nL 30\nL 39\nL 92\nL 81\nL 25\nR 47\nR 56\nL 10\nR 44\nR 60\nR 82\nR 81\nL 89\nL 36\nR 51\nR 3\nL 42\nR 40\nR 47\nR 57\nL 78\nL 50\nL 87\nR 49\nR 88\nR 24\nL 27\nL 38\nL 90\nL 30\nL 57\nR 44\nR 44\nR 48\nL 25\nR 29\nL 59\nL 33\nR 63\nR 54\nL 21\nL 80\nR 70\nR 76\nR 100\nR 28\nL 78\nL 67\nL 26\nR 61\nR 7\nL 87\nL 1\nR 95\nR 36\nR 73\nL 1\nR 51\nR 50\nR 73\nR 39\n",
+      "output": "3507\n"
+    },
+    {
+      "input": "34 100\nR 13\nL 28\nL 28\nR 21\nL 17\nL 23\nL 6\nL 11\nL 30\nR 9\nL 29\nR 30\nR 18\nR 31\nL 11\nR 12\nL 3\nL 21\nR 1\nL 6\nL 8\nR 25\nL 30\nL 4\nL 27\nL 13\nL 15\nL 20\nL 31\nL 14\nL 29\nR 4\nL 30\nL 17\nR 18\nR 2\nR 14\nL 1\nR 13\nL 12\nL 21\nR 28\nL 23\nL 25\nR 8\nL 12\nL 9\nL 2\nL 6\nL 30\nR 4\nR 17\nL 26\nL 31\nL 25\nR 29\nL 1\nL 10\nL 31\nL 25\nL 6\nL 16\nL 14\nL 31\nR 5\nR 1\nL 27\nR 29\nL 12\nR 4\nR 22\nL 7\nL 16\nL 16\nL 11\nL 27\nL 29\nR 18\nL 15\nR 18\nL 32\nR 14\nL 30\nL 26\nR 31\nL 7\nL 10\nL 2\nL 28\nL 30\nL 13\nL 27\nR 10\nR 21\nL 3\nL 32\nR 30\nR 27\nL 7\nL 30\n",
+      "output": "1154\n"
+    },
+    {
+      "input": "100 100\nL 1\nR 2\nL 1\nR 2\nL 1\nR 2\nL 1\nL 1\nL 1\nL 1\nL 1\nR 2\nL 1\nR 2\nR 2\nR 2\nL 1\nL 1\nR 2\nR 2\nL 1\nL 1\nL 1\nL 1\nL 1\nR 2\nR 2\nR 2\nR 2\nL 1\nL 1\nR 2\nL 1\nL 1\nL 1\nL 1\nL 1\nR 2\nL 1\nL 1\nR 2\nR 2\nL 1\nL 1\nL 1\nR 2\nR 2\nL 1\nR 2\nR 2\nR 2\nR 2\nL 1\nR 2\nL 1\nR 2\nR 2\nL 1\nR 2\nR 2\nR 2\nL 1\nL 1\nL 1\nL 1\nL 1\nL 1\nL 1\nL 1\nR 2\nR 2\nR 2\nL 1\nR 2\nL 1\nR 2\nL 1\nL 1\nL 1\nR 2\nL 1\nL 1\nR 2\nL 1\nL 1\nR 2\nR 2\nL 1\nL 1\nR 2\nL 1\nR 2\nL 1\nL 1\nL 1\nR 2\nR 2\nL 1\nR 2\nL 1\n",
+      "output": "0\n"
+    },
+    {
+      "input": "100 100\nL 64\nL 94\nL 84\nL 63\nL 81\nL 42\nL 40\nL 13\nL 23\nR 75\nR 95\nL 76\nL 46\nL 24\nL 32\nL 63\nL 64\nR 38\nL 16\nR 11\nL 57\nL 57\nL 99\nL 8\nR 75\nR 41\nL 25\nL 26\nL 26\nL 90\nL 31\nL 97\nR 43\nR 74\nR 48\nL 88\nL 28\nL 2\nR 50\nL 75\nL 96\nL 10\nR 82\nL 1\nL 60\nL 96\nL 35\nR 8\nL 33\nR 41\nL 23\nL 20\nL 51\nL 24\nL 58\nL 92\nL 47\nL 96\nR 81\nL 28\nL 82\nR 71\nR 92\nR 56\nL 32\nL 18\nL 29\nL 7\nR 98\nL 69\nL 91\nL 13\nR 28\nL 1\nR 23\nR 86\nL 16\nR 41\nR 86\nL 65\nL 53\nR 61\nL 81\nR 74\nL 45\nR 3\nL 24\nL 60\nR 23\nL 77\nL 56\nR 76\nR 33\nL 93\nR 17\nR 67\nL 51\nL 74\nL 52\nR 40\n",
+      "output": "3417\n"
+    },
+    {
+      "input": "27 100\nL 25\nR 26\nL 1\nL 11\nL 19\nL 13\nL 23\nL 6\nL 17\nL 11\nL 15\nL 5\nR 21\nL 1\nR 3\nR 7\nL 9\nR 3\nR 13\nL 21\nL 12\nL 23\nL 21\nL 4\nL 9\nR 27\nR 23\nL 22\nL 24\nL 6\nL 4\nL 21\nL 8\nL 10\nL 2\nL 14\nL 27\nL 4\nL 17\nL 7\nL 7\nL 24\nL 6\nL 11\nL 9\nL 6\nL 3\nL 9\nL 25\nR 13\nL 7\nL 11\nL 21\nL 11\nR 15\nL 3\nL 26\nL 13\nL 8\nL 10\nL 19\nR 11\nL 26\nL 10\nL 1\nR 21\nR 12\nL 24\nL 13\nL 16\nL 9\nL 5\nL 2\nL 9\nL 19\nL 8\nL 8\nL 21\nR 2\nL 7\nL 18\nL 7\nL 16\nL 11\nL 1\nL 7\nL 24\nL 7\nL 6\nL 5\nL 4\nL 13\nL 20\nL 6\nR 16\nL 11\nL 10\nL 9\nL 19\nR 5\n",
+      "output": "930\n"
+    },
+    {
+      "input": "16 100\nL 9\nL 1\nL 4\nL 12\nL 9\nL 15\nL 16\nL 1\nL 8\nL 5\nL 8\nL 7\nL 13\nL 12\nL 5\nL 3\nL 3\nL 4\nL 16\nL 13\nL 11\nL 6\nL 3\nL 8\nL 9\nL 16\nL 16\nL 15\nL 7\nL 4\nL 9\nL 13\nL 3\nL 9\nL 6\nL 3\nL 14\nL 11\nL 5\nL 14\nL 7\nL 14\nL 13\nL 12\nL 16\nL 13\nL 7\nL 7\nL 13\nL 6\nL 3\nL 16\nL 8\nL 6\nL 7\nL 12\nL 16\nL 11\nL 10\nL 5\nL 8\nL 10\nL 10\nL 9\nL 6\nL 9\nL 7\nL 9\nL 5\nL 6\nL 5\nL 12\nL 3\nL 14\nL 14\nL 9\nL 3\nL 7\nL 14\nL 16\nL 13\nL 7\nL 5\nL 9\nL 10\nL 9\nL 4\nL 8\nL 15\nL 1\nL 1\nL 11\nL 12\nL 11\nL 5\nL 9\nL 6\nL 7\nL 14\nL 10\n",
+      "output": "421\n"
+    },
+    {
+      "input": "22 75\nL 1\nL 22\nL 8\nL 16\nL 10\nL 16\nL 16\nL 3\nL 6\nL 15\nL 17\nL 13\nL 4\nL 14\nL 5\nL 13\nL 7\nL 17\nL 15\nL 20\nL 18\nL 4\nL 14\nL 15\nL 6\nL 12\nL 1\nL 14\nL 21\nL 3\nL 22\nL 18\nL 9\nL 7\nL 1\nL 14\nL 5\nL 13\nL 16\nL 3\nL 20\nL 6\nL 4\nL 1\nL 18\nL 16\nL 11\nL 1\nL 14\nL 19\nL 10\nL 14\nL 19\nL 15\nL 21\nL 17\nL 14\nL 13\nL 4\nL 6\nL 17\nL 21\nL 10\nL 10\nL 19\nL 5\nL 14\nL 6\nL 8\nL 9\nL 22\nL 11\nL 12\nL 8\nL 12\n",
+      "output": "543\n"
+    },
+    {
+      "input": "3 100\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\nL 1\nR 2\nL 3\nR 1\nL 2\nR 3\n",
+      "output": "100\n"
+    },
+    {
+      "input": "100 100\nL 7\nL 40\nR 8\nL 2\nR 96\nL 89\nL 81\nL 80\nL 17\nR 88\nL 13\nL 31\nL 44\nL 64\nL 25\nL 52\nL 60\nL 50\nR 90\nL 84\nL 35\nL 56\nR 64\nL 52\nL 20\nL 43\nL 19\nL 12\nL 73\nL 48\nL 93\nL 43\nL 78\nL 22\nL 53\nL 60\nL 100\nL 26\nL 54\nR 84\nL 20\nR 14\nL 30\nL 82\nR 49\nL 47\nL 96\nR 34\nL 66\nL 15\nL 11\nL 43\nL 45\nL 56\nL 77\nL 53\nL 13\nL 43\nL 92\nL 67\nR 37\nL 74\nL 64\nL 62\nR 18\nL 74\nR 68\nL 93\nL 57\nL 7\nL 45\nR 34\nL 73\nR 75\nL 10\nL 22\nL 23\nL 35\nL 37\nL 62\nL 30\nL 88\nL 23\nL 79\nL 74\nL 21\nL 87\nL 80\nR 73\nL 56\nL 20\nL 27\nL 69\nL 5\nL 86\nL 72\nL 79\nL 79\nR 49\nL 20\n",
+      "output": "3390\n"
+    },
+    {
+      "input": "100 2\nL 94\nL 63\n",
+      "output": "38\n"
+    },
+    {
+      "input": "85 70\nR 72\nR 72\nR 29\nR 21\nR 13\nR 42\nR 24\nR 12\nL 57\nL 48\nL 62\nR 59\nR 35\nR 17\nL 51\nL 44\nL 83\nL 68\nR 5\nL 52\nR 39\nL 5\nR 8\nR 70\nR 22\nR 1\nR 36\nL 8\nL 76\nR 15\nR 60\nR 63\nR 50\nR 58\nR 78\nL 11\nL 82\nR 30\nR 39\nR 37\nR 11\nL 42\nR 55\nR 35\nR 21\nR 71\nL 21\nR 26\nL 84\nR 27\nR 40\nL 3\nL 66\nR 75\nR 8\nR 76\nR 65\nL 69\nR 38\nR 49\nL 29\nR 2\nR 10\nR 41\nR 31\nR 76\nL 38\nR 39\nL 1\nR 6\n",
+      "output": "1934\n"
+    },
+    {
+      "input": "100 78\nL 54\nR 21\nL 32\nL 60\nL 23\nL 82\nL 81\nL 64\nR 36\nR 65\nR 71\nL 94\nL 58\nL 75\nL 56\nR 10\nL 54\nL 29\nL 74\nL 95\nL 16\nL 26\nL 83\nL 64\nL 52\nL 15\nL 40\nL 35\nL 80\nL 62\nL 74\nR 45\nL 12\nL 7\nR 54\nL 21\nL 20\nR 11\nL 7\nL 3\nL 13\nR 52\nR 63\nR 51\nL 91\nL 25\nL 74\nL 42\nL 43\nL 81\nL 42\nR 19\nL 30\nR 29\nL 53\nL 57\nL 3\nL 1\nL 40\nL 43\nL 38\nL 71\nL 73\nL 6\nL 89\nL 78\nL 31\nL 78\nL 19\nL 52\nL 56\nL 49\nL 47\nL 61\nL 34\nL 51\nL 18\nL 30\n",
+      "output": "2550\n"
+    },
+    {
+      "input": "100 100\nL 3\nR 4\nL 5\nR 6\nL 7\nR 8\nL 9\nR 10\nL 11\nR 12\nL 13\nR 14\nL 15\nR 16\nL 17\nR 18\nL 19\nR 20\nL 21\nR 22\nL 23\nR 24\nL 25\nR 26\nL 27\nR 28\nL 29\nR 30\nL 31\nR 32\nL 33\nR 34\nL 35\nR 36\nL 37\nR 38\nL 39\nR 40\nL 41\nR 42\nL 43\nR 44\nL 45\nR 46\nL 47\nR 48\nL 49\nR 50\nL 51\nR 52\nL 53\nR 54\nL 55\nR 56\nL 57\nR 58\nL 59\nR 60\nL 61\nR 62\nL 63\nR 64\nL 65\nR 66\nL 67\nR 68\nL 69\nR 70\nL 71\nR 72\nL 73\nR 74\nL 75\nR 76\nL 77\nR 78\nL 79\nR 80\nL 81\nR 82\nL 83\nR 84\nL 85\nR 86\nL 87\nR 88\nL 89\nR 90\nL 91\nR 92\nL 93\nR 94\nL 95\nR 96\nL 97\nR 98\nL 99\nR 100\nL 1\nR 2\n",
+      "output": "9800\n"
+    },
+    {
+      "input": "39 10\nR 21\nR 25\nR 34\nR 7\nL 12\nR 8\nR 6\nR 15\nL 21\nL 36\n",
+      "output": "165\n"
+    },
+    {
+      "input": "3 100\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\nL 3\nL 1\n",
+      "output": "100\n"
+    },
+    {
+      "input": "100 80\nL 20\nL 10\nR 27\nR 89\nR 16\nR 43\nR 72\nR 83\nL 64\nR 31\nR 33\nR 84\nR 28\nL 7\nR 36\nR 73\nR 76\nR 2\nL 47\nR 43\nR 54\nR 100\nR 54\nL 36\nR 38\nR 60\nR 54\nL 42\nR 73\nR 91\nL 63\nR 21\nL 31\nR 94\nR 95\nL 62\nR 81\nR 43\nL 17\nL 34\nR 47\nR 56\nR 35\nR 67\nL 35\nR 63\nR 49\nR 100\nL 76\nR 25\nL 79\nR 28\nR 32\nR 71\nR 51\nL 80\nL 39\nR 60\nR 20\nR 69\nR 38\nR 85\nR 52\nL 42\nL 96\nL 91\nL 87\nL 28\nL 40\nR 53\nR 82\nR 83\nL 62\nR 83\nL 45\nR 32\nR 33\nL 40\nR 65\nR 65\n",
+      "output": "2242\n"
+    },
+    {
+      "input": "95 100\nR 27\nR 90\nR 13\nR 30\nL 12\nR 21\nR 54\nL 39\nL 91\nR 60\nR 2\nR 80\nL 64\nR 16\nL 19\nR 53\nL 60\nL 16\nL 9\nL 93\nL 25\nR 36\nL 58\nR 69\nR 93\nL 83\nR 58\nR 56\nL 12\nR 85\nR 32\nL 76\nL 17\nL 47\nL 4\nL 26\nR 34\nL 26\nR 77\nR 36\nR 30\nL 18\nL 59\nL 27\nR 1\nL 31\nL 3\nL 53\nL 43\nR 91\nR 20\nL 1\nL 8\nL 61\nR 46\nR 46\nR 31\nL 14\nL 44\nR 62\nR 26\nL 21\nL 40\nL 43\nR 25\nR 81\nR 16\nR 13\nR 45\nL 38\nL 62\nR 72\nL 56\nR 68\nL 37\nR 83\nL 61\nR 47\nR 70\nR 79\nL 23\nR 4\nR 54\nL 51\nL 28\nL 32\nR 58\nL 20\nR 50\nL 87\nL 24\nR 59\nL 69\nR 92\nR 49\nR 85\nR 47\nR 37\nL 53\nR 4\n",
+      "output": "3375\n"
+    },
+    {
+      "input": "3 1\nL 3\n",
+      "output": "1\n"
+    },
+    {
+      "input": "100 100\nL 93\nL 17\nL 3\nL 34\nL 68\nL 71\nL 65\nL 21\nL 83\nL 3\nL 66\nL 49\nL 32\nL 76\nL 88\nL 38\nL 64\nL 36\nL 73\nL 70\nL 22\nL 74\nL 32\nL 60\nL 55\nL 48\nL 80\nL 61\nL 89\nL 54\nL 20\nL 34\nL 33\nL 45\nL 90\nL 40\nL 12\nL 17\nL 35\nL 11\nL 37\nL 83\nL 44\nL 68\nL 78\nL 56\nL 45\nL 27\nL 98\nL 8\nL 28\nL 58\nL 66\nL 91\nL 71\nL 76\nL 5\nL 64\nL 79\nL 70\nL 9\nL 41\nL 29\nL 25\nL 29\nL 61\nL 41\nL 66\nL 70\nL 94\nL 14\nL 13\nL 1\nL 87\nL 48\nL 14\nL 65\nL 22\nL 22\nL 48\nL 34\nL 11\nL 97\nL 93\nL 38\nL 72\nL 6\nL 3\nL 11\nL 47\nL 36\nL 42\nL 43\nL 31\nL 20\nL 23\nL 43\nL 39\nL 14\nL 3\n",
+      "output": "2828\n"
+    },
+    {
+      "input": "100 1\nR 7\n",
+      "output": "5\n"
+    },
+    {
+      "input": "6 3\nR 4\nL 5\nR 6\n",
+      "output": "8\n"
+    },
+    {
+      "input": "100 2\nL 1\nR 2\n",
+      "output": "0\n"
+    },
+    {
+      "input": "30 8\nR 23\nR 26\nR 29\nL 20\nR 29\nR 19\nL 7\nL 16\n",
+      "output": "92\n"
+    }
+  ],
+  "timeout_sec": 10
+}

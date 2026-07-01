@@ -1,0 +1,93 @@
+{
+  "contest_date": "2024-09-28T00:00:00",
+  "contest_id": "abc373",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc373_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "AJNHSGOTXLEFKWBYDMIZQUPCRV\n",
+      "output": "209\n"
+    },
+    {
+      "input": "TCGSNEHKDJVXOPAIMLYQFWZUBR\n",
+      "output": "234\n"
+    },
+    {
+      "input": "ABCJEFGHZDKLMNOPQRSWYVTXUI\n",
+      "output": "102\n"
+    },
+    {
+      "input": "BDFHJLNPRTVXZYWUSQOMKIGECA\n",
+      "output": "325\n"
+    },
+    {
+      "input": "JGRZLBMUHPKTQFINXYOESDVCAW\n",
+      "output": "211\n"
+    },
+    {
+      "input": "BDFHJLNPRTVXZACEGIKMOQSUWY\n",
+      "output": "337\n"
+    },
+    {
+      "input": "ULQZVJDINGRTSPXFHEBMWKCOYA\n",
+      "output": "244\n"
+    },
+    {
+      "input": "ROPVFSYTLDCZQAUHJWMNEBGKIX\n",
+      "output": "234\n"
+    },
+    {
+      "input": "YEROMJISDWHCBVGNQKUZFPTXLA\n",
+      "output": "246\n"
+    },
+    {
+      "input": "ZYXWVUTSRQPONMLKJIHGFEDCBA\n",
+      "output": "25\n"
+    },
+    {
+      "input": "ACEGIKMOQSUWYZXVTRPNLJHFDB\n",
+      "output": "325\n"
+    },
+    {
+      "input": "EDAFBVRQLOYSKZPXNJTIUGWCHM\n",
+      "output": "191\n"
+    },
+    {
+      "input": "BJDRMYVQPWFGHZUIOENTALKXSC\n",
+      "output": "259\n"
+    },
+    {
+      "input": "APMDEKGHIJFORNLBSCQTYVWXUZ\n",
+      "output": "141\n"
+    },
+    {
+      "input": "GBQIUMYADNSCWXPOLTJEVZKHFR\n",
+      "output": "266\n"
+    },
+    {
+      "input": "KUDEJRGCXMZHOWTVNYPBFQSAIL\n",
+      "output": "247\n"
+    },
+    {
+      "input": "ABCDREGHIJKOMNXPQFYTUVWSLZ\n",
+      "output": "123\n"
+    },
+    {
+      "input": "EXGHFWQKCVODZSJIUNBTMRLPYA\n",
+      "output": "197\n"
+    },
+    {
+      "input": "ABCDEFGHIJKLMNOPQRSTUVWXYZ\n",
+      "output": "25\n"
+    },
+    {
+      "input": "MGJYIZDKSBHPVENFLQURTCWOAX\n",
+      "output": "223\n"
+    }
+  ],
+  "timeout_sec": 10
+}

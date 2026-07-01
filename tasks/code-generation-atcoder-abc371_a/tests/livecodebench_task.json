@@ -1,0 +1,37 @@
+{
+  "contest_date": "2024-09-14T00:00:00",
+  "contest_id": "abc371",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc371_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "> > >\n",
+      "output": "B\n"
+    },
+    {
+      "input": "> > <\n",
+      "output": "C\n"
+    },
+    {
+      "input": "> < <\n",
+      "output": "A\n"
+    },
+    {
+      "input": "< > >\n",
+      "output": "A\n"
+    },
+    {
+      "input": "< < <\n",
+      "output": "B\n"
+    },
+    {
+      "input": "< < >\n",
+      "output": "C\n"
+    }
+  ],
+  "timeout_sec": 10
+}

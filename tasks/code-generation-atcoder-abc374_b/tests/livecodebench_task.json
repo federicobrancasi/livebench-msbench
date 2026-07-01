@@ -1,0 +1,113 @@
+{
+  "contest_date": "2024-10-05T00:00:00",
+  "contest_id": "abc374",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc374_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "b\nb\n",
+      "output": "0\n"
+    },
+    {
+      "input": "kyigxyqpzxeckygyxthszxgyidgldnlzeqndbvacjqyhfkqvliusqmxyeqyqorzmmjwsuicnyxqnktylaqnvbjlltexgrhifd\nkyigxyqpzxeckygyxthszxgyidgldnlzeqndbvacjqyhfkqvliusqmxyeqyqorzmmjwsuicnyxqnktylaqnvbjllte\n",
+      "output": "91\n"
+    },
+    {
+      "input": "alvbsfutyarenkewzlpwgqzfnnkexxdsufcjvrbkesrobosuzumuccgmrsmxztpsiqchfclvzkmvfmuscnbrlczvfzwmmktus\nalvbsfutyarjnkewzlpwgqzfnnkexxdsufcjvrbkesrobosuzumuccgmrsmxztpsiqchfclvzkmvfmuscn\n",
+      "output": "12\n"
+    },
+    {
+      "input": "z\nzvbozjaraefmlotftnqrjolvuamahndekfdsqcfvmqbocbomjxrqsfskevfxphcqoqkbbomcyurwlrnhrhctntzlylvwulbdkcdp\n",
+      "output": "2\n"
+    },
+    {
+      "input": "rmudccmueahebyvsakxwseqzduyfezujaffdrsqfseqsdfcgdenmrfwfndijtepxhnvedfbagzrxkprtgboukfxiwhfzfksnawgc\nrmudccmueahebyvsakxwseqzduyfezujaffdrsqfseqsdfcgdenmrfwfndijtepxhnvebfbagzrxkprtgboukfxi\n",
+      "output": "69\n"
+    },
+    {
+      "input": "yuxdvoossjoatryxmbwxbwexnagmaygzyfnzpqftobtaotuayxmwvzllkujidhukzwzcltgqngguftuahalwvjwqncksizgzajkh\nyuxdvoossjoatryxmbwxbwexnagmaygzyfnzpqftobtaotuayxmwvzllkujidhukzwzcltgqngguftuahalwvjwqncksizgzajk\n",
+      "output": "100\n"
+    },
+    {
+      "input": "futfzmjcdlivnuxmrdfghkqlqzaeeaekoomvpysjwncyqyabutsitezurqhbuwabexrcuiwafnfvcasmrmbqnupruskhs\nfutfzmjcdlivnuxmrdfghkqlqzaeeazkoomvpysjwncyqyabutsitezurqhbuwabexrcuiwafnfvcasmrmbqnupruskhs\n",
+      "output": "31\n"
+    },
+    {
+      "input": "zncrwgidcfjgdzkoqfqbweuchtdvpiunkpehcshtmrentgsndnbtbbbmoguopypwkapkrwisamnxagzfqsfs\nzncrwgidcfjgdzkoqfqbweuchtdvpiunkpehcshtmrentgsndnbtbbbmoguopypwkapkrwisamnxagzfqsfsxtyxepb\n",
+      "output": "85\n"
+    },
+    {
+      "input": "vgxgpuamkxkszhkbpphykinkezplvfjaqmopodotkrjzrimlvumuarenexcfycebeurgvjyospdhvuyfvtvnrdyluacvrayggwnp\nvgxgpuamkxkszhkbpphykinkezplvfjaqmopodotkrjzrimlvumuarenexcfycebeurgvjyospdhvuyfvtvnrdyluacvrayggwnp\n",
+      "output": "0\n"
+    },
+    {
+      "input": "bzpnpjgqftvwgukjwsekfcgllbzlnvmosmvqubtwsgltvmmzmslqdxqiifzkalhsxzguseuexlycgubhdnwhrssyiybit\nbzpnpjgqftvwgukjwsekfcgllbzlnvmosmvqubtwsgltvmmzmslqdxqiifzkaqhsxzguseuexlycgubhdnwhrssyiybitcoo\n",
+      "output": "62\n"
+    },
+    {
+      "input": "iwqcyreiwkrpiuiasfkjexpftznqiblsrjuyfskndapwjefucdqciuehvfndghrxxnmvzljxioyundvpndabsb\niwqcyreiwkrpiuiasfkjexpftznqiblsrjuyfskndapwjefucdqciuehvfndghrxxnmvzljxioyundvpndabsbnwoeyomrjdcqcr\n",
+      "output": "87\n"
+    },
+    {
+      "input": "jrjpafgkirrueoezabcqlzmcdwmklvyzvuughetwkxzuzfvoirareyblwp\njrjpafgkirrueoezabcqlzmcdwmklvyzvuughetwkxzuzfvoirareyblwp\n",
+      "output": "0\n"
+    },
+    {
+      "input": "ichjtpukfnlxfcevkjezqsmeycanjlbessrfazdprcomdpjimsfbuslksyveergcgmonctcsvypolplcg\nichjtpukfnlxfcevkjezqsmeycanjlbessrfazdprcomdpjimsfbuslksyveergcgmonctcsvypolpicgsqyf\n",
+      "output": "79\n"
+    },
+    {
+      "input": "gtrdwalvffknwibhwhacqfjcmwupoxonavvxwsvprpymskznabsquwssucxrmywerfpziqdziycnynthgmdavybzbqgcrgvwa\nlcptutzxsqlkchithcdezsaeflddflgtixbnagkqrzesckrihwqplfpspkqvifbmnqwidbkzqiygwfunefiwpxueumdwugbfg\n",
+      "output": "1\n"
+    },
+    {
+      "input": "lujgxuenmzggjmgiutqoeltnlybo\nlujgxuenmzggjmgiutqoeltnlybo\n",
+      "output": "0\n"
+    },
+    {
+      "input": "gcvuuii\ngcvuuii\n",
+      "output": "0\n"
+    },
+    {
+      "input": "e\nl\n",
+      "output": "1\n"
+    },
+    {
+      "input": "nzijdifyervjaoalcgxovldqfzaorahdigyojknviaztpcmxlvovafhjphvshyfiqqtqbxjjmqngqjhwkcexecmdkmzakbzrkjwq\nnzijdifyervjaoalcgxovldqfzaorahdigyojknviaztpcmxlvovafhjphvshyfiqqtqbxjjmqngqjhwkcexecmdkmzakbzrkjwd\n",
+      "output": "100\n"
+    },
+    {
+      "input": "yjujlkseszafzjmdtsbyldhylcgkyngvmhneqyjdugofklitxaoykfoqkzsznjyarkuprerivhubpehxmoydakklbdnfhfxamot\nyjujlkseszafzjmdtsbyldhylcgkyngvmhneqyjdugofklitxaoykfoqkzsznjyarkuprerivhubpehxmoydakklbdnfhfxamotu\n",
+      "output": "100\n"
+    },
+    {
+      "input": "syyvopepmvdosibrvqoghdeikbpqbfgrufxdsqchjkuxpxngebxrmqdgqjsosencrbwknllvucvubyozfmttxtlsrrnrqavsh\nsyyvopepmvdosibrvqoghdeikbpqbfgrufxdsqchjkuxpsngebxrmqdgqjsosencrbwknllvucvubyozfmttxtls\n",
+      "output": "46\n"
+    },
+    {
+      "input": "rjlndydxrojjahocitarxlqxqjxqhpfzewpyykzeqjpehsyiqvyezbqwnpyuciobbloxjxuozsuvqwphlhglufbhjgbpkxjx\nrjlndydxrojjahocitarxlqxqjxqhpfzewpyykzeqjpehsgiqvyezbqwnpyuciobbloxjxuozsuvqwphlhgl\n",
+      "output": "47\n"
+    },
+    {
+      "input": "ytqrwmvxfsvzlotlfwimliygnfddeswmxuvhnqvjzgkpdzfjmcjcmsaaskextlsjrggtycgcqfpoqomrouhjkn\nytqrwmvxfsvzlotlfwimliygnfddeswmxuvhnqvjzgkpdzfjmcjcmsaaskextlsjrggtycgcqfpoqomrouhjkntqryhj\n",
+      "output": "87\n"
+    },
+    {
+      "input": "abcde\nabedc\n",
+      "output": "3\n"
+    },
+    {
+      "input": "abcde\nabcdefg\n",
+      "output": "6\n"
+    },
+    {
+      "input": "keyence\nkeyence\n",
+      "output": "0\n"
+    }
+  ],
+  "timeout_sec": 10
+}
