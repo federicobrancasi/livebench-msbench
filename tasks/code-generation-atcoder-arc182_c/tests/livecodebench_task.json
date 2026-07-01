@@ -1,0 +1,125 @@
+{
+  "contest_date": "2024-08-11T00:00:00",
+  "contest_id": "arc182",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "arc182_c",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "10 11\n",
+      "output": "797173552\n"
+    },
+    {
+      "input": "5 6\n",
+      "output": "159380\n"
+    },
+    {
+      "input": "3 10\n",
+      "output": "12159\n"
+    },
+    {
+      "input": "144115188075855871 16\n",
+      "output": "915266445\n"
+    },
+    {
+      "input": "999999999999999998 13\n",
+      "output": "587706331\n"
+    },
+    {
+      "input": "1 1\n",
+      "output": "1\n"
+    },
+    {
+      "input": "2 1\n",
+      "output": "2\n"
+    },
+    {
+      "input": "685421234133927648 13\n",
+      "output": "411807994\n"
+    },
+    {
+      "input": "646273989912848062 16\n",
+      "output": "269704788\n"
+    },
+    {
+      "input": "1 2\n",
+      "output": "3\n"
+    },
+    {
+      "input": "4 5\n",
+      "output": "6412\n"
+    },
+    {
+      "input": "419370024054448287 8\n",
+      "output": "443583017\n"
+    },
+    {
+      "input": "999999999999999997 16\n",
+      "output": "461609606\n"
+    },
+    {
+      "input": "801955173684586951 12\n",
+      "output": "652715721\n"
+    },
+    {
+      "input": "3 2\n",
+      "output": "31\n"
+    },
+    {
+      "input": "4 1\n",
+      "output": "4\n"
+    },
+    {
+      "input": "2 16\n",
+      "output": "2026\n"
+    },
+    {
+      "input": "595748670391086086 12\n",
+      "output": "310581455\n"
+    },
+    {
+      "input": "660456923033105951 12\n",
+      "output": "634238654\n"
+    },
+    {
+      "input": "5 1\n",
+      "output": "5\n"
+    },
+    {
+      "input": "249168129578582606 12\n",
+      "output": "845995803\n"
+    },
+    {
+      "input": "712020795732155673 12\n",
+      "output": "229774372\n"
+    },
+    {
+      "input": "4 2\n",
+      "output": "79\n"
+    },
+    {
+      "input": "1000000000000000000 15\n",
+      "output": "21484993\n"
+    },
+    {
+      "input": "857077283552821320 9\n",
+      "output": "116125541\n"
+    },
+    {
+      "input": "1 7\n",
+      "output": "16\n"
+    },
+    {
+      "input": "3 11\n",
+      "output": "16095\n"
+    },
+    {
+      "input": "81131 14\n",
+      "output": "182955659\n"
+    }
+  ],
+  "timeout_sec": 10
+}

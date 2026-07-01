@@ -1,0 +1,181 @@
+{
+  "contest_date": "2025-02-01T00:00:00",
+  "contest_id": "abc391",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc391_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "S",
+      "output": "N\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "NW",
+      "output": "SE\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "NE",
+      "output": "SW\n"
+    },
+    {
+      "input": "SW",
+      "output": "NE\n"
+    },
+    {
+      "input": "NW",
+      "output": "SE\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "SE",
+      "output": "NW\n"
+    },
+    {
+      "input": "S",
+      "output": "N\n"
+    },
+    {
+      "input": "W",
+      "output": "E\n"
+    },
+    {
+      "input": "W",
+      "output": "E\n"
+    },
+    {
+      "input": "SW",
+      "output": "NE\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "W",
+      "output": "E\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "S",
+      "output": "N\n"
+    },
+    {
+      "input": "SW",
+      "output": "NE\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "NE",
+      "output": "SW\n"
+    },
+    {
+      "input": "NW",
+      "output": "SE\n"
+    },
+    {
+      "input": "SW",
+      "output": "NE\n"
+    },
+    {
+      "input": "SE",
+      "output": "NW\n"
+    },
+    {
+      "input": "NE",
+      "output": "SW\n"
+    },
+    {
+      "input": "SE",
+      "output": "NW\n"
+    },
+    {
+      "input": "NE",
+      "output": "SW\n"
+    },
+    {
+      "input": "E",
+      "output": "W\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "SE",
+      "output": "NW\n"
+    },
+    {
+      "input": "NE",
+      "output": "SW\n"
+    },
+    {
+      "input": "S",
+      "output": "N\n"
+    },
+    {
+      "input": "W",
+      "output": "E\n"
+    },
+    {
+      "input": "SW",
+      "output": "NE\n"
+    },
+    {
+      "input": "W",
+      "output": "E\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "N",
+      "output": "S\n"
+    },
+    {
+      "input": "NW",
+      "output": "SE\n"
+    },
+    {
+      "input": "E",
+      "output": "W\n"
+    },
+    {
+      "input": "SE",
+      "output": "NW\n"
+    },
+    {
+      "input": "NW",
+      "output": "SE\n"
+    },
+    {
+      "input": "N",
+      "output": "S"
+    },
+    {
+      "input": "SE",
+      "output": "NW"
+    }
+  ],
+  "timeout_sec": 10
+}

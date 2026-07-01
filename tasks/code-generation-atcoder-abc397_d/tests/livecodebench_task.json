@@ -1,0 +1,185 @@
+{
+  "contest_date": "2025-03-15T00:00:00",
+  "contest_id": "abc397",
+  "difficulty": "hard",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc397_d",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "499749",
+      "output": "-1\n"
+    },
+    {
+      "input": "459813240175937490",
+      "output": "-1\n"
+    },
+    {
+      "input": "988160199411",
+      "output": "-1\n"
+    },
+    {
+      "input": "295529",
+      "output": "-1\n"
+    },
+    {
+      "input": "441002",
+      "output": "-1\n"
+    },
+    {
+      "input": "424605",
+      "output": "-1\n"
+    },
+    {
+      "input": "300328188139830939",
+      "output": "-1\n"
+    },
+    {
+      "input": "933489",
+      "output": "-1\n"
+    },
+    {
+      "input": "934974",
+      "output": "-1\n"
+    },
+    {
+      "input": "755273034069",
+      "output": "-1\n"
+    },
+    {
+      "input": "339934610794",
+      "output": "-1\n"
+    },
+    {
+      "input": "870164",
+      "output": "-1\n"
+    },
+    {
+      "input": "7",
+      "output": "2 1\n"
+    },
+    {
+      "input": "403959",
+      "output": "-1\n"
+    },
+    {
+      "input": "229054",
+      "output": "-1\n"
+    },
+    {
+      "input": "271494",
+      "output": "-1\n"
+    },
+    {
+      "input": "739427",
+      "output": "-1\n"
+    },
+    {
+      "input": "611721",
+      "output": "-1\n"
+    },
+    {
+      "input": "516815261791",
+      "output": "-1\n"
+    },
+    {
+      "input": "770329192072868817",
+      "output": "-1\n"
+    },
+    {
+      "input": "1",
+      "output": "-1\n"
+    },
+    {
+      "input": "962839",
+      "output": "-1\n"
+    },
+    {
+      "input": "526360081221",
+      "output": "-1\n"
+    },
+    {
+      "input": "16189981213306186",
+      "output": "-1\n"
+    },
+    {
+      "input": "838235",
+      "output": "-1\n"
+    },
+    {
+      "input": "928134890243137027",
+      "output": "-1\n"
+    },
+    {
+      "input": "821873",
+      "output": "-1\n"
+    },
+    {
+      "input": "39977273855577088",
+      "output": "342756 66212\n"
+    },
+    {
+      "input": "2999997000001",
+      "output": "1000000 999999\n"
+    },
+    {
+      "input": "478261892040",
+      "output": "-1\n"
+    },
+    {
+      "input": "794773",
+      "output": "-1\n"
+    },
+    {
+      "input": "632608223031301095",
+      "output": "-1\n"
+    },
+    {
+      "input": "1318578392824806",
+      "output": "-1\n"
+    },
+    {
+      "input": "42451",
+      "output": "-1\n"
+    },
+    {
+      "input": "397",
+      "output": "12 11\n"
+    },
+    {
+      "input": "829764003105716797",
+      "output": "-1\n"
+    },
+    {
+      "input": "262675",
+      "output": "-1\n"
+    },
+    {
+      "input": "558434",
+      "output": "-1\n"
+    },
+    {
+      "input": "27",
+      "output": "3 0\n"
+    },
+    {
+      "input": "999999999999999999",
+      "output": "1000000 1\n"
+    },
+    {
+      "input": "397",
+      "output": "12 11"
+    },
+    {
+      "input": "1",
+      "output": "-1"
+    },
+    {
+      "input": "39977273855577088",
+      "output": "342756 66212"
+    }
+  ],
+  "timeout_sec": 10
+}

@@ -1,0 +1,185 @@
+{
+  "contest_date": "2025-03-15T00:00:00",
+  "contest_id": "abc397",
+  "difficulty": "medium",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc397_b",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "i",
+      "output": "1\n"
+    },
+    {
+      "input": "ioiiooiooiiooiooioioiooiioioiooioiooiioiiooooioooiiiioooiiiioo",
+      "output": "26\n"
+    },
+    {
+      "input": "oiooooo",
+      "output": "5\n"
+    },
+    {
+      "input": "ioiiooioo",
+      "output": "3\n"
+    },
+    {
+      "input": "iiiooiiooioiio",
+      "output": "6\n"
+    },
+    {
+      "input": "ooiiiiooiiooiioiioiioooioooioiioiooiiioiiiiiiiooiiiio",
+      "output": "29\n"
+    },
+    {
+      "input": "oooiooooiiooiiiooooioiio",
+      "output": "14\n"
+    },
+    {
+      "input": "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "output": "100\n"
+    },
+    {
+      "input": "i",
+      "output": "1\n"
+    },
+    {
+      "input": "oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+      "output": "100\n"
+    },
+    {
+      "input": "iiiiiiiiii",
+      "output": "10\n"
+    },
+    {
+      "input": "ooooiiioooiioioooiiiiiiioiooiioooiiioiooooii",
+      "output": "28\n"
+    },
+    {
+      "input": "ioooioooooo",
+      "output": "7\n"
+    },
+    {
+      "input": "iioiioooiooooiiiiiioioiooiiioiiooooioioooooiiiiioiioioiiooioioiiiooioooiiiooiioiiiiioiiiiooioiio",
+      "output": "48\n"
+    },
+    {
+      "input": "iioo",
+      "output": "2\n"
+    },
+    {
+      "input": "oo",
+      "output": "2\n"
+    },
+    {
+      "input": "oiioioiooi",
+      "output": "4\n"
+    },
+    {
+      "input": "ooioiooiooiioiiiiiioiiooooioioioioioiiioi",
+      "output": "17\n"
+    },
+    {
+      "input": "ooi",
+      "output": "3\n"
+    },
+    {
+      "input": "ooi",
+      "output": "3\n"
+    },
+    {
+      "input": "ioioooiiii",
+      "output": "6\n"
+    },
+    {
+      "input": "ooioiiiiio",
+      "output": "6\n"
+    },
+    {
+      "input": "iii",
+      "output": "3\n"
+    },
+    {
+      "input": "oooiiiooooooiiioioiiioiiioooiiioiiioooioooiiooiooioooioooi",
+      "output": "34\n"
+    },
+    {
+      "input": "ooioioiioiii",
+      "output": "6\n"
+    },
+    {
+      "input": "ioi",
+      "output": "1\n"
+    },
+    {
+      "input": "ii",
+      "output": "2\n"
+    },
+    {
+      "input": "ioooii",
+      "output": "4\n"
+    },
+    {
+      "input": "iiiooo",
+      "output": "4\n"
+    },
+    {
+      "input": "o",
+      "output": "1\n"
+    },
+    {
+      "input": "ooioii",
+      "output": "4\n"
+    },
+    {
+      "input": "o",
+      "output": "1\n"
+    },
+    {
+      "input": "ooiooo",
+      "output": "4\n"
+    },
+    {
+      "input": "io",
+      "output": "0\n"
+    },
+    {
+      "input": "ooiiioooioioioooiiioiooiooioioiioioiiiiiioiiooiiooiooioooioooiiooiiiiioiiiiiiioioi",
+      "output": "40\n"
+    },
+    {
+      "input": "oi",
+      "output": "2\n"
+    },
+    {
+      "input": "ooooiioiioiiiioiiioiooooioooooiooiiiioioiiioioioioiioooooiiioiioiiooooooo",
+      "output": "39\n"
+    },
+    {
+      "input": "ioooiioiooioioioooooioooioiooioooiioiooioooiioioiioiiiooooooooiiiioioiooiiooiiiiioooooiooo",
+      "output": "44\n"
+    },
+    {
+      "input": "oiiioiio",
+      "output": "4\n"
+    },
+    {
+      "input": "ioioioiio",
+      "output": "1\n"
+    },
+    {
+      "input": "ioi",
+      "output": "1"
+    },
+    {
+      "input": "iioo",
+      "output": "2"
+    },
+    {
+      "input": "io",
+      "output": "0"
+    }
+  ],
+  "timeout_sec": 10
+}

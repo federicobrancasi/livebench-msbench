@@ -1,0 +1,181 @@
+{
+  "contest_date": "2025-02-15T00:00:00",
+  "contest_id": "abc393",
+  "difficulty": "easy",
+  "entry_point": "__stdin__",
+  "platform": "atcoder",
+  "question_id": "abc393_a",
+  "scenario": "code_generation",
+  "test_style": "stdin",
+  "tests": [
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "fine fine",
+      "output": "4\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "fine fine",
+      "output": "4\n"
+    },
+    {
+      "input": "fine fine",
+      "output": "4\n"
+    },
+    {
+      "input": "fine fine",
+      "output": "4\n"
+    },
+    {
+      "input": "fine fine",
+      "output": "4\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "fine fine",
+      "output": "4\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "fine sick",
+      "output": "3\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "fine fine",
+      "output": "4\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "sick sick",
+      "output": "1\n"
+    },
+    {
+      "input": "fine fine",
+      "output": "4\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2\n"
+    },
+    {
+      "input": "sick fine",
+      "output": "2"
+    },
+    {
+      "input": "fine fine",
+      "output": "4"
+    }
+  ],
+  "timeout_sec": 10
+}

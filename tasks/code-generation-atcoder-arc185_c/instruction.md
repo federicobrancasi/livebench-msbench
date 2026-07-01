@@ -1,0 +1,65 @@
+# Sum of Three Integers
+
+Source: atcoder
+Scenario: code_generation
+Difficulty: hard
+Contest: arc185
+Contest date: 2024-10-13T00:00:00
+
+You are given an integer sequence A = (A_1, A_2, \dots, A_N) and an integer X.
+Print one triple of integers (i, j, k) satisfying all of the following conditions. If no such triple exists, report that fact.
+
+- 1 \leq i \lt j \lt k \leq N
+- A_i + A_j + A_k = X
+
+Input
+
+The input is given from Standard Input in the following format:
+N X
+A_1 A_2 \dots A_N
+
+Output
+
+If there exists an integer triple (i, j, k) satisfying the conditions, print one in the following format. If there are multiple solutions, you may print any of them.
+i j k
+
+If no such triple exists, print -1.
+
+Constraints
+
+
+- 3 \leq N \leq 10^6
+- 1 \leq X \leq 10^6
+- 1 \leq A_i \leq X
+- All input values are integers.
+
+Sample Input 1
+
+5 16
+1 8 5 10 13
+
+Sample Output 1
+
+1 3 4
+
+The triple (i, j, k) = (1, 3, 4) satisfies 1 \leq i \lt j \lt k \leq N and A_i + A_j + A_k = 1 + 5 + 10 = 16 = X.
+
+Sample Input 2
+
+5 20
+1 8 5 10 13
+
+Sample Output 2
+
+-1
+
+Sample Input 3
+
+10 100000
+73766 47718 74148 49218 76721 31902 21994 18880 29598 98917
+
+Sample Output 3
+
+4 6 8
+
+Write your final answer to `/app/solution.py`.
